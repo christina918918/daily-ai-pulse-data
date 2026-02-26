@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "id": "mm3qbfrqcntm4y",
+    "date": "2026-02-26",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "AI and the crisis of confidence in the British state",
+    "summary": "Plus, Keir Starmer neutralises potential Send rebellion",
+    "url": "https://www.ft.com/content/fb52e81c-237f-43d0-a07d-3bd5580ca518"
+  },
+  {
+    "id": "mm3qbfrq67az8e",
+    "date": "2026-02-26",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Nvidia shares fall as blockbuster results fail to dazzle",
+    "summary": "Chief executive Jensen Huang dismisses concerns over how chipmaker’s customers will fund their spending",
+    "url": "https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6"
+  },
+  {
+    "id": "mm3qbfrqy7o5h0",
+    "date": "2026-02-26",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "The challenge of pricing AI’s impact",
+    "summary": "The pace at which developments in the technology are occurring is unlike anything we’ve seen before",
+    "url": "https://www.ft.com/content/599fb2c0-67fa-4d43-9efb-0da3c63dc660"
+  },
+  {
+    "id": "mm3qbfrq7jeziq",
+    "date": "2026-02-26",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Do we really know which jobs are most at risk from AI?",
+    "summary": "How technology changes the world of work is not just a technical question — and never has been",
+    "url": "https://www.ft.com/content/8d3b02a3-c929-46a1-b79e-dbcdb1d10e15"
+  },
+  {
+    "id": "mm3qbfrqj5ocdp",
+    "date": "2026-02-26",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "What is AI ‘distillation’?",
+    "summary": "Shortcut used by Chinese groups lets smaller models learn from bigger, more powerful systems",
+    "url": "https://www.ft.com/content/4ee94860-d8e6-4f99-b59b-899e89ede5d5"
+  },
+  {
+    "id": "mm3qbfrqua3v4h",
+    "date": "2026-02-26",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "UK media groups unite to tackle AI ‘scraping’ of journalism",
+    "summary": "Coalition, including BBC, Sky News and FT, wants to establish shared standards and licensing frameworks for access",
+    "url": "https://www.ft.com/content/2622f8d7-9564-434c-bae6-a0c4c254be49"
+  },
+  {
+    "id": "mm3qbfrquyksb8",
+    "date": "2026-02-26",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "The Halo effect",
+    "summary": "Heavy asset, low obsolescence . . . high returns?",
+    "url": "https://www.ft.com/content/d638092b-48b7-4351-9b8d-3bbd5b7fdfcd"
+  },
+  {
+    "id": "mm3qbfrqt9y2jy",
+    "date": "2026-02-26",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Tech groups turn to more chip-backed loans to fund AI arms race",
+    "summary": "Investors attracted by high yields as companies look to shift debt off their balance sheets",
+    "url": "https://www.ft.com/content/3ea1c95d-468e-4cc6-a221-492243e48a5b"
+  },
+  {
+    "id": "mm3qbfrqi2fn2g",
+    "date": "2026-02-26",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "The Silicon Valley billionaires spending big to write America’s AI rules",
+    "summary": "Midterm election contests poised to become battlegrounds over nascent technology",
+    "url": "https://www.ft.com/content/c1823595-d0f6-49a4-8a10-3d91c92da8f6"
+  },
+  {
+    "id": "mm3qbfrq1s6jot",
+    "date": "2026-02-26",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Consultancies prioritise the human touch",
+    "summary": "Firms will refocus on employees’ skills this year to set them apart from rivals in AI era",
+    "url": "https://www.ft.com/content/a7efddbd-05b5-4c2a-bd52-083f19fc6dd8"
+  },
+  {
+    "id": "mm3qbfrq66d1ri",
+    "date": "2026-02-26",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "AI start-ups cut ‘red tape’ to speed up tasks",
+    "summary": "A number of consultants have left big firms to create their own software companies to automate common and repetitive work",
+    "url": "https://www.ft.com/content/df068853-4bb9-4c5d-8aeb-f3d4b04157d1"
+  },
+  {
+    "id": "mm3qbfrqi22q5x",
+    "date": "2026-02-26",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Drone swarms and deal fever: consultants cash in on Europe’s defence pivot",
+    "summary": "Established contractors have struggled to innovate and expand quickly to meet demand since Ukraine war",
+    "url": "https://www.ft.com/content/2dedb65f-fecc-4a86-9b38-0cf604b5dbd0"
+  },
+  {
+    "id": "mm3qbfrqoq1jlr",
+    "date": "2026-02-26",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Salesforce chief dismisses ‘SaaS-pocalypse’ fears of AI overtaking business software",
+    "summary": "Shares in company that sells software as a service fall after it projects revenue below Wall Street’s expectations",
+    "url": "https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd"
+  }
+]
