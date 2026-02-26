@@ -6,6 +6,7 @@ const path = require('path');
 const { XMLParser } = require('fast-xml-parser');
 
 // ── Sources config ──────────────────────────────────────────────────────────
+// rss: primary URL; rssAlternate: fallback if primary fails
 const SOURCES = [
   {
     name: 'The AI Valley',
@@ -16,8 +17,8 @@ const SOURCES = [
   {
     name: 'The Information',
     type: 'portal',
-    // Primary feed; fallback to RSSHub if blocked
-    rss: 'https://rsshub.app/theinformation/latest',
+    rss: 'https://www.theinformation.com/feed',
+    rssAlternate: 'https://rsshub.app/theinformation/latest',
     company: '',
   },
   {
@@ -60,9 +61,20 @@ function stripHtml(html) {
 
 // ── RSS fetch + parse ────────────────────────────────────────────────────────
 async function fetchRSS(source) {
-  console.log(`Fetching: ${source.name} → ${source.rss}`);
+  const urls = [source.rss, source.rssAlternate].filter(Boolean);
+
+  for (const url of urls) {
+    console.log(`Fetching: ${source.name} → ${url}`);
+    const articles = await tryFetchURL(source, url);
+    if (articles.length > 0 || urls.indexOf(url) === urls.length - 1) return articles;
+    console.log(`  → trying alternate URL…`);
+  }
+  return [];
+}
+
+async function tryFetchURL(source, url) {
   try {
-    const res = await fetch(source.rss, {
+    const res = await fetch(url, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (compatible; DailyAIPulse/1.0)',
         'Accept': 'application/rss+xml, application/xml, text/xml, */*',
