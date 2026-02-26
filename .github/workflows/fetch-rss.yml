@@ -1,0 +1,39 @@
+name: Fetch RSS Feeds
+
+on:
+  schedule:
+    # 6:00 AM Beijing time = 22:00 UTC (previous day)
+    - cron: '0 22 * * *'
+  # Also allow manual trigger for testing
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit articles.json back to repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+        working-directory: ./scripts
+
+      - name: Fetch RSS feeds
+        run: node scripts/fetch-rss.js
+
+      - name: Commit & push articles.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/articles.json
+          # Only commit if there are changes
+          git diff --cached --quiet || git commit -m "chore: update articles $(date -u +%Y-%m-%d)"
+          git push

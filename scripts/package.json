@@ -1,0 +1,8 @@
+{
+  "name": "daily-ai-pulse-scripts",
+  "version": "1.0.0",
+  "description": "RSS fetch scripts for Daily AI Pulse",
+  "dependencies": {
+    "fast-xml-parser": "^4.3.4"
+  }
+}
