@@ -29,14 +29,21 @@ const SOURCES = [
 ];
 
 // ── Helpers ─────────────────────────────────────────────────────────────────
+// Use Beijing time (UTC+8) for all date comparisons
+function toBeijingDateStr(date) {
+  const offset = 8 * 60; // UTC+8 in minutes
+  const local = new Date(date.getTime() + offset * 60 * 1000);
+  return local.toISOString().slice(0, 10);
+}
+
 function todayStr() {
-  return new Date().toISOString().slice(0, 10); // YYYY-MM-DD (UTC)
+  return toBeijingDateStr(new Date()); // YYYY-MM-DD Beijing time
 }
 
 function toDateStr(dateVal) {
   if (!dateVal) return todayStr();
   try {
-    return new Date(dateVal).toISOString().slice(0, 10);
+    return toBeijingDateStr(new Date(dateVal));
   } catch {
     return todayStr();
   }
