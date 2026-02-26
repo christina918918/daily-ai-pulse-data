@@ -63,6 +63,12 @@ function todayStr() {
   return toBeijingDateStr(new Date()); // YYYY-MM-DD Beijing time
 }
 
+function dateOffset(days) {
+  const d = new Date();
+  d.setDate(d.getDate() + days);
+  return toBeijingDateStr(d);
+}
+
 function toDateStr(dateVal) {
   if (!dateVal) return todayStr();
   try {
@@ -129,8 +135,9 @@ async function tryFetchURL(source, url) {
         const pubDate = item.pubDate || item.published || item.updated || item['dc:date'] || '';
         const dateStr = toDateStr(pubDate);
 
-        // Only keep today's articles
-        if (dateStr !== today) return null;
+        // Keep articles from the past 7 days
+        const cutoff = dateOffset(-7);
+        if (dateStr < cutoff || dateStr > today) return null;
 
         const title = stripHtml(item.title?.['#text'] || item.title || '');
         const link = item.link?.['@_href'] || item.link?.href || item.link || item.id || '';
