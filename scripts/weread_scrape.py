@@ -70,6 +70,9 @@ ARTICLES_FILE = OUT_DIR / "articles.json"
 DAILY_FILE    = OUT_DIR / "daily.md"
 STATE_FILE    = OUT_DIR / "state.json"
 
+# 前端读取的统一文章库（与 RSS 文章合并）
+DATA_ARTICLES_FILE = Path(__file__).parent.parent / "data" / "articles.json"
+
 # ═══════════════════════════════════════════════════════════
 # 日志（脱敏：永不输出 token）
 # ═══════════════════════════════════════════════════════════
@@ -253,6 +256,67 @@ def send_to_downstream(articles: list[dict]) -> None:
 
 
 # ═══════════════════════════════════════════════════════════
+# D. 合并到前端统一文章库 data/articles.json
+# ═══════════════════════════════════════════════════════════
+
+def _to_frontend_format(article: dict) -> dict:
+    """把 WeRead 文章格式转换为前端 app.js 期望的格式。"""
+    pub_dt = datetime.fromisoformat(article["publish_time"])
+    if pub_dt.tzinfo is None:
+        pub_dt = pub_dt.replace(tzinfo=timezone.utc)
+    # 转北京时间取日期
+    beijing_date = (pub_dt + timedelta(hours=8)).strftime("%Y-%m-%d")
+    return {
+        "id":         article["_uid"],
+        "date":       beijing_date,
+        "sourceType": "wechat",
+        "sourceName": article["account_name"],
+        "company":    "",
+        "language":   "zh",
+        "title":      article["title"],
+        "summary":    article.get("summary", ""),
+        "url":        article["url"],
+    }
+
+
+def merge_into_data_articles(weread_articles: list[dict]) -> None:
+    """
+    将 WeRead 文章（转换格式后）合并进 data/articles.json。
+    以 URL 去重，已存在的条目不覆盖（保留 RSS 抓取的摘要等字段）。
+    """
+    # 读取现有 data/articles.json
+    existing: list[dict] = []
+    if DATA_ARTICLES_FILE.exists():
+        try:
+            existing = json.loads(DATA_ARTICLES_FILE.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+
+    existing_urls = {a.get("url", "") for a in existing}
+
+    new_entries = [
+        _to_frontend_format(a)
+        for a in weread_articles
+        if a.get("url") and a["url"] not in existing_urls
+    ]
+
+    if not new_entries:
+        log.info("→ data/articles.json：无新增 WeChat 条目")
+        return
+
+    merged = existing + new_entries
+    merged.sort(key=lambda x: x.get("date", ""), reverse=True)
+
+    DATA_ARTICLES_FILE.parent.mkdir(parents=True, exist_ok=True)
+    DATA_ARTICLES_FILE.write_text(
+        json.dumps(merged, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    log.info("→ data/articles.json：新增 %d 篇 WeChat 文章（共 %d 篇）",
+             len(new_entries), len(merged))
+
+
+# ═══════════════════════════════════════════════════════════
 # 主流程
 # ═══════════════════════════════════════════════════════════
 
@@ -349,7 +413,11 @@ def run() -> None:
     save_state(state)
     log.info("→ %s (state 已更新)", STATE_FILE)
 
-    # ── Step 5：推送下游（预留） ──
+    # ── Step 5：合并到前端统一文章库 ──
+    log.info("━━━ Step 5: 合并到 data/articles.json ━━━")
+    merge_into_data_articles(all_articles)
+
+    # ── Step 6：推送下游（预留） ──
     send_to_downstream(today_articles)
 
     log.info(
