@@ -45,6 +45,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Fetch WeRead articles
+        continue-on-error: true   # WeRead cookie 失效时不中断整个 workflow
         env:
           WEREAD_COOKIE: ${{ secrets.WEREAD_COOKIE }}
         run: python scripts/weread_scrape.py
