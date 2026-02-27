@@ -1,5 +1,346 @@
 [
   {
+    "id": "mm49tvr6pxxnkd",
+    "date": "2026-02-27",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "AI will not kill jobs in India’s outsourcing sector, says WNS chief",
+    "summary": "Keshav Murugesh of WNS, part of Capgemini, on how India’s outsourcing services will handle agentic AI",
+    "url": "https://www.ft.com/content/811a4ae0-6770-4314-b1df-2cb375dc1bf8"
+  },
+  {
+    "id": "mm49tvr62mxhb9",
+    "date": "2026-02-27",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "US warns it will axe all Anthropic agreements without Pentagon deal",
+    "summary": "CEO Dario Amodei says start-up ‘cannot in good conscience’ agree to US government’s terms",
+    "url": "https://www.ft.com/content/11d27612-d6c5-4cf7-94dd-f65603549b7f"
+  },
+  {
+    "id": "mm49tvr6locnwe",
+    "date": "2026-02-27",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "The companies behind China’s dancing, joking robots",
+    "summary": "Televised gala offers a showcase and opportunity for the best of Chinese tech",
+    "url": "https://www.ft.com/content/3b44c858-10ce-4edd-b0a8-59a522ff5bb0"
+  },
+  {
+    "id": "mm49tvr6rdhyzn",
+    "date": "2026-02-27",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Jack Dorsey’s Block to cut workforce by ‘nearly half’ as it leans on AI tools",
+    "summary": "Group’s shares surge 25% as CEO says ‘most companies are late’ to realise how much technology will affect employment",
+    "url": "https://www.ft.com/content/50b9952e-ec3b-4fae-874f-c5e8424fcb96"
+  },
+  {
+    "id": "mm49tw0rmv52bw",
+    "date": "2026-02-27",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+    "summary": "Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google’s AI training.",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/"
+  },
+  {
+    "id": "mm49tw0rdcxy37",
+    "date": "2026-02-27",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+    "summary": "New alternatives, “understand” and “ask” buttons in Google Translate help you navigate the complexities of natural language.",
+    "url": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/"
+  },
+  {
+    "id": "mm49tw0r04qdps",
+    "date": "2026-02-27",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Build with Nano Banana 2, our best image generation and editing model",
+    "summary": "Nano Banana 2 (Gemini 3.1 Flash Image) delivers Pro-level intelligence and fidelity for all image applications.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/"
+  },
+  {
+    "id": "mm49tw0r813zoj",
+    "date": "2026-02-27",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+    "summary": "Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/"
+  },
+  {
+    "id": "mm49ucsrqn6ipz",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "给宇树做“大脑”的具身智能公司，融资数亿元，红杉中国投了",
+    "summary": "文｜富充\n  编辑｜苏建勋\n  在我们访谈具身智能公司“中科第五纪”期间，两件事情先后发生。\n  第一件事，是2026年1月，中科第五纪获得宇树科技“核心生态合作伙伴”称号。在To B及工业场景，中科第五纪目前作为宇树机器人的“大脑”模型供应商。\n  第二件事，是中科第五纪在近期接连完成Pre-A及Pre-A+轮融资，两笔交易在一个月之内完成，规模达数亿元。其中，Pre-A轮由红杉中国领投，东方富海跟投；Pre-A+轮由芯能创投、优山资本联合领投，清控金信跟投。\n  中科第五纪创始人兼CEO刘年丰认为，两件事之间存在关联，核心逻辑是一级市场对机器人的认知更务实了。\n  “去年，投资人更倾向通用",
+    "url": "https://36kr.com/p/3700919151538052?f=rss"
+  },
+  {
+    "id": "mm49ucsr4hewz5",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "去年出货10万件、降低打印成本80%，这家高精度金属3D打印公司连融两轮丨36氪首发",
+    "summary": "作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，高精度微米级金属3D打印企业——云耀深维（江苏）科技有限公司（以下简称“云耀深维”）完成了天使轮及Pre-A轮数千万元融资。\n  其天使轮投资方为红杉种子基金、深圳高新投及璞跃中国。Pre-A轮融资由博远资本领投，蓝郡资本跟投。资金主要用于核心技术的迭代研发、产能提升、团队扩充以及市场拓展等。\n  云耀深维成立于2021年，总部及产研基地位于江苏苏州太仓，是一家专注于金属3D打印的科技企业，提供覆盖金属3D打印全尺寸（常规及超高精度金属打印）的设备研发及产品打印的全套解决方案。\n  硬氪了解到，公司核心团队源自德国弗劳恩霍夫激光技术研究所（Fraun",
+    "url": "https://36kr.com/p/3700876701642374?f=rss"
+  },
+  {
+    "id": "mm49ucsr6lwogs",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "8点1氪丨玛莎拉蒂母公司全年净亏损1800亿元人民币；男童发育不良新药引爆股价，长春高新回应；德国总理默茨参访宇树科技",
+    "summary": "今日热点导览\n  德国总理默茨参访宇树科技\n  魅族被曝大量欠款成坏账\n  特斯拉中国官宣5年0息方案\n  携程集团总裁、董事双双辞职\n  微信上线新功能：同一文件多聊转发不重复占存储\n  TOP3大新闻\n  巨亏1800亿元，玛莎拉蒂母公司业绩爆雷\n  全球第四大汽车制造商Stellantis在2025年经历了一场代价沉重的战略转身。该公司2月26日发布的财报显示，全年净亏损高达223亿欧元（以当前汇率计算约为1802亿人民币），这主要源于下半年启动业务重组产生的254亿欧元非常规费用。尽管全年数据承压，但下半年运营已出现回暖信号，营收恢复增长，现金流状况较上半年大幅改善。这家拥有Jeep、",
+    "url": "https://36kr.com/p/3700794963193734?f=rss"
+  },
+  {
+    "id": "mm49ucsrksrmx6",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "沪深两市成交额突破1万亿元",
+    "summary": "36氪获悉，沪深两市成交额突破1万亿元，较上一个交易日此时缩量约274.72亿元。",
+    "url": "https://36kr.com/newsflashes/3700930284892038?f=rss"
+  },
+  {
+    "id": "mm49ucsri6plsz",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "魅族官宣将暂停国内手机新产品自研硬件项目",
+    "summary": "36氪获悉，2月27日，魅族科技发布公告：魅族将暂停国内手机新产品自研硬件项目，并在积极接洽第三方硬件合作伙伴，同时原有业务不受任何影响。魅族公司将积极的全面战略转型，在全新的Al时代，从过去以硬件为主导转向为以Al驱动软件产品为主导的发展方向，并打造以Flyme开放生态系统为基座的良性运转的企业。",
+    "url": "https://36kr.com/newsflashes/3700919736184704?f=rss"
+  },
+  {
+    "id": "mm49ucsrvsxlda",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "增量资金蓄势入市，年内新发基金突破2100亿份",
+    "summary": "2月26日，工银添悦、广发成长甄选、华商核心优选等13只基金均在当日开启认购。而在随后的2月27日至3月底，还有50只新基金“蓄势待发”，即将开启认购，成为新入市的增量资金。从今年以来的情况看，截至2月26日，新成立基金数量已达到228只，合计发行份额突破2100亿份，同比均大幅增长。在业内人士看来，年初基金发行市场的火热与去年权益基金的亮眼表现密切相关。展望后市，A股市场仍有较强支撑因素，乐观行情或持续演绎。（经济参考报）",
+    "url": "https://36kr.com/newsflashes/3700917437263748?f=rss"
+  },
+  {
+    "id": "mm49ucsrr42y3e",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "英伟达上一财年以逾700亿美元巨资投向合作方，竭力巩固AI芯片需求",
+    "summary": "英伟达公司在上一财年大幅加码对合作伙伴与客户的股权投资，动用超过700亿美元现金，试图在竞争日趋激烈的人工智能（AI）芯片市场中巩固需求基础，并维持主导地位。根据公司最新披露的现金流量表，英伟达在该财年购买了406亿美元的可交易证券，以及175亿美元的非流通或私募证券，明显高于上一财年分别为266亿美元和15亿美元的水平，整体规模超过翻倍。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3700913095208577?f=rss"
+  },
+  {
+    "id": "mm49ucsr4fiqf8",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "半导体产业链“涨价潮”持续，多家龙头企业集体提价",
+    "summary": "半导体产业链“涨价潮”持续。年初至今，国内外多家芯片龙头企业陆续提价，涨幅位于10%-80%，覆盖MCU、功率器件等品类。采访获悉，多数企业在调价原因中均提及，上游原材料及关键贵金属价格大幅上涨是本轮提价的主因，而供需格局失衡进一步助推动芯片产品涨价。（财联社）",
+    "url": "https://36kr.com/newsflashes/3700898407591810?f=rss"
+  },
+  {
+    "id": "mm49ucsrg865mt",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "英国：2025年申请英国籍的美国人数量创历史新高",
+    "summary": "英国内政部2月26日公布数据显示，在美国总统特朗普第二任期的头一年，申请英国国籍的美国人数量创下历史新高。数据显示，2025年共有8790名美国人通过登记或归化入籍渠道申请英国公民身份，较2024年的前期高点6192人增加42%。去年第四季度申请人数达到了创纪录的2490人。（界面）",
+    "url": "https://36kr.com/newsflashes/3700888093585027?f=rss"
+  },
+  {
+    "id": "mm49ucsrkumpm2",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "蔚来公司与博世签署战略合作协议",
+    "summary": "36氪获悉，2月25日，蔚来公司与博世签署战略合作协议。双方合作将覆盖蔚来公司旗下三大品牌——NIO蔚来、ONVO乐道与firefly萤火虫，围绕智能电动汽车核心技术领域展开深度协作，合作领域涵盖线控底盘及电池管理等核心技术，包括制动控制、转向系统、驱动系统，以及车身电子与感知模块等领域。",
+    "url": "https://36kr.com/newsflashes/3700867522015105?f=rss"
+  },
+  {
+    "id": "mm49ucsrgd4y9v",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "A股三大指数集体低开，AI算力概念回调",
+    "summary": "36氪获悉，A股三大指数集体低开，沪指低开0.43%，深成指低开0.89%，创业板指低开1.23%；AI算力、半导体回调，特发信息逼近跌停，天孚通信、长飞光纤跌超5%，胜宏科技跌超3%；餐饮旅游、电力走强，赣能股份涨超6%，豫能控股涨超5%。",
+    "url": "https://36kr.com/newsflashes/3700877247049353?f=rss"
+  },
+  {
+    "id": "mm49ucsr1fp1qx",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "央行开展2690亿元7天期逆回购操作",
+    "summary": "36氪获悉，央行公开市场开展2690亿元7天期逆回购操作，操作利率1.40%。Wind数据显示，今日无逆回购到期。",
+    "url": "https://36kr.com/newsflashes/3700874044550786?f=rss"
+  },
+  {
+    "id": "mm49ucsrruynlp",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "恒指开盘涨0.25%，恒生科技指数涨0.15%",
+    "summary": "36氪获悉，恒指开盘涨0.25%，恒生科技指数涨0.15%；消费、传媒板块领涨，老铺黄金、腾讯音乐涨超3%，普拉达涨超2%；半导体、煤炭板块跌幅居前，兆易创新跌超4%，爱芯元智、澜起科技跌超2%。",
+    "url": "https://36kr.com/newsflashes/3700873712430984?f=rss"
+  },
+  {
+    "id": "mm49ucsr6wjd3c",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "人民币兑美元中间价报6.9228",
+    "summary": "36氪获悉，人民币兑美元中间价报6.9228；上一交易日中间价6.9228，上一交易日官方收盘价6.8397，上日夜盘报收6.8500。",
+    "url": "https://36kr.com/newsflashes/3700868135989127?f=rss"
+  },
+  {
+    "id": "mm49ucsrj724fu",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "瑞穗金融拟利用AI在未来十年裁减5000个行政岗位，将员工调岗至销售等部门",
+    "summary": "2月27日消息，日本瑞穗金融集团计划利用人工智能（AI）技术，大幅减少文件审核、数据录入等任务所需的工作量，在未来十年裁减5000个行政岗位，同时提供技能再培训，把这些员工调配到销售、分析等业务支持部门，以提高盈利能力。出于因招聘减少和员工退休导致的自然减员，瑞穗计划最终将行政人员减少至多三分之一。（界面）",
+    "url": "https://36kr.com/newsflashes/3700865671671680?f=rss"
+  },
+  {
+    "id": "mm49ucsr3ltivx",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "意华股份：目前高速连接器产品在手订单充足",
+    "summary": "36氪获悉，意华股份在互动平台表示，目前高速连接器产品在手订单充足，公司根据客户实际情况有序进行订单交付。",
+    "url": "https://36kr.com/newsflashes/3700853966352004?f=rss"
+  },
+  {
+    "id": "mm49ucsrdvm93g",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "现货黄金跌破5170美元",
+    "summary": "36氪获悉，现货黄金跌破5170美元/盎司，日内跌0.24%。",
+    "url": "https://36kr.com/newsflashes/3700860035198599?f=rss"
+  },
+  {
+    "id": "mm49ucsrbhx99z",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "中信证券：中国电池企业在全球动力及储能电池领域仍将保持较强的领先优势",
+    "summary": "36氪获悉，中信证券研报指出，四家海外电池企业（LGES、三星SDI、SKI、Panasonic）2025年第四季度整体盈利环比显著下滑，除Panasonic外，其余三家业绩均为亏损状态，主要在于尽管收入层面受到储能业务的快速发展而实现增长，但北美电动车补贴取消带来的动力电池销量下滑、储能产线前期高昂的运营成本等使利润端承压。展望2026年，预计在动力电池市场，面对中国企业，日韩企业仍将面临份额持续下滑的压力，但后续产品验证、产能建设及订单兑现节奏仍有待观察。中国电池企业在全球动力及储能电池领域仍将保持较强的领先优势，重点推荐海外份额持续提升、盈利能力领先、具备显著估值优势的国内头部电池企业。",
+    "url": "https://36kr.com/newsflashes/3700836893716353?f=rss"
+  },
+  {
+    "id": "mm49ucsr6lxl7s",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "美国能源部长赖特：印度将成为委内瑞拉石油的新买家",
+    "summary": "美国能源部长克里斯·赖特在德克萨斯州对记者发表讲话时表示，印度将成为委内瑞拉石油的新买家。赖特表示，“这些石油大部分会运往美国墨西哥湾沿岸，但也会运往印度、亚洲和欧洲”。当被问及委内瑞拉石油出口或销售是否会增加时，赖特予以肯定答复。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3700823579733640?f=rss"
+  },
+  {
+    "id": "mm49ucss8jcro8",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "中信建投：AI算力需求增长强劲，算力产业链部分公司业绩高增",
+    "summary": "36氪获悉，中信建投研报称，近期，算力板块走势比较纠结。中信建投预计一是因为市场对2027年的需求展望仍存分歧，二是板块持仓较重。中信建投认为调整是机会。目前，AI大模型仍在持续迭代升级，算力需求旺盛，站在中期视角中信建投仍建议持续重视AI板块。一方面，中信建投持续推荐AI算力板块，包括北美算力产业链与国内算力产业链的核心公司；另一方面，中信建投也建议关注AI应用板块，特别是端侧AI Agent的进展。此外，中信建投也建议关注未来可能边际改善的海缆及光纤光缆板块、军工通信及商业航天板块，国内外巨头纷纷加码的量子科技板块。",
+    "url": "https://36kr.com/newsflashes/3700821169860227?f=rss"
+  },
+  {
+    "id": "mm49ucssnk9bjv",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "年内港股IPO募资同比增长超10倍",
+    "summary": "今年以来，港股IPO市场延续火热态势。东方财富Choice数据显示，截至2月26日，年内已有24家企业完成港股IPO，同比增长166.67%，融资额合计892.26亿港元，同比增长1013.59%。市场结构变化成为本轮IPO热潮的显著特征。人工智能、半导体、生物医药等新兴领域企业异军突起，成为港股IPO市场的绝对吸金主角。在众多新兴领域中，AI赛道无疑是驱动本轮IPO热潮的关键引擎。2026年开年，壁仞科技、MINIMAX-WP（稀宇科技）等企业相继登陆港股，受到市场追捧。（证券日报）",
+    "url": "https://36kr.com/newsflashes/3700820379577989?f=rss"
+  },
+  {
+    "id": "mm49ucssin6xq5",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "美联储3月维持利率不变的概率为96%",
+    "summary": "据CME“美联储观察”：美联储到3月降息25个基点的概率为4%，维持利率不变的概率为96.0%。美联储到4月累计降息25个基点的概率17.3%，维持利率不变的概率为82.1%，累计降息50个基点的概率为0.6%。到6月累计降息25个基点的概率为43%。（新浪财经）",
+    "url": "https://36kr.com/newsflashes/3700817854558084?f=rss"
+  },
+  {
+    "id": "mm49ucss56flbj",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "36氪",
+    "company": "",
+    "language": "zh",
+    "title": "两市融资余额增加200.12亿元",
+    "summary": "36氪获悉，截至2月26日，上交所融资余额报13399.57亿元，较前一交易日增加91.24亿元；深交所融资余额报13014.39亿元，较前一交易日增加108.88亿元；两市合计26413.96亿元，较前一交易日增加200.12亿元。",
+    "url": "https://36kr.com/newsflashes/3700842934710148?f=rss"
+  },
+  {
     "id": "mm41eao923hs59",
     "date": "2026-02-27",
     "sourceType": "portal",
@@ -20,6 +361,50 @@
     "title": "Britain’s great data centre balancing act",
     "summary": "Without careful handling, AI power demand could push up electricity prices and sink net zero plans",
     "url": "https://www.ft.com/content/05f182a9-7402-4613-9ef3-eea9a5d9f543"
+  },
+  {
+    "id": "mm49tvul138ud2",
+    "date": "2026-02-26",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+    "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+    "url": "https://openai.com/index/pacific-northwest-national-laboratory"
+  },
+  {
+    "id": "mm49tvul3yrajn",
+    "date": "2026-02-26",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+    "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
+    "url": "https://openai.com/index/figma-partnership"
+  },
+  {
+    "id": "mm49tw0rhr3x9c",
+    "date": "2026-02-26",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "See the whole picture and find the look with Circle to Search",
+    "summary": "We’ve updated Circle to Search so you can now explore multiple items in a single image.",
+    "url": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/"
+  },
+  {
+    "id": "mm49tw0rj84igm",
+    "date": "2026-02-26",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "A more intelligent Android on Samsung Galaxy S26",
+    "summary": "At Samsung Unpacked 2026, we showcased how Samsung Galaxy S26 devices are getting the latest in Android’s AI features.",
+    "url": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/"
   },
   {
     "id": "mm3u1aqnvldbbc",
@@ -484,6 +869,17 @@
     "url": "https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd"
   },
   {
+    "id": "mm49tvuljk96cc",
+    "date": "2026-02-25",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Disrupting malicious uses of AI | February 2026",
+    "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
+    "url": "https://openai.com/index/disrupting-malicious-ai-uses"
+  },
+  {
     "id": "mm3u1aqnlno1zu",
     "date": "2026-02-25",
     "sourceType": "portal",
@@ -638,6 +1034,17 @@
     "url": "https://36kr.com/p/3698430014762633?f=rss"
   },
   {
+    "id": "mm49tvul7936yw",
+    "date": "2026-02-24",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Arvind KC appointed Chief People Officer",
+    "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
+    "url": "https://openai.com/index/arvind-kc-chief-people-officer"
+  },
+  {
     "id": "mm3u1aqnm95o8f",
     "date": "2026-02-24",
     "sourceType": "portal",
@@ -671,6 +1078,28 @@
     "url": "http://www.huxiu.com/article/4835926.html?f=wangzhan"
   },
   {
+    "id": "mm49tvulx1afol",
+    "date": "2026-02-23",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Why we no longer evaluate SWE-bench Verified",
+    "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+    "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified"
+  },
+  {
+    "id": "mm49tvuln93di0",
+    "date": "2026-02-23",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "OpenAI announces Frontier Alliance Partners",
+    "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+    "url": "https://openai.com/index/frontier-alliance-partners"
+  },
+  {
     "id": "mm3u1eypx1rp5h",
     "date": "2026-02-23",
     "sourceType": "wechat",
@@ -680,5 +1109,16 @@
     "title": "炒股2025总结：低频次出手，如何一年翻三倍？",
     "summary": "炒股想赚钱要先学什么？认错。这条视频我想复盘一下我2025年炒股的思路，分析一下在低频次出手的情况下，如何在机构和趋势股上赚钱，同时也想根据同学、朋友亏钱的操作来聊聊普通股民如何减少在股市里亏钱，选择更适合自己的思路。下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
     "url": "http://www.huxiu.com/article/4834710.html?f=wangzhan"
+  },
+  {
+    "id": "mm49tvullsjvyw",
+    "date": "2026-02-20",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Our First Proof submissions",
+    "summary": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
+    "url": "https://openai.com/index/first-proof-submissions"
   }
 ]
