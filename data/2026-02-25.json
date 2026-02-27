@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mm4r5fv0pldtb5",
+    "date": "2026-02-25",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Catastrophising credit?",
+    "summary": "Or time to panic",
+    "url": "https://www.ft.com/content/62d922c9-bac8-4de5-bda9-55bfc29919bc"
+  },
+  {
+    "id": "mm4r5fv01o0yrx",
+    "date": "2026-02-25",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "UK AI start-up Wayve raises $1.2bn from carmakers and Big Tech",
+    "summary": "Self-driving group valued at $8.6bn as it gears up to launch robotaxi service in London this year",
+    "url": "https://www.ft.com/content/181aee87-4815-4a0e-805f-c1d04f0c2f36"
+  },
+  {
+    "id": "mm4r5fzphhi7uj",
+    "date": "2026-02-25",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Disrupting malicious uses of AI | February 2026",
+    "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
+    "url": "https://openai.com/index/disrupting-malicious-ai-uses"
+  }
+]

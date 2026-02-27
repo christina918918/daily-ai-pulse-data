@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mm4r5fzp6hwt03",
+    "date": "2026-02-23",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Why we no longer evaluate SWE-bench Verified",
+    "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+    "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified"
+  },
+  {
+    "id": "mm4r5fzp33e6uj",
+    "date": "2026-02-23",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "OpenAI announces Frontier Alliance Partners",
+    "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+    "url": "https://openai.com/index/frontier-alliance-partners"
+  }
+]
