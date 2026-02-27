@@ -1,23 +1,22 @@
 #!/usr/bin/env python3
 """
-weread_scrape.py — 从微信读书「我的订阅」抓取公众号文章
-使用 WeRead 网页版 Cookie 鉴权，适合 GitHub Actions 定时运行。
+weread_scrape.py — 通过 weread.111965.xyz 中转平台抓取微信公众号文章
+使用 WeRead 移动端扫码登录获取的 vid + JWT Token 鉴权。
 
 ═══════════════════════════════════════════════════════════
-首次使用：只需获取 Cookie（一次性，在本地浏览器操作）
+首次使用：扫码登录获取 Token（一次性操作，有效期约 10 年）
 ═══════════════════════════════════════════════════════════
 
-1. Chrome 打开 https://weread.qq.com 并登录微信
-2. 打开 DevTools (F12) → Network → 找任意一条 i.weread.qq.com 请求
-3. 右键该请求 → Copy → Copy as cURL
-4. 从 cURL 中找到 -H 'Cookie: ...' 那一行，复制完整 Cookie 字符串
-5. 在 GitHub 仓库 → Settings → Secrets and variables → Actions → New secret
-   Name: WEREAD_COOKIE
-   Value: 粘贴第 4 步复制的完整 Cookie 字符串
+1. 在本项目配套的登录页面或 wewe-rss 界面扫码登录微信读书
+2. 获取 vid（数字 ID）和 token（JWT 字符串）
+3. 在 GitHub 仓库 → Settings → Secrets and variables → Actions
+   添加两个 Secret：
+   - WEREAD_VID:   登录返回的 vid（纯数字，如 328863337）
+   - WEREAD_TOKEN: 登录返回的 token（JWT 字符串，eyJhbGci… 开头）
 
 【安全提示】
-- Cookie 只存 GitHub Secrets，绝不放代码或日志
-- Cookie 过期后（一般数月），重复上述步骤更新 WEREAD_COOKIE 即可
+- Token 只存 GitHub Secrets，绝不放代码或日志
+- Token 有效期极长（约 10 年），基本不需要续期
 ═══════════════════════════════════════════════════════════
 """
 
@@ -32,26 +31,33 @@ from pathlib import Path
 import requests
 
 # ═══════════════════════════════════════════════════════════
-# ★ 用户配置区 ★（首次使用按说明填入）
+# 中转平台配置
 # ═══════════════════════════════════════════════════════════
 
-# 订阅列表 API（微信读书「我的订阅」公众号列表）
-SUBS_API_URL = "https://i.weread.qq.com/mp/list"
+RELAY_BASE_URL = "https://weread.111965.xyz"
+RELAY_ARTICLES_URL = RELAY_BASE_URL + "/api/platform/mps/{mp_id}/articles"
 
-# 某公众号文章列表 API 模板（{source_id} 会被替换为实际 mpId）
-FEED_API_URL = "https://i.weread.qq.com/article/list?mpId={source_id}&count=20"
+# 订阅的公众号列表（MP_WXS_{数字id} 格式，来自微信读书书架数据）
+MP_LIST = [
+    {"id": "MP_WXS_3572959446", "name": "晚点LatePost"},
+    {"id": "MP_WXS_2397003540", "name": "华尔街见闻"},
+    {"id": "MP_WXS_3236757533", "name": "量子位"},
+    {"id": "MP_WXS_1432156401", "name": "虎嗅APP"},
+    {"id": "MP_WXS_3264997043", "name": "36氪"},
+    {"id": "MP_WXS_3010319264", "name": "十字路口Crossing"},
+    {"id": "MP_WXS_3220199623", "name": "42章经"},
+    {"id": "MP_WXS_3220072307", "name": "投资实习所"},
+    {"id": "MP_WXS_3073282833", "name": "机器之心"},
+    {"id": "MP_WXS_3869640945", "name": "海外独角兽"},
+    {"id": "MP_WXS_3895742803", "name": "Founder Park"},
+    {"id": "MP_WXS_3075486737", "name": "白鲸出海"},
+]
 
-# 文章列表翻页参数名
-FEED_PAGINATION_PARAM = "maxIndex"
+# ═══════════════════════════════════════════════════════════
+# 抓取参数
+# ═══════════════════════════════════════════════════════════
 
-# [按需] 订阅列表 API 额外 query 参数（留空则不加）
-SUBS_EXTRA_PARAMS: dict = {}
-# 例如：SUBS_EXTRA_PARAMS = {"type": "0", "count": "100"}
-
-# [按需] 每个公众号最多抓取篇数
-ARTICLES_PER_SOURCE = 20
-
-# [按需] 只保留近 N 天的文章
+# 只保留近 N 天的文章
 RECENT_DAYS = 7
 
 # ═══════════════════════════════════════════════════════════
@@ -65,7 +71,7 @@ DAILY_FILE    = OUT_DIR / "daily.md"
 STATE_FILE    = OUT_DIR / "state.json"
 
 # ═══════════════════════════════════════════════════════════
-# 日志（脱敏：永不输出 cookie）
+# 日志（脱敏：永不输出 token）
 # ═══════════════════════════════════════════════════════════
 
 logging.basicConfig(
@@ -76,54 +82,30 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 
-def _safe_headers(headers: dict) -> dict:
-    """返回脱敏副本用于日志，隐藏 Cookie 等敏感字段。"""
+# ═══════════════════════════════════════════════════════════
+# HTTP 工具（带重试）
+# ═══════════════════════════════════════════════════════════
+
+def build_headers(vid: str, token: str) -> dict:
+    """构造中转平台所需的请求头。"""
     return {
-        k: ("***" if k.lower() in ("cookie", "authorization", "set-cookie") else v)
-        for k, v in headers.items()
+        "xid": vid,
+        "Authorization": f"Bearer {token}",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+        "Accept": "application/json",
     }
 
 
-# ═══════════════════════════════════════════════════════════
-# HTTP 工具（带重试 + 鉴权错误检测）
-# ═══════════════════════════════════════════════════════════
-
-def build_session(cookie: str) -> requests.Session:
-    s = requests.Session()
-    s.headers.update({
-        "User-Agent":      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-        "Referer":         "https://weread.qq.com/",
-        "Accept":          "application/json, text/plain, */*",
-        "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
-    })
-    # 把 cookie 字符串解析进 session cookie jar（比手动设 header 更可靠）
-    for part in cookie.split(";"):
-        part = part.strip()
-        if "=" in part:
-            k, v = part.split("=", 1)
-            s.cookies.set(k.strip(), v.strip(), domain="weread.qq.com")
-            s.cookies.set(k.strip(), v.strip(), domain="i.weread.qq.com")
-    return s
-
-
-def get_json(session: requests.Session, url: str,
-             params: dict | None = None,
-             retries: int = 2, backoff: float = 2.0) -> dict | list:
-    """
-    发 GET 请求，自动重试 5xx/timeout，返回解析后的 JSON。
-    401/403 立即报错（提示更新 WEREAD_COOKIE）。
-    """
+def get_json(url: str, headers: dict,
+             retries: int = 2, backoff: float = 2.0) -> list | dict:
+    """发 GET 请求，自动重试 5xx/timeout，返回解析后的 JSON。"""
     last_err: Exception | None = None
     for attempt in range(retries + 1):
         try:
-            log.info("GET %s params=%s", url, params)
-            resp = session.get(url, params=params, timeout=20)
+            resp = requests.get(url, headers=headers, timeout=20)
 
             if resp.status_code in (401, 403):
-                log.error(
-                    "❌ HTTP %d — 响应体: %s",
-                    resp.status_code, resp.text[:300],
-                )
+                log.error("❌ HTTP %d — 响应体: %s", resp.status_code, resp.text[:300])
                 raise RuntimeError(f"auth_error:{resp.status_code}")
 
             if resp.status_code >= 500:
@@ -154,52 +136,7 @@ def get_json(session: requests.Session, url: str,
 
 
 # ═══════════════════════════════════════════════════════════
-# A. 抓取订阅列表
-# ═══════════════════════════════════════════════════════════
-
-def fetch_subscriptions(session: requests.Session) -> list[dict]:
-    """调用 SUBS_API_URL，返回标准化的订阅源列表。"""
-    data = get_json(session, SUBS_API_URL, params=SUBS_EXTRA_PARAMS or None)
-
-    # 兼容多种常见响应结构（WeRead 返回 "mps" 或 "mpList"）
-    raw_list = (
-        data.get("mps")
-        or data.get("subscriptions")
-        or data.get("mpList")
-        or data.get("sources")
-        or data.get("items")
-        or data.get("list")
-        or data.get("data")
-        or (data if isinstance(data, list) else [])
-    )
-
-    if not raw_list:
-        log.warning("⚠️  订阅列表为空。原始响应字段：%s", list(data.keys()) if isinstance(data, dict) else type(data))
-        return []
-
-    result = []
-    for src in raw_list:
-        sid = str(
-            src.get("id") or src.get("mpId") or src.get("sourceId")
-            or src.get("vid") or src.get("bookId") or ""
-        )
-        name = (
-            src.get("name") or src.get("title") or src.get("mpName")
-            or src.get("nickName") or sid
-        )
-        result.append({
-            "id":    sid,
-            "name":  name,
-            "cover": src.get("cover") or src.get("avatar") or src.get("icon") or "",
-            "intro": src.get("intro") or src.get("desc") or src.get("description") or "",
-        })
-
-    log.info("✅ 订阅公众号 %d 个", len(result))
-    return result
-
-
-# ═══════════════════════════════════════════════════════════
-# B. 抓取单个公众号文章列表
+# A. 抓取单个公众号文章列表
 # ═══════════════════════════════════════════════════════════
 
 def _parse_pub_time(raw) -> datetime:
@@ -214,79 +151,54 @@ def _parse_pub_time(raw) -> datetime:
     return datetime.now(timezone.utc)
 
 
-def fetch_articles_for_source(
-    session: requests.Session,
-    source: dict,
-    max_count: int = ARTICLES_PER_SOURCE,
-) -> list[dict]:
-    """对一个订阅源调用 FEED_API_URL，返回文章列表。"""
-    source_id = source["id"]
-    url = FEED_API_URL.replace("{source_id}", source_id)
+def fetch_articles_for_mp(mp: dict, headers: dict) -> list[dict]:
+    """
+    调用中转平台 API 获取单个公众号的文章列表。
+    返回标准化的文章列表。
+    """
+    mp_id = mp["id"]
+    mp_name = mp["name"]
+    url = RELAY_ARTICLES_URL.format(mp_id=mp_id)
 
-    articles: list[dict] = []
-    offset = 0
+    try:
+        data = get_json(url, headers)
+    except RuntimeError as e:
+        if "auth_error" in str(e):
+            raise
+        log.warning("  ⚠️  跳过 [%s]：%s", mp_name, e)
+        return []
 
-    while len(articles) < max_count:
-        try:
-            data = get_json(session, url, params={FEED_PAGINATION_PARAM: offset})
-        except RuntimeError as e:
-            if "auth_error" in str(e):
-                raise
-            log.warning("  ⚠️  跳过 [%s]：%s", source["name"], e)
-            break
+    if not isinstance(data, list):
+        log.warning("  ⚠️  [%s] 响应格式异常：%s", mp_name, type(data))
+        return []
 
-        # 兼容多种常见响应结构（WeRead 返回 "articles" 或 "list"）
-        items = (
-            data.get("articles")
-            or data.get("papers")
-            or data.get("pubs")
-            or data.get("article")
-            or data.get("items")
-            or data.get("list")
-            or (data if isinstance(data, list) else [])
-        )
-        if not items:
-            break
+    if not data:
+        log.info("  [%s] 暂无文章（可能尚未同步）", mp_name)
+        return []
 
-        for item in items:
-            title = item.get("title") or item.get("name") or ""
-            if not title:
-                continue
+    articles = []
+    for item in data:
+        title = item.get("title", "").strip()
+        if not title:
+            continue
 
-            # URL：优先 mp.weixin.qq.com 链接
-            url_val = (
-                item.get("url") or item.get("link")
-                or item.get("jumpUrl") or item.get("readUrl") or ""
-            )
+        article_url = item.get("url", "")
+        pub_dt = _parse_pub_time(item.get("publishTime", 0))
+        pic_url = item.get("picUrl", "")
 
-            pub_dt = _parse_pub_time(
-                item.get("publishTime") or item.get("publish_time")
-                or item.get("updateTime") or item.get("createTime") or 0
-            )
+        articles.append({
+            "account_name": mp_name,
+            "account_id":   mp_id,
+            "title":        title,
+            "url":          article_url,
+            "pic_url":      pic_url,
+            "publish_time": pub_dt.isoformat(),
+            "summary":      "",
+            "_uid":         _uid(mp_id, title, pub_dt.isoformat()),
+        })
 
-            summary = (
-                item.get("intro") or item.get("desc") or item.get("summary")
-                or item.get("pureDescText") or ""
-            )
-
-            articles.append({
-                "account_name": source["name"],
-                "account_id":   source_id,
-                "title":        title,
-                "url":          url_val,
-                "publish_time": pub_dt.isoformat(),
-                "summary":      summary[:200],
-                "_uid":         _uid(source_id, title, pub_dt.isoformat()),
-            })
-
-        # 若本批返回 < 10 条，说明已到末页
-        if len(items) < 10:
-            break
-        offset += len(items)
-        time.sleep(0.3)   # 避免请求过快
-
-    log.info("  [%s] 抓到 %d 篇", source["name"], len(articles))
-    return articles[:max_count]
+    log.info("  [%s] 抓到 %d 篇", mp_name, len(articles))
+    return articles
 
 
 def _uid(account_id: str, title: str, pub_time: str) -> str:
@@ -296,7 +208,7 @@ def _uid(account_id: str, title: str, pub_time: str) -> str:
 
 
 # ═══════════════════════════════════════════════════════════
-# C. 状态管理（增量模式）
+# B. 状态管理（增量模式）
 # ═══════════════════════════════════════════════════════════
 
 def load_state() -> dict:
@@ -316,20 +228,13 @@ def save_state(state: dict) -> None:
 
 
 # ═══════════════════════════════════════════════════════════
-# D. 预留：推送到下游系统
+# C. 预留：推送到下游系统
 # ═══════════════════════════════════════════════════════════
 
 def send_to_downstream(articles: list[dict]) -> None:
     """
     预留接口：将今日文章推送到飞书 / Notion / 自定义 webhook 等。
     TODO: 取消注释并实现推送逻辑。
-
-    payload 格式示例：
-    {
-        "date": "2026-02-27",
-        "count": 12,
-        "articles": [{"title":..., "url":..., "account_name":..., "publish_time":...}, ...]
-    }
     """
     if not articles:
         return
@@ -352,38 +257,39 @@ def send_to_downstream(articles: list[dict]) -> None:
 # ═══════════════════════════════════════════════════════════
 
 def run() -> None:
-    # ── 读取 Cookie（来自 GitHub Secrets 注入的环境变量）──
-    cookie = os.environ.get("WEREAD_COOKIE", "").strip()
-    if not cookie:
+    # ── 读取鉴权信息（来自 GitHub Secrets 注入的环境变量）──
+    vid = os.environ.get("WEREAD_VID", "").strip()
+    token = os.environ.get("WEREAD_TOKEN", "").strip()
+
+    if not vid or not token:
         raise RuntimeError(
-            "环境变量 WEREAD_COOKIE 未设置！\n"
-            "GitHub → 仓库 Settings → Secrets and variables → Actions → New secret\n"
-            "Name: WEREAD_COOKIE\n"
-            "Value: 从 DevTools Network 请求的 Cookie 字段粘贴完整字符串"
+            "环境变量 WEREAD_VID 或 WEREAD_TOKEN 未设置！\n"
+            "GitHub → 仓库 Settings → Secrets and variables → Actions\n"
+            "  WEREAD_VID:   扫码登录返回的 vid（纯数字）\n"
+            "  WEREAD_TOKEN: 扫码登录返回的 token（JWT 字符串）"
         )
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    session  = build_session(cookie)
+    headers  = build_headers(vid, token)
     state    = load_state()
     cutoff   = datetime.now(timezone.utc) - timedelta(days=RECENT_DAYS)
     today_cn = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d")
 
-    # ── Step 1：订阅列表 ──
-    log.info("━━━ Step 1: 获取订阅列表 ━━━")
-    subscriptions = fetch_subscriptions(session)
+    # ── Step 1：保存订阅列表 ──
+    log.info("━━━ Step 1: 保存订阅列表 ━━━")
     SUBS_FILE.write_text(
-        json.dumps(subscriptions, ensure_ascii=False, indent=2),
+        json.dumps(MP_LIST, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
-    log.info("→ %s (%d 个公众号)", SUBS_FILE, len(subscriptions))
+    log.info("→ %s (%d 个公众号)", SUBS_FILE, len(MP_LIST))
 
     # ── Step 2：文章抓取 ──
     log.info("━━━ Step 2: 抓取文章 ━━━")
     all_articles: list[dict] = []
     seen_uids:    set[str]   = set()
 
-    for source in subscriptions:
-        articles = fetch_articles_for_source(session, source)
+    for mp in MP_LIST:
+        articles = fetch_articles_for_mp(mp, headers)
 
         for a in articles:
             uid = a["_uid"]
@@ -393,7 +299,6 @@ def run() -> None:
                 pub_dt = datetime.fromisoformat(a["publish_time"])
             except ValueError:
                 continue
-            # 兼容 naive datetime
             if pub_dt.tzinfo is None:
                 pub_dt = pub_dt.replace(tzinfo=timezone.utc)
             if pub_dt < cutoff:
@@ -401,11 +306,10 @@ def run() -> None:
             seen_uids.add(uid)
             all_articles.append(a)
 
-        # 记录最新发布时间（增量用）
         if articles:
             latest = max(a["publish_time"] for a in articles)
-            if not state.get(source["id"]) or latest > state[source["id"]]:
-                state[source["id"]] = latest
+            if not state.get(mp["id"]) or latest > state[mp["id"]]:
+                state[mp["id"]] = latest
 
         time.sleep(0.5)   # 公共礼貌间隔
 
@@ -434,9 +338,8 @@ def run() -> None:
     for acc, arts in sorted(by_account.items()):
         lines.append(f"## {acc}\n")
         for a in arts:
-            link    = a["url"] or "#"
-            summary = f" — {a['summary']}" if a.get("summary") else ""
-            lines.append(f"- [{a['title']}]({link}){summary}")
+            link = a["url"] or "#"
+            lines.append(f"- [{a['title']}]({link})")
         lines.append("")
 
     DAILY_FILE.write_text("\n".join(lines), encoding="utf-8")
