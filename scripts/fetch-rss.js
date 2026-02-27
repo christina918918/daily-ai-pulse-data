@@ -5,6 +5,31 @@ const fs = require('fs');
 const path = require('path');
 const { XMLParser } = require('fast-xml-parser');
 
+// ── AI Summarization (optional — only if ANTHROPIC_API_KEY is set) ───────────
+let Anthropic;
+try { Anthropic = require('@anthropic-ai/sdk'); } catch { Anthropic = null; }
+const anthropic = (Anthropic && process.env.ANTHROPIC_API_KEY)
+  ? new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY })
+  : null;
+
+async function aiSummarize(title, rawDesc, language) {
+  if (!anthropic || !rawDesc || rawDesc.length <= 120) return rawDesc;
+  try {
+    const lang = language === 'zh' ? '中文' : 'English';
+    const msg = await anthropic.messages.create({
+      model: 'claude-3-5-haiku-20241022',
+      max_tokens: 80,
+      messages: [{
+        role: 'user',
+        content: `Summarize in 1 sentence, max 100 chars, in ${lang}. No quotes.\nTitle: ${title}\nText: ${rawDesc.slice(0, 400)}`,
+      }],
+    });
+    return msg.content[0].text.trim();
+  } catch (e) {
+    return rawDesc; // fallback to original on error
+  }
+}
+
 // ── Sources config ──────────────────────────────────────────────────────────
 // rss: primary URL; rssAlternate: fallback if primary fails
 const SOURCES = [
@@ -16,6 +41,52 @@ const SOURCES = [
     rssAlternate: 'https://rsshub.app/theinformation/latest' },
   { name: 'Financial Times',  type: 'portal', language: 'en', company: '',
     rss: 'https://www.ft.com/artificial-intelligence?format=rss' },
+
+  // ── Company Official Blogs ────────────────────────────────────────────────
+  { name: 'OpenAI',           type: 'company', language: 'en', company: 'OpenAI',
+    rss: 'https://openai.com/news/rss.xml' },
+  { name: 'Anthropic',        type: 'company', language: 'en', company: 'Anthropic',
+    rss: 'https://rsshub.app/anthropic/news' },
+  { name: 'Google Gemini',    type: 'company', language: 'en', company: 'Google Gemini',
+    rss: 'https://blog.google/technology/ai/rss/' },
+  { name: 'Meta AI',          type: 'company', language: 'en', company: 'Meta',
+    rss: 'https://rsshub.app/meta/ai/blog' },
+  { name: 'DeepSeek',         type: 'company', language: 'en', company: 'Deepseek',
+    rss: 'https://github.com/deepseek-ai.atom' },
+  { name: 'Kimi / Moonshot',  type: 'company', language: 'zh', company: 'Kimi',
+    rss: 'https://github.com/MoonshotAI.atom' },
+  { name: 'MiniMax',          type: 'company', language: 'zh', company: 'Minimax',
+    rss: 'https://github.com/MiniMax-AI.atom' },
+  { name: 'Zhipu AI',         type: 'company', language: 'zh', company: 'Zhipu',
+    rss: 'https://github.com/zai-org.atom' },
+  { name: 'ByteDance Seed',   type: 'company', language: 'en', company: 'ByteDance Seed',
+    rss: 'https://github.com/ByteDance-Seed.atom' },
+  { name: 'Alibaba Qwen',     type: 'company', language: 'zh', company: 'Alibaba Tongyi',
+    rss: 'https://qwenlm.github.io/zh/blog/index.xml' },
+  { name: 'Tencent Hunyuan',  type: 'company', language: 'zh', company: 'Tencent Hunyuan',
+    rss: 'https://rsshub.app/wechat/official/腾讯混元大模型' },
+
+  // ── Twitter / X KOLs (via RSSHub) ─────────────────────────────────────────
+  { name: '@sama',            type: 'twitter', language: 'en', company: 'OpenAI',
+    rss: 'https://rsshub.app/twitter/user/sama' },
+  { name: '@karpathy',        type: 'twitter', language: 'en', company: '',
+    rss: 'https://rsshub.app/twitter/user/karpathy' },
+  { name: '@demishassabis',   type: 'twitter', language: 'en', company: 'Google Gemini',
+    rss: 'https://rsshub.app/twitter/user/demishassabis' },
+  { name: '@AndrewYNg',       type: 'twitter', language: 'en', company: '',
+    rss: 'https://rsshub.app/twitter/user/AndrewYNg' },
+  { name: '@emollick',        type: 'twitter', language: 'en', company: '',
+    rss: 'https://rsshub.app/twitter/user/emollick' },
+  { name: '@swyx',            type: 'twitter', language: 'en', company: '',
+    rss: 'https://rsshub.app/twitter/user/swyx' },
+  { name: '@gdb',             type: 'twitter', language: 'en', company: 'OpenAI',
+    rss: 'https://rsshub.app/twitter/user/gdb' },
+  { name: '@elonmusk',        type: 'twitter', language: 'en', company: '',
+    rss: 'https://rsshub.app/twitter/user/elonmusk' },
+  { name: '@NatFriedman',     type: 'twitter', language: 'en', company: '',
+    rss: 'https://rsshub.app/twitter/user/NatFriedman' },
+  { name: '@ycombinator',     type: 'twitter', language: 'en', company: '',
+    rss: 'https://rsshub.app/twitter/user/ycombinator' },
 
   // ── WeChat / Chinese Media ────────────────────────────────────────────────
   { name: '白鲸出海',          type: 'wechat', language: 'zh', company: '',
@@ -196,6 +267,14 @@ async function main() {
   // Deduplicate by URL
   const existingUrls = new Set(existing.map(a => a.url));
   const newUnique = allNew.filter(a => !existingUrls.has(a.url));
+
+  // AI summarization for new articles (if ANTHROPIC_API_KEY is set)
+  if (anthropic && newUnique.length > 0) {
+    console.log(`\nSummarizing ${newUnique.length} new articles with Claude Haiku…`);
+    for (const article of newUnique) {
+      article.summary = await aiSummarize(article.title, article.summary, article.language);
+    }
+  }
 
   // Keep last 30 days only
   const cutoff = new Date();
