@@ -8,8 +8,13 @@ const { XMLParser } = require('fast-xml-parser');
 // ── AI Summarization (optional — only if ANTHROPIC_API_KEY is set) ───────────
 let Anthropic;
 try { Anthropic = require('@anthropic-ai/sdk'); } catch { Anthropic = null; }
+
+const anthropicOpts = { apiKey: process.env.ANTHROPIC_API_KEY || 'anything' };
+if (process.env.ANTHROPIC_BASE_URL) anthropicOpts.baseURL = process.env.ANTHROPIC_BASE_URL;
+const AI_MODEL = process.env.AI_MODEL || 'claude-opus-4-6';
+
 const anthropic = (Anthropic && process.env.ANTHROPIC_API_KEY)
-  ? new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY })
+  ? new Anthropic(anthropicOpts)
   : null;
 
 async function aiSummarize(title, rawDesc, language) {
@@ -17,7 +22,7 @@ async function aiSummarize(title, rawDesc, language) {
   try {
     const lang = language === 'zh' ? '中文' : 'English';
     const msg = await anthropic.messages.create({
-      model: 'claude-3-5-haiku-20241022',
+      model: AI_MODEL,
       max_tokens: 80,
       messages: [{
         role: 'user',
