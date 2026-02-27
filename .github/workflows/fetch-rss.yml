@@ -1,4 +1,4 @@
-name: 每日抓取（RSS + WeRead）
+name: 每日抓取（RSS）
 
 on:
   schedule:
@@ -11,7 +11,7 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 15
 
     steps:
       - name: Checkout
@@ -35,23 +35,7 @@ jobs:
           AI_MODEL: ${{ secrets.AI_MODEL }}
         run: node scripts/fetch-rss.js
 
-      - name: Setup Python 3.11
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-          cache: 'pip'
-
-      - name: Install Python dependencies
-        run: pip install -r requirements.txt
-
-      - name: Fetch WeRead articles
-        continue-on-error: true
-        env:
-          WEREAD_VID: ${{ secrets.WEREAD_VID }}
-          WEREAD_TOKEN: ${{ secrets.WEREAD_TOKEN }}
-        run: python scripts/weread_scrape.py
-
-      - name: Commit & push all results
+      - name: Commit & push results
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

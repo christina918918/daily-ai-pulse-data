@@ -91,7 +91,15 @@ const SOURCES = [
   { name: '@ycombinator',     type: 'twitter', language: 'en', company: '',
     rss: 'https://rsshub.app/twitter/user/ycombinator' },
 
-  // WeChat accounts are fetched via weread_scrape.py (WeRead relay) — not RSS
+  // ── WeChat (via wechat2rss.xlab.app) ─────────────────────────────────────
+  { name: '量子位',   type: 'wechat', language: 'zh', company: '',
+    rss: 'https://wechat2rss.xlab.app/feed/7131b577c61365cb47e81000738c10d872685908.xml' },
+  { name: '机器之心', type: 'wechat', language: 'zh', company: '',
+    rss: 'https://wechat2rss.xlab.app/feed/51e92aad2728acdd1fda7314be32b16639353001.xml' },
+  { name: '新智元',   type: 'wechat', language: 'zh', company: '',
+    rss: 'https://wechat2rss.xlab.app/feed/ede30346413ea70dbef5d485ea5cbb95cca446e7.xml' },
+  { name: '42章经',   type: 'wechat', language: 'zh', company: '',
+    rss: 'https://wechat2rss.xlab.app/feed/31436fcc3bba8c2c2a9337a163afcb3b5a57a0a0.xml' },
 ];
 
 // ── Helpers ─────────────────────────────────────────────────────────────────
