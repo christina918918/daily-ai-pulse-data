@@ -1,5 +1,104 @@
 [
   {
+    "id": "mm5gkoqdhfe3nu",
+    "date": "2026-02-27",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Latest Isa rates",
+    "summary": "Up-to-date tax-efficient savings dealsInvestments",
+    "url": "https://www.ft.com/content/75ba3055-625c-4cb5-894b-0696a38f5e79?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mm5gkoqd85wb02",
+    "date": "2026-02-27",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "BMW to put humanoid robots on production line at German plant",
+    "summary": "Group joins Tesla and other carmakers as industry turns to AI-powered robots to cut labour and manufacturing costsArtificial intelligence",
+    "url": "https://www.ft.com/content/2f7b77d0-e4d7-4bb2-b106-7e7199e6c312?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mm5gkoqd43ouye",
+    "date": "2026-02-27",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "OpenAI secures up to $110bn in record funding deal",
+    "summary": "Sam Altman’s $730bn start-up restocks its war chest for battle with Anthropic and GoogleTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/33364b58-5123-4c96-b2df-4a4be85d4d0f?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mm5gkoqd2h3rhm",
+    "date": "2026-02-27",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Big Tech workers press bosses to back Anthropic in Pentagon clash",
+    "summary": "Amazon, Google and Microsoft staff urge their executives to adopt tough AI guardrails and refuse any defence contractsTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/7bbc4ad3-57f4-4cfd-b791-e50e625c2e0e?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mm5gkoqdseq1j6",
+    "date": "2026-02-27",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "US asset managers diverge from foreign rivals on climate",
+    "summary": "Net zero alliance relaunches with top US names missing but European and Japanese peers still on boardInvestments",
+    "url": "https://www.ft.com/content/8a0f9621-2175-407a-97a8-0d22eee87144?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mm5gkoteb73weq",
+    "date": "2026-02-27",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Scaling AI for everyone",
+    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+    "url": "https://openai.com/index/scaling-ai-for-everyone"
+  },
+  {
+    "id": "mm5gkotepvjeba",
+    "date": "2026-02-27",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Joint Statement from OpenAI and Microsoft",
+    "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+    "url": "https://openai.com/index/continuing-microsoft-partnership"
+  },
+  {
+    "id": "mm5gkoteq341dy",
+    "date": "2026-02-27",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "OpenAI and Amazon announce strategic partnership",
+    "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+    "url": "https://openai.com/index/amazon-partnership"
+  },
+  {
+    "id": "mm5gkote00mbb2",
+    "date": "2026-02-27",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+    "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+    "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock"
+  },
+  {
     "id": "mm4tgyjv0g86s9",
     "date": "2026-02-27",
     "sourceType": "portal",
