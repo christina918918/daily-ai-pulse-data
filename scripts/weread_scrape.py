@@ -91,12 +91,18 @@ def _safe_headers(headers: dict) -> dict:
 def build_session(cookie: str) -> requests.Session:
     s = requests.Session()
     s.headers.update({
-        "Cookie":          cookie,
         "User-Agent":      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         "Referer":         "https://weread.qq.com/",
         "Accept":          "application/json, text/plain, */*",
         "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
     })
+    # 把 cookie 字符串解析进 session cookie jar（比手动设 header 更可靠）
+    for part in cookie.split(";"):
+        part = part.strip()
+        if "=" in part:
+            k, v = part.split("=", 1)
+            s.cookies.set(k.strip(), v.strip(), domain="weread.qq.com")
+            s.cookies.set(k.strip(), v.strip(), domain="i.weread.qq.com")
     return s
 
 
@@ -115,10 +121,8 @@ def get_json(session: requests.Session, url: str,
 
             if resp.status_code in (401, 403):
                 log.error(
-                    "❌ HTTP %d：Cookie 可能已过期。"
-                    "请重新登录 weread.qq.com，复制 Cookie，"
-                    "更新 GitHub Secret WEREAD_COOKIE。",
-                    resp.status_code,
+                    "❌ HTTP %d — 响应体: %s",
+                    resp.status_code, resp.text[:300],
                 )
                 raise RuntimeError(f"auth_error:{resp.status_code}")
 
