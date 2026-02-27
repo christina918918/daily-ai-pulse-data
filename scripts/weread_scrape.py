@@ -92,7 +92,7 @@ def build_session(cookie: str) -> requests.Session:
     s = requests.Session()
     s.headers.update({
         "Cookie":          cookie,
-        "User-Agent":      "WeRead/7.0.7 CFNetwork/1494.0.7 Darwin/23.4.0",
+        "User-Agent":      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         "Referer":         "https://weread.qq.com/",
         "Accept":          "application/json, text/plain, */*",
         "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
