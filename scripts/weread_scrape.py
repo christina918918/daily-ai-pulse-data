@@ -68,8 +68,8 @@ ARTICLES_FILE      = OUT_DIR / "articles.json"
 DAILY_FILE         = OUT_DIR / "daily.md"
 STATE_FILE         = OUT_DIR / "state.json"
 
-# 前端读取的统一文章库（与 RSS 文章合并）
-DATA_ARTICLES_FILE = Path(__file__).parent.parent / "data" / "articles.json"
+# 前端按日期读取的文章目录（每天一个 YYYY-MM-DD.json 文件）
+DATA_DIR = Path(__file__).parent.parent / "data"
 
 # ═══════════════════════════════════════════════════════════
 # 日志（脱敏：永不输出 token）
@@ -227,34 +227,46 @@ def _to_frontend_format(article: dict) -> dict:
     }
 
 
-def merge_into_data_articles(weread_articles: list[dict]) -> None:
-    existing: list[dict] = []
-    if DATA_ARTICLES_FILE.exists():
-        try:
-            existing = json.loads(DATA_ARTICLES_FILE.read_text(encoding="utf-8"))
-        except Exception:
-            pass
+def merge_into_data_files(weread_articles: list[dict]) -> None:
+    """将 WeRead 文章按日期写入 data/YYYY-MM-DD.json，与 RSS 文章合并。"""
+    # 按北京日期分组
+    by_date: dict[str, list] = {}
+    for a in weread_articles:
+        fe = _to_frontend_format(a)
+        by_date.setdefault(fe["date"], []).append(fe)
 
-    existing_urls = {a.get("url", "") for a in existing}
-    new_entries = [
-        _to_frontend_format(a)
-        for a in weread_articles
-        if a.get("url") and a["url"] not in existing_urls
-    ]
-
-    if not new_entries:
-        log.info("→ data/articles.json：无新增 WeChat 条目")
+    if not by_date:
+        log.info("→ data/：无新增 WeChat 条目")
         return
 
-    merged = existing + new_entries
-    merged.sort(key=lambda x: x.get("date", ""), reverse=True)
-    DATA_ARTICLES_FILE.parent.mkdir(parents=True, exist_ok=True)
-    DATA_ARTICLES_FILE.write_text(
-        json.dumps(merged, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
-    log.info("→ data/articles.json：新增 %d 篇 WeChat 文章（共 %d 篇）",
-             len(new_entries), len(merged))
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    total_new = 0
+
+    for date_str, articles in by_date.items():
+        day_file = DATA_DIR / f"{date_str}.json"
+
+        # 读取已有当天文件
+        existing: list[dict] = []
+        if day_file.exists():
+            try:
+                existing = json.loads(day_file.read_text(encoding="utf-8"))
+            except Exception:
+                pass
+
+        existing_urls = {a.get("url", "") for a in existing}
+        new_entries = [a for a in articles if a.get("url") and a["url"] not in existing_urls]
+
+        if not new_entries:
+            continue
+
+        merged = existing + new_entries
+        merged.sort(key=lambda x: x.get("date", ""), reverse=True)
+        day_file.write_text(json.dumps(merged, ensure_ascii=False, indent=2), encoding="utf-8")
+        total_new += len(new_entries)
+        log.info("→ data/%s.json：新增 %d 篇 WeChat（共 %d 篇）",
+                 date_str, len(new_entries), len(merged))
+
+    log.info("→ 共更新 %d 天文件，新增 %d 篇 WeChat 文章", len(by_date), total_new)
 
 
 # ═══════════════════════════════════════════════════════════
@@ -356,9 +368,9 @@ def run() -> None:
     save_state(state)
     log.info("→ %s (state 已更新)", STATE_FILE)
 
-    # ── Step 5：合并到前端统一文章库 ──
-    log.info("━━━ Step 5: 合并到 data/articles.json ━━━")
-    merge_into_data_articles(all_articles)
+    # ── Step 5：合并到前端按日期文章库 ──
+    log.info("━━━ Step 5: 合并到 data/YYYY-MM-DD.json ━━━")
+    merge_into_data_files(all_articles)
 
     # ── Step 6：推送下游（预留） ──
     send_to_downstream(today_articles)

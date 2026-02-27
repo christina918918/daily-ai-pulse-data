@@ -250,7 +250,8 @@ async function tryFetchURL(source, url) {
 
 // ── Main ─────────────────────────────────────────────────────────────────────
 async function main() {
-  console.log(`\n=== Daily AI Pulse RSS Fetch — ${todayStr()} ===\n`);
+  const today = todayStr();
+  console.log(`\n=== Daily AI Pulse RSS Fetch — ${today} ===\n`);
 
   const allNew = [];
   for (const source of SOURCES) {
@@ -258,41 +259,45 @@ async function main() {
     allNew.push(...articles);
   }
 
-  // Load existing articles.json (keeps history)
-  const dataPath = path.join(__dirname, '..', 'data', 'articles.json');
-  let existing = [];
-  if (fs.existsSync(dataPath)) {
-    try {
-      existing = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
-    } catch {
-      existing = [];
-    }
+  // Group fetched articles by date
+  const byDate = {};
+  for (const a of allNew) {
+    (byDate[a.date] = byDate[a.date] || []).push(a);
   }
 
-  // Deduplicate by URL
-  const existingUrls = new Set(existing.map(a => a.url));
-  const newUnique = allNew.filter(a => !existingUrls.has(a.url));
+  const dataDir = path.join(__dirname, '..', 'data');
+  fs.mkdirSync(dataDir, { recursive: true });
 
-  // AI summarization for new articles (if ANTHROPIC_API_KEY is set)
-  if (anthropic && newUnique.length > 0) {
-    console.log(`\nSummarizing ${newUnique.length} new articles with Claude Haiku…`);
-    for (const article of newUnique) {
-      article.summary = await aiSummarize(article.title, article.summary, article.language);
+  let totalNew = 0;
+
+  for (const [dateStr, articles] of Object.entries(byDate)) {
+    const dayPath = path.join(dataDir, `${dateStr}.json`);
+
+    // Load existing day file
+    let existing = [];
+    if (fs.existsSync(dayPath)) {
+      try { existing = JSON.parse(fs.readFileSync(dayPath, 'utf8')); } catch { existing = []; }
     }
+
+    // Deduplicate by URL
+    const existingUrls = new Set(existing.map(a => a.url));
+    const newUnique = articles.filter(a => !existingUrls.has(a.url));
+
+    // AI summarization for new articles
+    if (anthropic && newUnique.length > 0) {
+      console.log(`\nSummarizing ${newUnique.length} new articles for ${dateStr}…`);
+      for (const article of newUnique) {
+        article.summary = await aiSummarize(article.title, article.summary, article.language);
+      }
+    }
+
+    const final = [...newUnique, ...existing].sort((a, b) => b.date.localeCompare(a.date));
+    fs.writeFileSync(dayPath, JSON.stringify(final, null, 2), 'utf8');
+    totalNew += newUnique.length;
+    console.log(`  ✓ ${dateStr}.json — ${newUnique.length} new, ${final.length} total`);
   }
 
-  // Keep last 30 days only
-  const cutoff = new Date();
-  cutoff.setDate(cutoff.getDate() - 30);
-  const cutoffStr = cutoff.toISOString().slice(0, 10);
-  const trimmed = existing.filter(a => a.date >= cutoffStr);
-
-  const final = [...newUnique, ...trimmed].sort((a, b) => b.date.localeCompare(a.date));
-
-  fs.mkdirSync(path.dirname(dataPath), { recursive: true });
-  fs.writeFileSync(dataPath, JSON.stringify(final, null, 2), 'utf8');
-
-  console.log(`\n✅ Done. ${newUnique.length} new articles added. Total: ${final.length}`);
+  console.log(`\n✅ Done. ${totalNew} new articles across ${Object.keys(byDate).length} day(s).`);
 }
 
 main().catch(err => {

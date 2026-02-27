@@ -55,7 +55,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/articles.json out/
+          git add data/ out/
           if git diff --staged --quiet; then
             echo "✅ No changes to commit."
           else
