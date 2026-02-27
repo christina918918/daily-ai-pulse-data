@@ -39,13 +39,11 @@ async function aiSummarize(title, rawDesc, language) {
 // rss: primary URL; rssAlternate: fallback if primary fails
 const SOURCES = [
   // ── Portals (English) ────────────────────────────────────────────────────
-  { name: 'The AI Valley',    type: 'portal', language: 'en', company: '',
-    rss: 'https://www.theaivalley.com/feed' },
   { name: 'The Information',  type: 'portal', language: 'en', company: '',
-    rss: 'https://www.theinformation.com/feed',
-    rssAlternate: 'https://rsshub.app/theinformation/latest' },
+    rss: 'https://www.theinformation.com/feed' },
   { name: 'Financial Times',  type: 'portal', language: 'en', company: '',
-    rss: 'https://www.ft.com/artificial-intelligence?format=rss' },
+    rss: 'https://www.ft.com/myft/following/a33ebc50-3cee-420c-8544-8403b9ee51a7.rss',
+    rssAlternate: 'https://www.ft.com/artificial-intelligence?format=rss' },
 
   // ── Company Official Blogs ────────────────────────────────────────────────
   { name: 'OpenAI',           type: 'company', language: 'en', company: 'OpenAI',
@@ -93,38 +91,7 @@ const SOURCES = [
   { name: '@ycombinator',     type: 'twitter', language: 'en', company: '',
     rss: 'https://rsshub.app/twitter/user/ycombinator' },
 
-  // ── WeChat / Chinese Media ────────────────────────────────────────────────
-  { name: '白鲸出海',          type: 'wechat', language: 'zh', company: '',
-    rss: 'https://www.baijing.cn/rss' },
-  { name: 'Founder Park',     type: 'wechat', language: 'zh', company: '',
-    rss: 'https://www.founderpark.cn/rss' },
-  { name: '华尔街见闻',        type: 'wechat', language: 'zh', company: '',
-    rss: 'https://wallstreetcn.com/rss.xml',
-    rssAlternate: 'https://rsshub.app/wechat/official/华尔街见闻' },
-  { name: '海外独角兽',        type: 'wechat', language: 'zh', company: '',
-    rss: 'https://rsshub.app/wechat/official/海外独角兽' },
-  { name: '虎嗅APP',           type: 'wechat', language: 'zh', company: '',
-    rss: 'https://www.huxiu.com/rss/0.xml' },
-  { name: '机器之心',          type: 'wechat', language: 'zh', company: '',
-    rss: 'https://rsshub.app/wechat/official/机器之心' },
-  { name: '量子位',            type: 'wechat', language: 'zh', company: '',
-    rss: 'https://rsshub.app/wechat/official/量子位' },
-  { name: '人民日报',          type: 'wechat', language: 'zh', company: '',
-    rss: 'https://rsshub.app/wechat/official/人民日报' },
-  { name: '十字路口 Crossing', type: 'wechat', language: 'zh', company: '',
-    rss: 'https://rsshub.app/wechat/official/十字路口Crossing' },
-  { name: '投资实习所',        type: 'wechat', language: 'zh', company: '',
-    rss: 'https://rsshub.app/wechat/official/投资实习所' },
-  { name: '晚点 LatePost',     type: 'wechat', language: 'zh', company: '',
-    rss: 'https://rsshub.app/wechat/official/晚点LatePost' },
-  { name: '央视新闻',          type: 'wechat', language: 'zh', company: '',
-    rss: 'https://rsshub.app/wechat/official/央视新闻' },
-  { name: '42章经',            type: 'wechat', language: 'zh', company: '',
-    rss: 'https://rsshub.app/wechat/official/四十二章经' },
-  { name: '36氪',              type: 'wechat', language: 'zh', company: '',
-    rss: 'https://36kr.com/feed' },
-  { name: '新智元',            type: 'wechat', language: 'zh', company: '',
-    rss: 'https://www.aitime.cn/rss.xml' },
+  // WeChat accounts are fetched via weread_scrape.py (WeRead relay) — not RSS
 ];
 
 // ── Helpers ─────────────────────────────────────────────────────────────────
