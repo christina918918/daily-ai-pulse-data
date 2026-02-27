@@ -1,5 +1,115 @@
 [
   {
+    "id": "mm4th13g2hkryf",
+    "date": "2026-02-25",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "MiniMax又又来吃龙虾肉了！OpenClaw真·一键部署，还有上万专家智能体等你差遣",
+    "summary": "聊着天就能构建自己的专属Expert",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247870617&idx=1&sn=db3fd6ac724d5c354cbe4b19ac53d3f8"
+  },
+  {
+    "id": "mm4th13gqcw8fi",
+    "date": "2026-02-25",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "陶哲轩来给AI数学泼冷水了",
+    "summary": "成也想法，败也想法",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247870617&idx=2&sn=822c44d2ffa8c1a5d092859394fde186"
+  },
+  {
+    "id": "mm4th13g1x0p7v",
+    "date": "2026-02-25",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "CVPR 2026新增赛道！EgoCross挑战赛：用四大杀手级场景，考验多模态大模型泛化极限",
+    "summary": "EgoCross Challenge跨域第一视角视频问答，等你冲榜！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247870617&idx=3&sn=71e64d642380f11cffdcd6f1c69a0314"
+  },
+  {
+    "id": "mm4th13gwmaecr",
+    "date": "2026-02-25",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247870617&idx=4&sn=3727270a9311568a7d79e25e750737c7"
+  },
+  {
+    "id": "mm4th159nbpvfl",
+    "date": "2026-02-25",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "AI能写COBOL代码，砸崩IBM股价，单日蒸发310亿美元，创26年最惨纪录",
+    "summary": "Anthropic一篇博客，砸崩IBM股价。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018004&idx=1&sn=338c83155ec1f54074d20cd9d4c01d7c"
+  },
+  {
+    "id": "mm4th159je53ib",
+    "date": "2026-02-25",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "刚上完春晚，宇树新品机器狗就亮相了",
+    "summary": "雨中负重长跑。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018004&idx=2&sn=1b0ba943b23b702bbc17da6318ca9e0d"
+  },
+  {
+    "id": "mm4th1592h0ykw",
+    "date": "2026-02-25",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "ICLR2026 Oral | 当情感识别不再是分类题：EmotionThinker 让 SpeechLLM 学会“解释情绪”",
+    "summary": "研究团队提出了首个面向可解释情感推理的强化学习框架，尝试将 SER 从 “分类任务” 提升为 “多模态证据驱动的推理任务”。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018004&idx=3&sn=c6e8d56b302a53920392d5cc498ad546"
+  },
+  {
+    "id": "mm4th1739dkpyg",
+    "date": "2026-02-25",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "AI越繁荣，经济越萧条！一夜爆火2028推演长文，引发华尔街巨头恐慌",
+    "summary": "AI越繁荣，经济越萧条！一夜爆火2028推演长文，引发华尔街巨头恐慌",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652677632&idx=1&sn=866a081863d4c74ba76b62b596aa135a"
+  },
+  {
+    "id": "mm4th1731misdp",
+    "date": "2026-02-25",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "46.5万次盲测封王！Grok视频模型屠榜Arena，谷歌最强对手来了",
+    "summary": "46.5万次盲测封王！Grok视频模型屠榜Arena，谷歌最强对手来了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652677632&idx=2&sn=6e4f7fa59be80ecff686c18cfeb27726"
+  },
+  {
+    "id": "mm4th173gi4eaj",
+    "date": "2026-02-25",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "Gemini 3仅得33.6分！清华发布首个「约束流形」空间智能基准",
+    "summary": "Gemini 3仅得33.6分！清华发布首个「约束流形」空间智能基准",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652677632&idx=3&sn=0ab5b5c2c6a56e7b4f23f554de582437"
+  },
+  {
     "id": "mm4r7tdig844z7",
     "date": "2026-02-25",
     "sourceType": "wechat",

@@ -1,5 +1,104 @@
 [
   {
+    "id": "mm4th13grqftfr",
+    "date": "2026-02-23",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "智谱GLM-5技术全公开！完全适配华为等国产芯片，美国网友酸了",
+    "summary": "引入DeepSeek同款机制",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247870196&idx=1&sn=ca30f79058177a122f5ebd558529f506"
+  },
+  {
+    "id": "mm4th13gjtnbbu",
+    "date": "2026-02-23",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "三个和尚没水喝！OpenAI星际之门搁浅，一年过去压根没动工",
+    "summary": "团队没配齐，数据中心零进展",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247870196&idx=2&sn=e21590bd30b52cc51847f6b9644b7062"
+  },
+  {
+    "id": "mm4th13gtn5p0l",
+    "date": "2026-02-23",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "32倍压缩率下性能反超25个点！破解长文本压缩「翻车」难题 | ICLR 2026",
+    "summary": "用「边际信息增益」破除信息内卷，实现「减负增效」",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247870196&idx=3&sn=fb7f6e2b5717508fd05048c43820ea11"
+  },
+  {
+    "id": "mm4th13gzu4rcj",
+    "date": "2026-02-23",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247870196&idx=4&sn=b1e6349bfdfdf26a0ae79c9537956085"
+  },
+  {
+    "id": "mm4th159i4z39m",
+    "date": "2026-02-23",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "热度第一、Tokens周调用破3T，MiniMax这个春节杀疯了",
+    "summary": "那些压制已久的Agent需求，被MiniMax一个模型重新释放。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017781&idx=1&sn=e9c066c4ba71effd810b3532fa216543"
+  },
+  {
+    "id": "mm4th159a11qlb",
+    "date": "2026-02-23",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Terminal-Bench解决率暴涨20%！华为CLI-Gym：环境交互类任务首个公开的数据Scaling方案",
+    "summary": "CLI-Gym 是第一种用于扩展 CLI 代理编码任务训练环境的公开方法。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017781&idx=2&sn=f81b5079679e384a7845ebbb55a2ae80"
+  },
+  {
+    "id": "mm4th173fly70i",
+    "date": "2026-02-23",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "硬核升级！史上最智能冬奥，阿里云AI让赛事转播「新」起来",
+    "summary": "硬核升级！史上最智能冬奥，阿里云AI让赛事转播「新」起来",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652677374&idx=1&sn=3ea91450fe56e3fc6da3c30030b593d9"
+  },
+  {
+    "id": "mm4th173bdwp5y",
+    "date": "2026-02-23",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "OpenAI大佬爆料：本科生靠一篇博客杀进OpenAI！没博士，0篇论文",
+    "summary": "OpenAI大佬爆料：本科生靠一篇博客杀进OpenAI！没博士，0篇论文",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652677374&idx=2&sn=ba6929e3247f3705b9de2ad050147b5e"
+  },
+  {
+    "id": "mm4th173qu5dqy",
+    "date": "2026-02-23",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "任意视角生成！港科广实现真实场景下的心电全景｜ICLR'26",
+    "summary": "任意视角生成！港科广实现真实场景下的心电全景｜ICLR'26",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652677374&idx=3&sn=7f8fb04867f76b7d3b08a4e16cb07883"
+  },
+  {
     "id": "mm4r7tdijz1afr",
     "date": "2026-02-23",
     "sourceType": "wechat",

@@ -1,5 +1,104 @@
 [
   {
+    "id": "mm4th13g1md0e6",
+    "date": "2026-02-26",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "阶跃星辰杀入季后赛，强势跻身AI“新六小虎”第一梯队",
+    "summary": "春节档最大黑马出现了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247870766&idx=1&sn=54efaab6f4005ae92f7f109b64773378"
+  },
+  {
+    "id": "mm4th13gaoxu0r",
+    "date": "2026-02-26",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "何恺明团队新作GeoPT，全新预训练范式用合成动力学让模型自学真实物理规律",
+    "summary": "全新预训练范式让物理仿真省下60%数据！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247870766&idx=2&sn=2fb31bcb2cd1fc0ce1ba89ea7fb4afb5"
+  },
+  {
+    "id": "mm4th13gnk6hzg",
+    "date": "2026-02-26",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "破解自动驾驶测试「跷跷板」难题：一个模型遍历从保守到激进的对抗行为",
+    "summary": "随心把握测试数据生成的「攻击性-真实性」",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247870766&idx=3&sn=3e3d6fa76db3b0b1ea2476e069434911"
+  },
+  {
+    "id": "mm4th13goklt3v",
+    "date": "2026-02-26",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247870766&idx=4&sn=679c45ef2e3f33a24c36ac5e51b4d16c"
+  },
+  {
+    "id": "mm4th159f8jo0j",
+    "date": "2026-02-26",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "击败谷歌、英伟达！清华陈建宇×斯坦福Chelsea团队世界模型Ctrl-World具身能力登顶全球",
+    "summary": "Ctrl-World是在视频生成质量与具身任务均跻身顶级梯队的世界模型。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018183&idx=1&sn=d562c55c627429307182d208fde291af"
+  },
+  {
+    "id": "mm4th1598xmxb5",
+    "date": "2026-02-26",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "超越IMO金牌？谷歌创超难FirstProof数学挑战新纪录",
+    "summary": "人类理性最纯粹的领域逐步被攻克。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018183&idx=2&sn=b38c7596598bff360ff11b40aee23088"
+  },
+  {
+    "id": "mm4th1735b0mtb",
+    "date": "2026-02-26",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "AI除幻第一股诞生，高瓴君联赚疯！这家公司，押中OpenClaw万亿美元赛道",
+    "summary": "AI除幻第一股诞生，高瓴君联赚疯！这家公司，押中OpenClaw万亿美元赛道",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652677811&idx=1&sn=a3b8aae97538abf28cbe505d4a28920e"
+  },
+  {
+    "id": "mm4th173o1ekb9",
+    "date": "2026-02-26",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "别了，OpenClaw！19个顶尖AI夜袭硅谷，3万刀金融终端变「废铁」",
+    "summary": "别了，OpenClaw！19个顶尖AI夜袭硅谷，3万刀金融终端变「废铁」",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652677811&idx=2&sn=a4d15e2cb66e18e470b452eefcfa9d98"
+  },
+  {
+    "id": "mm4th173h1ubv2",
+    "date": "2026-02-26",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "北大ProAct：首个双系统「主动社交」智能体，不做提线木偶",
+    "summary": "北大ProAct：首个双系统「主动社交」智能体，不做提线木偶",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652677811&idx=3&sn=76fa2a95b6b5836db39e8872d567338f"
+  },
+  {
     "id": "mm4r7tdi8uu7z3",
     "date": "2026-02-26",
     "sourceType": "wechat",

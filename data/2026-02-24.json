@@ -1,5 +1,104 @@
 [
   {
+    "id": "mm4th13g89u4x4",
+    "date": "2026-02-24",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "DeepSeek连更GitHub，华尔街回想起被支配的恐惧：“DeepSeek第二时刻”要来了",
+    "summary": "DeepSeek一开工，美国AI圈抖三抖",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247870226&idx=1&sn=c64b43741f83003d862bc8c258fa6845"
+  },
+  {
+    "id": "mm4th13gmx5d1k",
+    "date": "2026-02-24",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "黑客挖出苹果隐藏硬件！你的MacBook里有加速计/陀螺仪，摔没摔过售后都知道",
+    "summary": "AppleCare拒保新套路",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247870226&idx=2&sn=4dfaccdf9f15da23fdeced369b595b55"
+  },
+  {
+    "id": "mm4th13gkrzorp",
+    "date": "2026-02-24",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247870226&idx=3&sn=0be5e35bc0a1e0b2f8e00101cb603bd9"
+  },
+  {
+    "id": "mm4th159pg1afh",
+    "date": "2026-02-24",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "228小时狂飙100篇论文、烧光114亿Token：FARS杀疯了",
+    "summary": "新玩家已入场，人类你怕了吗？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017907&idx=1&sn=eb311627df884c3457d68de88e2eed40"
+  },
+  {
+    "id": "mm4th159kja89x",
+    "date": "2026-02-24",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "千寻智能完成近20亿融资，顶级资本天团联合押注，估值强势破百亿",
+    "summary": "强大的融资天团。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017907&idx=2&sn=8e9e83dc43ca597c90b93647e15d2caa"
+  },
+  {
+    "id": "mm4th159wo9fqj",
+    "date": "2026-02-24",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "DeepMind：智能体越多越乱，Agent天花板出现了？",
+    "summary": "该调整思路了？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651017907&idx=3&sn=991adfaa9f4f6a5e3109623514c73a08"
+  },
+  {
+    "id": "mm4th173hkp5mv",
+    "date": "2026-02-24",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "OpenClaw删光Meta安全总监邮箱！连喊3次停手都没用，她狂奔去拔网线",
+    "summary": "OpenClaw删光Meta安全总监邮箱！连喊3次停手都没用，她狂奔去拔网线",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652677414&idx=1&sn=74ac081971b90703b1b0bac22a735793"
+  },
+  {
+    "id": "mm4th173dfe7uy",
+    "date": "2026-02-24",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "DeepMind CEO反驳Ilya、马斯克，亲述谷歌1084天背水一战内幕",
+    "summary": "DeepMind CEO反驳Ilya、马斯克，亲述谷歌1084天背水一战内幕",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652677414&idx=2&sn=e62531ef94da2d9b02e5850c163d8d35"
+  },
+  {
+    "id": "mm4th173sm2ngx",
+    "date": "2026-02-24",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "别再一键贴代码！Anthropic点名3种「用AI不退化」真方法",
+    "summary": "别再一键贴代码！Anthropic点名3种「用AI不退化」真方法",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652677414&idx=3&sn=19be5d753069a23250291acc6efe1d5c"
+  },
+  {
     "id": "mm4r7tdi8z7xsw",
     "date": "2026-02-24",
     "sourceType": "wechat",
