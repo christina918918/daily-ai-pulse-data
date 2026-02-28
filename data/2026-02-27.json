@@ -1,5 +1,38 @@
 [
   {
+    "id": "mm6vw9rywja0rg",
+    "date": "2026-02-27",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "An update on our mental health-related work",
+    "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments.",
+    "url": "https://openai.com/index/update-on-mental-health-related-work"
+  },
+  {
+    "id": "mm6vwc796tdrlt",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "用AI替代人类，Block裁员四成，股价大涨近25%，超4700万人围观",
+    "summary": "Block CEO、Twitter 联创 Jack Dorsey 一封公开信引爆 AI 时代就业大讨论",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018518&idx=1&sn=48a4bbdb47a76a8a0ff0ac07d881e444"
+  },
+  {
+    "id": "mm6vwc79fww72h",
+    "date": "2026-02-27",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "比比皆是的下一个创新点：从Prompt Learning进化到SIPDO的闭环自进化",
+    "summary": "连续创新。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651018518&idx=2&sn=9b1f02344dae9b86a417702023b0d82a"
+  },
+  {
     "id": "mm5gkoqdhfe3nu",
     "date": "2026-02-27",
     "sourceType": "portal",
