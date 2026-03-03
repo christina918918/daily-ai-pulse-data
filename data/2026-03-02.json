@@ -1,5 +1,71 @@
 [
   {
+    "id": "mmb6fgqeradw89",
+    "date": "2026-03-02",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "上海一群青年，造了个学术版OpenClaw",
+    "summary": "上智院联合复旦发布的“大圣”",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247871769&idx=1&sn=152a01799def87a62e88d1e606fc4243"
+  },
+  {
+    "id": "mmb6fgqeja9snb",
+    "date": "2026-03-02",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "想入局VLA却不知从何下手？NTU&中大开源「终极菜谱」：从基座到频域建模，每一步都有实验支撑",
+    "summary": "12个维度带你从零构建高性能VLA",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247871769&idx=2&sn=210f4ed7b194688e18f00c9725279078"
+  },
+  {
+    "id": "mmb6fgqed48lpa",
+    "date": "2026-03-02",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247871769&idx=3&sn=3af29515f530aa8f04f0d8eb1ae52fde"
+  },
+  {
+    "id": "mmb6fgvcshbj3g",
+    "date": "2026-03-02",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "19岁天才愤然离开OpenAI！揭国防合同血泪内幕，AI竟成为战争噩梦",
+    "summary": "19岁天才愤然离开OpenAI！揭国防合同血泪内幕，AI竟成为战争噩梦",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652679242&idx=1&sn=fedebacc2687e769aafe0efd8cac3011"
+  },
+  {
+    "id": "mmb6fgvcwdzf4b",
+    "date": "2026-03-02",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "编程奇点逼近，程序员斩杀线就在眼前！软件版YouTube时刻在发生",
+    "summary": "编程奇点逼近，程序员斩杀线就在眼前！软件版YouTube时刻在发生",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652679242&idx=2&sn=91d0774c3d9336823eb9083bf7ba35e3"
+  },
+  {
+    "id": "mmb6fgvcc6rcfy",
+    "date": "2026-03-02",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "Nature子刊：攻克医疗器械「看不清」难题，赋予自动驾驶视觉",
+    "summary": "Nature子刊：攻克医疗器械「看不清」难题，赋予自动驾驶视觉",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652679242&idx=3&sn=548aeadb72251170dcc6384524825925"
+  },
+  {
     "id": "mm9qxqno0s36n0",
     "date": "2026-03-02",
     "sourceType": "portal",
