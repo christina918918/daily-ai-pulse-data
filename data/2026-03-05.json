@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mmclye8ksw1cak",
+    "date": "2026-03-05",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Trump tells AI companies they need ‘PR help’ after backlash over data centres",
+    "summary": "The president accepts that AI infrastructure building has angered voters as he urges companies to absorb energy costsTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/8585a851-f7a3-4409-a852-b385d39157f9?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mmclye8kwl70co",
+    "date": "2026-03-05",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "EU to include UK and Japan in ‘Made in Europe’ plans",
+    "summary": "European Commission offers access to bloc’s subsidies for manufacturing in partner countries with trade agreementsGlobal trade",
+    "url": "https://www.ft.com/content/bfe77726-ba7b-4e18-ae5f-4dbc7464c770?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mmclye8kk81h4k",
+    "date": "2026-03-05",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "The reality of chatbot-induced delusions",
+    "summary": "Large language models often prioritise agreeability over truthfulness to the detriment of usersArtificial intelligence",
+    "url": "https://www.ft.com/content/884e50e4-abd6-42d3-8125-9356ed42f036?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mmclyeph43oum0",
+    "date": "2026-03-05",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+    "summary": "Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/"
+  }
+]
