@@ -1,0 +1,79 @@
+[
+  {
+    "id": "mme1e1o87o927r",
+    "date": "2026-03-06",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "US states sue Trump administration over new tariffs",
+    "summary": "Democratic attorneys-general say president exceeded authority after Supreme Court struck down original leviesGlobal trade",
+    "url": "https://www.ft.com/content/fb630eba-c1ea-459f-9a48-3ce64139ecb6?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mme1e1o9og2ke0",
+    "date": "2026-03-06",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "The AI PR problem",
+    "summary": "Sector companies have been slow to address the concerns of ordinary people over the technologyTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/861f92df-683a-424a-8278-bdd0c9a7463c?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mme1e1o9vl5kwp",
+    "date": "2026-03-06",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Lessons from Anthropic’s battle with the Pentagon",
+    "summary": "Guardrails around the state’s use of AI warrant deeper and democratic deliberationTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/ed959d71-4937-4ce6-a4e8-87cb939fca20?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mme1e1o92aferd",
+    "date": "2026-03-06",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Saba Capital offers steep discount for Starwood real estate shares",
+    "summary": "Hedge fund seeks stake in fund that sharply limited investor redemptions in 2024 at 20% haircut Investments",
+    "url": "https://www.ft.com/content/a4f1cd07-c1ad-4ae8-81a8-eaaf8f031792?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mme1e1o93f1u8y",
+    "date": "2026-03-06",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Middle East conflict strands ships with cargoes of fresh food and live animals",
+    "summary": "Shipping companies struggle to reroute vessels as disruption starts to cause congestion at ports outside the GulfGlobal trade",
+    "url": "https://www.ft.com/content/267317c2-8231-4f63-8421-bce267c4e2ab?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mme1e2ak5v1slp",
+    "date": "2026-03-06",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Ask a Techspert: How does AI understand my visual searches?",
+    "summary": "Learn more about AI Mode in Search’s query fan-out method for visual search.",
+    "url": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/"
+  },
+  {
+    "id": "mme1e2akksf30p",
+    "date": "2026-03-06",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "The latest AI news we announced in February",
+    "summary": "Here are Google’s latest AI updates from February 2026",
+    "url": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/"
+  }
+]
