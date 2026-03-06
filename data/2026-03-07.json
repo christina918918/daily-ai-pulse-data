@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mmfgq4wfarslm3",
+    "date": "2026-03-07",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Directors’ Deals: Plus500 trio ships £67.2mn in shares to Goldman Sachs",
+    "summary": "Online trading platform’s share price has fallen since the salesInvestments",
+    "url": "https://www.ft.com/content/e9364481-9adc-4194-a6e6-b83c872ae9bf?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mmfgq4wfuxfikb",
+    "date": "2026-03-07",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Stockpickers: London Stock Exchange, Johnson Service Group, Greggs",
+    "summary": "Our experts discuss which companies to buy, sell or hold this weekInvestments",
+    "url": "https://www.ft.com/content/dbc64231-d3ad-48c4-b16c-ffec3d049a17?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mmfgq4wfa1twgk",
+    "date": "2026-03-07",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Robinhood brings private markets’ valuation problem to the masses",
+    "summary": "Investments",
+    "url": "https://www.ft.com/content/cf298a10-ddd1-4044-b569-5152d0e46488?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mmfgq4wfcpeuyv",
+    "date": "2026-03-07",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "US companies denied refunds on Trump’s illegal tariffs",
+    "summary": "Customs officials are rejecting attempts to reclaim duties that were struck down by the Supreme CourtGlobal trade",
+    "url": "https://www.ft.com/content/0315349e-763e-4faa-a5b1-c02ce7801cbd?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mmfgq5fvg3br1q",
+    "date": "2026-03-07",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+    "summary": "An overview of SpeciesNet, our open-source AI model that is helping people around the world protect and conserve wildlife.",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/"
+  }
+]
