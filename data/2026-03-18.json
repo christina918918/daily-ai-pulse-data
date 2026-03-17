@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mmv6qowwhtkv6r",
+    "date": "2026-03-18",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Microsoft reshuffles AI team to catch up on Copilot and model building",
+    "summary": "Software giant changes AI scientist Mustafa Suleyman’s role to focus on model researchArtificial intelligence, Technology sector",
+    "url": "https://www.ft.com/content/60646cbf-0445-4841-81e1-32efc4b32907?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mmv6qowwljnuqo",
+    "date": "2026-03-18",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Nvidia nears AI chip exports to China after US approval delays",
+    "summary": "Chief executive Jensen Huang says company received flood of orders and American licences over past two weeksArtificial intelligence, Technology sector, Global trade",
+    "url": "https://www.ft.com/content/a887194b-fdb3-47ab-89ce-60771a4da43f?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mmv6qpesykwjio",
+    "date": "2026-03-18",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Bringing the power of Personal Intelligence to more people",
+    "summary": "We're expanding Personal Intelligence across AI Mode in Search, the Gemini app and Gemini in Chrome.",
+    "url": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/"
+  },
+  {
+    "id": "mmv6qpessgsfjh",
+    "date": "2026-03-18",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Our latest investment in open source security for the AI era",
+    "summary": "Google is making new investments, building new tools and developing code security to improve open source security.",
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/"
+  }
+]
