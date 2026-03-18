@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "title": "Pamir AI 市场调研报告",
+    "date": "2026-03-18",
+    "version": "1.0"
+  },
+  "company_overview": {
+    "name": "PamirAI Inc.",
+    "founded": "2024",
+    "headquarters": "San Francisco, CA, USA",
+    "founders": [
+      {
+        "name": "Kevin (Chengming) Zhang",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Tianqi Ye",
+        "role": "Co-founder"
+      }
+    ],
+    "mission": "AI agents on affordable hardware, distributing personal intelligence",
+    "website": "https://www.pamir.ai/",
+    "stage": "Early-stage startup (Open Alpha)",
+    "employees_estimate": "< 20"
+  },
+  "funding": {
+    "status": "Early-stage / Pre-seed",
+    "known_investors": [
+      "Founders, Inc.",
+      "iSeed Ventures",
+      "Llama Ventures",
+      "Neo",
+      "Samsung NEXT Ventures"
+    ],
+    "valuation": "未公开",
+    "notes": "尚未有公开的正式融资轮次信息，但已获得多家知名机构支持，包括三星旗下 Samsung NEXT"
+  },
+  "products": [
+    {
+      "name": "Distiller Alpha Dev Kit",
+      "type": "Edge AI Hardware",
+      "status": "已发售 (Alpha批次已售罄)",
+      "price_usd": 250,
+      "description": "口袋大小的 Linux 计算机，专为 AI Agent 24/7 运行设计",
+      "specs": {
+        "processor": "64-bit ARM @ 2.4GHz",
+        "ram": "8GB",
+        "storage": "32GB eMMC",
+        "connectivity": ["Wi-Fi", "Bluetooth", "USB-C"],
+        "io_protocols": ["I2C/SPI", "UART", "GPIO", "PWM"],
+        "display": "E-ink 显示屏",
+        "audio": "内置麦克风 + 扬声器",
+        "led": "LED 状态指示灯",
+        "on_device_ai": "3B 参数模型 (本地推理)",
+        "performance": {
+          "qwen3_1.7b": "~9 tokens/s",
+          "qwen3_0.6b": "~21 tokens/s"
+        }
+      },
+      "software": {
+        "os": "Custom Linux (Distiller Agent Layer)",
+        "preinstalled": "ClawdBot (Claude Code agent)",
+        "remote_dev": "浏览器内 VS Code，扫码即可使用",
+        "mobile_app": "iOS App (Beta)",
+        "sdk": "DistillerSDK (GitHub 开源)"
+      },
+      "production_capacity": "每天 10-15 台",
+      "lead_time": "2-3 周"
+    },
+    {
+      "name": "Agent Computer (下一代)",
+      "type": "Edge AI Hardware",
+      "status": "2026年夏季发布 (接受预约)",
+      "description": "从零开始设计的专用 Agent 计算机",
+      "specs": {
+        "processor": "8-core ARM",
+        "battery": "内置电池",
+        "form_factor": "全新设计"
+      }
+    }
+  ],
+  "target_market": {
+    "primary_users": [
+      "需要 24/7 AI 编码助手的开发者",
+      "嵌入式系统硬件工程师",
+      "想用硬件构建项目但非专业人士的创客/Maker",
+      "注重隐私、希望本地运行 AI 的用户"
+    ],
+    "use_cases": [
+      "24/7 自主编码、测试、部署 (Agentic Workflows)",
+      "嵌入式系统开发 (刷机、测试、迭代)",
+      "远程开发环境 (随时随地通过浏览器编程)",
+      "IoT 与智能硬件原型开发",
+      "隐私优先的本地 AI 推理"
+    ]
+  },
+  "competitive_landscape": {
+    "direct_positioning": "Mac Mini ($600) 的低成本替代方案 ($250)，专为 AI Agent 设计",
+    "competitors": [
+      {
+        "name": "Raspberry Pi 5 + AI HAT+",
+        "price_range": "$80-$150",
+        "ai_performance": "13-26 TOPS (Hailo-8/8L)",
+        "strengths": "生态系统庞大、社区活跃、文档完善、成本低",
+        "weaknesses": "非专为 AI Agent 设计，需要自行配置软件栈",
+        "notes": "2026年 AI HAT+ 2 提供 40 TOPS; Raspberry Pi 6 可能内置 NPU"
+      },
+      {
+        "name": "NVIDIA Jetson Orin Nano",
+        "price_range": "$249-$499",
+        "ai_performance": "40-275 TOPS",
+        "strengths": "GPU 加速、CUDA 生态、高性能推理",
+        "weaknesses": "功耗较高、价格较贵、面向工业级用户",
+        "notes": "适合需要高性能推理的场景"
+      },
+      {
+        "name": "Google Coral",
+        "price_range": "$60-$150",
+        "ai_performance": "4 TOPS (Edge TPU)",
+        "strengths": "Google 生态、TensorFlow Lite 支持好",
+        "weaknesses": "性能有限、更新较慢",
+        "notes": "适合轻量级 IoT 推理"
+      },
+      {
+        "name": "BeagleY-AI",
+        "price_range": "$70-$100",
+        "ai_performance": "4 TOPS (TI AM67A SoC)",
+        "strengths": "Raspberry Pi 兼容外形、集成 AI 加速",
+        "weaknesses": "生态不如树莓派成熟",
+        "notes": "教育和原型开发定位"
+      }
+    ],
+    "differentiation": [
+      "唯一专为 AI Agent 24/7 运行设计的硬件",
+      "预装 ClawdBot (Claude Code)，开箱即用",
+      "E-ink 显示屏 + 低功耗设计，适合持续运行",
+      "USB-C 统一接口支持多种硬件协议",
+      "扫码即可在浏览器中使用 VS Code 远程开发",
+      "软硬件一体化方案，降低入门门槛"
+    ]
+  },
+  "market_context": {
+    "edge_ai_market_size_2025": "$26.14B",
+    "edge_ai_market_size_2030_projected": "$58.90B",
+    "cagr": "17.6%",
+    "key_trends": [
+      "IoT 设备爆发式增长推动边缘 AI 需求",
+      "隐私和数据主权意识增强，本地推理受青睐",
+      "AI Agent 从云端走向端侧，24/7 自主运行成为新趋势",
+      "开发者工具与硬件深度整合 (如 Claude Code + 专用硬件)",
+      "亚太地区增长最快，制造业与半导体产业驱动"
+    ],
+    "major_players": ["Qualcomm", "Huawei", "Samsung", "Apple", "MediaTek", "NVIDIA", "Google", "IBM"]
+  },
+  "swot_analysis": {
+    "strengths": [
+      "独特定位: 市场上唯一专为 AI Agent 设计的口袋计算机",
+      "价格优势: $250 远低于 Mac Mini ($600)",
+      "软硬件一体: 预装 Claude Code，开箱即用体验好",
+      "强力投资方: Samsung NEXT 等知名机构背书",
+      "开发者友好: 扫码 VS Code、iOS App、开源 SDK"
+    ],
+    "weaknesses": [
+      "产能有限: 每天仅 10-15 台，难以规模化",
+      "本地模型性能有限: 3B 参数模型能力受限",
+      "早期阶段: Alpha 产品，稳定性和生态待验证",
+      "依赖第三方 AI: 核心 Agent 能力依赖 Anthropic Claude API",
+      "团队规模小: 早期创业团队，资源有限"
+    ],
+    "opportunities": [
+      "AI Agent 市场爆发: 2026年 Agent 应用进入主流",
+      "边缘 AI 市场快速增长 (CAGR 17.6%)",
+      "开发者社区对专用 AI 硬件需求旺盛 (Alpha 秒售罄)",
+      "夏季推出下一代产品，有望大幅提升竞争力",
+      "可拓展到教育、IoT、智能家居等垂直领域"
+    ],
+    "threats": [
+      "Raspberry Pi 6 可能内置 NPU，蚕食低端市场",
+      "NVIDIA、Qualcomm 等巨头可能推出类似定位产品",
+      "AI 推理能力快速提升，专用硬件可能被通用设备取代",
+      "开源社区可在树莓派上复刻类似软件方案",
+      "供应链风险: 小批量生产成本高、交付不确定"
+    ]
+  },
+  "assessment": {
+    "summary": "Pamir AI 在 AI Agent 专用硬件这一新兴细分市场中占据先发优势。$250 的定价和软硬件一体化方案形成了独特卖点。Alpha 批次秒售罄说明市场需求真实存在。但产能瓶颈、本地模型能力有限、以及来自树莓派生态和芯片巨头的潜在竞争是主要挑战。2026年夏季推出的下一代 Agent Computer 将是关键里程碑。",
+    "market_fit": "高 — AI Agent 从概念走向实际应用，开发者需要专用硬件",
+    "risk_level": "中高 — 早期产品，竞争激烈，需快速迭代和规模化",
+    "watch_points": [
+      "2026年夏季 Agent Computer 的发布和市场反应",
+      "是否进行正式融资轮 (Seed/Series A)",
+      "产能提升和供应链建设进展",
+      "与 Anthropic/Claude 的合作深度",
+      "开发者社区增长和生态建设"
+    ]
+  },
+  "sources": [
+    "https://www.pamir.ai/",
+    "https://shop.pamir.ai/products/distiller-two-alpha-dev-kit",
+    "https://f.inc/portfolio/pamir/",
+    "https://pitchbook.com/profiles/company/756474-40",
+    "https://tracxn.com/d/companies/pamir/__mnlMAwSjgqA9yF_s7XmGtg6oqev0qFAn7c_pGRajiVE",
+    "https://aiagentstore.ai/ai-agent/pamir-ai",
+    "https://513.toys/distiller-alpha/",
+    "https://pamir-ai.hashnode.dev/qwen-3-on-a-raspberry-pi-5-small-models-big-agent-energy",
+    "https://docs.pamir.ai/development",
+    "https://www.marketsandmarkets.com/Market-Reports/edge-ai-hardware-market-158498281.html"
+  ]
+}
