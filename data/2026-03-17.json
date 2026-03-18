@@ -1,5 +1,49 @@
 [
   {
+    "id": "mmwm5tg397v0w8",
+    "date": "2026-03-17",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+    "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+    "url": "https://openai.com/index/japan-teen-safety-blueprint"
+  },
+  {
+    "id": "mmwm5vfk5agi6t",
+    "date": "2026-03-17",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "老黄呼吁所有企业「养虾」当天，阿里正规军入场，「悟空」把路铺平了",
+    "summary": "AI动作频频。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022053&idx=1&sn=1d7af3d33e28cd5b752c9ffb4d795e27"
+  },
+  {
+    "id": "mmwm5vfk9cccnr",
+    "date": "2026-03-17",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "一家00后创办的世界模型公司，凭什么让华为哈勃重金押注？",
+    "summary": "魔芯科技完成Pre-A+轮融资",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022053&idx=2&sn=5643d1754b11e4edf1df9690c198f3a9"
+  },
+  {
+    "id": "mmwm5vfkv4qpd6",
+    "date": "2026-03-17",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "TPAMI 2026 | 仅用两个变量破解混杂因素：CIC实现动力学因果推断与混杂变量重构",
+    "summary": "一种全新的动力学因果判别框架",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022053&idx=3&sn=e43fa5897fc7afd4ace6dbd5eb4a7c11"
+  },
+  {
     "id": "mmv6qowwroaf4r",
     "date": "2026-03-17",
     "sourceType": "portal",
