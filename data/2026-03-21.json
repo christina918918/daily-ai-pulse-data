@@ -1,5 +1,104 @@
 [
   {
+    "id": "mn0w6pmxtogojn",
+    "date": "2026-03-21",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "OpenAI to double workforce as business push intensifies",
+    "summary": "The $730bn start-up plans to increase staff to 8,000 by end of 2026 in bid to close gap with rival AnthropicArtificial intelligence, Technology sector",
+    "url": "https://www.ft.com/content/7ffea5b4-e8bc-47cd-adb4-257f84c8028b?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mn0w6pmxujvxox",
+    "date": "2026-03-21",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Canada’s oil producers in line for C$90bn windfall from Iran war",
+    "summary": "Rising crude price will boost export revenue as Mark Carney seeks to counter Donald Trump’s trade warsGlobal trade",
+    "url": "https://www.ft.com/content/81fa6ad2-7971-4177-9230-5cdb96e91004?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mn0w6pmxt6u974",
+    "date": "2026-03-21",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Iran lets grain ships through Hormuz to shore up food supply",
+    "summary": "Agriculture has been a ‘pain point’ for Tehran after it imposes de facto blockade of waterway in response to US-Israeli warGlobal trade",
+    "url": "https://www.ft.com/content/ff30a226-33cc-45fd-9614-1bf34767732d?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mn0w6pmys7ol85",
+    "date": "2026-03-21",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Uber fights to stay in the robotaxi race",
+    "summary": "Ride-hailing company must make up lost ground on driverless vehicles, or risk being left in the rear-view mirrorTechnology sector",
+    "url": "https://www.ft.com/content/34239099-540b-48e9-bef8-0ad10f8ff4f6?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mn0w6pmybkiwih",
+    "date": "2026-03-21",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Elon Musk defrauded Twitter investors during buyout, jury finds",
+    "summary": "Panel members conclude the billionaire misled shareholders in tweets posted during the $44bn takeoverTechnology sector",
+    "url": "https://www.ft.com/content/88161509-efe4-4b7b-8465-d66645b445d0?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mn0w6pmyq3ezed",
+    "date": "2026-03-21",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Submit your questions — Can Europe break free from US tech dominance?",
+    "summary": "Take part in a live Q&A with FT Innovation Editor John Thornhill and EU correspondent Barbara Moens, on Thursday March 26 at 1pm GMTTechnology sector",
+    "url": "https://www.ft.com/content/18aed4ff-365d-43a4-bbff-e9156f9b3ea3?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mn0w6rkfvpohlf",
+    "date": "2026-03-21",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "「龙虾」爆火，token成「硬通货」后，这场AI比赛变得更重要了",
+    "summary": "奖金池高达 600 万元的腾讯广告算法大赛开启报名。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022945&idx=1&sn=cffe9b496ae04a400bba539f772dfbf6"
+  },
+  {
+    "id": "mn0w6rkfopenjb",
+    "date": "2026-03-21",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "画质革命还是AI整容？DLSS 5引爆全网争议，老黄亲自下场论战",
+    "summary": "真的是「电影级画面」吗？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022945&idx=2&sn=dd6270da69aeca762d147ee234a77672"
+  },
+  {
+    "id": "mn0w6rkf180hzo",
+    "date": "2026-03-21",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "ICLR 2026 | 清华提出交叉熵分解：“误差熵”才是大模型规模定律真正的驱动项",
+    "summary": "这或许能为理解大模型的能力边界和优化方向提供新的指引。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651022945&idx=3&sn=1b30d20c82eafa163aba354f9f1b8c56"
+  },
+  {
     "id": "mmzgwjlzfonryu",
     "date": "2026-03-21",
     "sourceType": "portal",
