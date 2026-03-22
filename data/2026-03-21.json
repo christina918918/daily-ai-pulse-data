@@ -1,5 +1,71 @@
 [
   {
+    "id": "mn2bo1fv7bx7gy",
+    "date": "2026-03-21",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "英伟达GTC现场的隐形AI巨头：老黄机器人demo背后都是它",
+    "summary": "光轮智能，正在定义Physical AI的基础设施",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247876610&idx=1&sn=dff3cdbf646665986f9e72090f48d4be"
+  },
+  {
+    "id": "mn2bo1fvk1c9sk",
+    "date": "2026-03-21",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "精准识别「界门纲目科属种」！北大彭宇新团队用细粒度树先验提升泛化，破解生物类别分层识别难题",
+    "summary": "让生成式模型具备完整类别树认知，迈向通用视觉理解",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247876610&idx=2&sn=f53fa9405385ab9f86c0a54ba3f00550"
+  },
+  {
+    "id": "mn2bo1fv89qzq9",
+    "date": "2026-03-21",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247876610&idx=3&sn=96e84e00b552bb0ca811d0096ca7ec28"
+  },
+  {
+    "id": "mn2bo1lopebjc9",
+    "date": "2026-03-21",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "8倍增长、订单疯涌！这家公司杀入具身智能深水区，拿下真实世界「通行证」",
+    "summary": "大模型不缺「大脑」，缺的是「最强肉身」！看这家公司用十年跨越具身智能落地的鸿沟。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652685559&idx=1&sn=52737ef6adca018f2693f3f0d947edba"
+  },
+  {
+    "id": "mn2bo1lox08bjq",
+    "date": "2026-03-21",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "睡觉时AI还在烧钱！算力版「炫富游戏」席卷硅谷",
+    "summary": "睡觉时AI还在烧钱！算力版「炫富游戏」席卷硅谷",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652685559&idx=2&sn=6a434fcae98ae9c6a28894035498c27f"
+  },
+  {
+    "id": "mn2bo1lo6hjyvp",
+    "date": "2026-03-21",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "从经历到知识：UIUC、清华PlugMem如何重构Agent记忆",
+    "summary": "从经历到知识：UIUC、清华PlugMem如何重构Agent记忆",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652685559&idx=3&sn=9e56ecb8360f9d238a09abd2fd8a6520"
+  },
+  {
     "id": "mn0w6pmxtogojn",
     "date": "2026-03-21",
     "sourceType": "portal",
