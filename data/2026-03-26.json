@@ -1,0 +1,79 @@
+[
+  {
+    "id": "mn6md0xdk38yd8",
+    "date": "2026-03-26",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "SpaceX boosts IPO ambition with plans to raise $75bn",
+    "summary": "Elon Musk’s rocket company told investors it hopes to go public with a $1.75tn valuationTechnology sector",
+    "url": "https://www.ft.com/content/37a14f36-77f6-413e-a4d5-b05cefbddfb1?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mn6md0xd59f23a",
+    "date": "2026-03-26",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Meta and Google liable for social media harm to children’s mental health in landmark US case",
+    "summary": "Jury awards at least $3mn in damages with Instagram owner to pay the majorityTechnology sector",
+    "url": "https://www.ft.com/content/d3d80bd4-d2b1-4522-9752-4071df5b4c0a?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mn6md0xd97c7b7",
+    "date": "2026-03-26",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "The other Strait of Hormuz shock",
+    "summary": "Disruption to commodities far beyond oil and gas will have a long-lasting impactGlobal trade",
+    "url": "https://www.ft.com/content/de9ada11-81be-4d31-825b-54d72bdef03b?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mn6md0xdtiwct7",
+    "date": "2026-03-26",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Elliott offers Synopsys a masterclass in throwing its weight around",
+    "summary": "This chip design software maker could have and will have much bigger profits if the activist investor has anything to do with itTechnology sector",
+    "url": "https://www.ft.com/content/d85e6147-2373-4bea-8e3b-3169e1a15213?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mn6md0xdpoxzg3",
+    "date": "2026-03-26",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Markets were not made for Trump’s never-ending ping-pong",
+    "summary": "The chaos of the Iran war will have long-term consequences for investors and the dollarInvestments",
+    "url": "https://www.ft.com/content/ccdbf058-c395-416a-9e69-212cd52463d3?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mn6md1msttrzkh",
+    "date": "2026-03-26",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Build with Lyria 3, our newest music generation model",
+    "summary": "Lyria 3 is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/"
+  },
+  {
+    "id": "mn6md1mssocoxj",
+    "date": "2026-03-26",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Lyria 3 Pro: Create longer tracks in more Google products",
+    "summary": "We are bringing Lyria 3 to the tools where professionals work and create every day.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/"
+  }
+]
