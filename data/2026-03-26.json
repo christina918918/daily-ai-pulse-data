@@ -1,5 +1,93 @@
 [
   {
+    "id": "mn9h38fan3ofsn",
+    "date": "2026-03-26",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "在线等：如何优雅地分走鹅厂这600+万？",
+    "summary": "KDD Cup首个中国算法赛道开启，学术赛道+社会赛道双开",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247877954&idx=1&sn=04e9b286f5af8f70592854859661945e"
+  },
+  {
+    "id": "mn9h38fao9171v",
+    "date": "2026-03-26",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "金融Agent再获近2亿加码！启明红杉高瓴集体押注，5个月内连获两轮融资",
+    "summary": "金融AI无人区里的稀缺选手",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247877954&idx=2&sn=2f5a2c756bafe74c15f72c49dd368c67"
+  },
+  {
+    "id": "mn9h38fa32kjnb",
+    "date": "2026-03-26",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "让大模型基于「图像事实」说话：用事实文本+自适应编辑，让语言偏见无处遁形丨ICLR'26",
+    "summary": "回归视觉证据，抑制语言偏见",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247877954&idx=3&sn=0d4ec36ba5e53ba71ad8a9c95d3cd29b"
+  },
+  {
+    "id": "mn9h38faknyjp8",
+    "date": "2026-03-26",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "一年一度最值得关注的AI榜单来啦！申报即日启动",
+    "summary": "欢迎申报，截至4月27日",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247877954&idx=4&sn=15a7746f971957cf5789e79cdbc73898"
+  },
+  {
+    "id": "mn9h38fa2k1kuy",
+    "date": "2026-03-26",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247877954&idx=5&sn=07dd3df72d21bb317113abc63211de63"
+  },
+  {
+    "id": "mn9h38hdgbrmsc",
+    "date": "2026-03-26",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "糟糕，大佬45年前论文，被判AI生成",
+    "summary": "下一步，人类需要证明自己不是AI",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651024152&idx=1&sn=f3f7a796850375e8e99a2fa9117ae4f9"
+  },
+  {
+    "id": "mn9h38hdbw46qm",
+    "date": "2026-03-26",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "内存股集体大跌，原因竟是谷歌这篇一年前的论文",
+    "summary": "TurboQuant：压缩内存占用，也压缩股民钱包",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651024152&idx=2&sn=4528d075d9d03ee84b40ade73eb0cbb0"
+  },
+  {
+    "id": "mn9h38hdzy67i3",
+    "date": "2026-03-26",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "ICLR 2026 Oral | Revela：用语言建模重新定义稠密检索器训练",
+    "summary": "将稠密检索器的训练目标统一到语言建模框架之下",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651024152&idx=3&sn=e05ac897d28fa74763814b4d7ed260e0"
+  },
+  {
     "id": "mn81l4005o5ppx",
     "date": "2026-03-26",
     "sourceType": "portal",
