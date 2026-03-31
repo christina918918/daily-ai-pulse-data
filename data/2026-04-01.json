@@ -1,0 +1,112 @@
+[
+  {
+    "id": "mnf6zdj6h31xxt",
+    "date": "2026-04-01",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "‘Guardian’ Apps Aim to Stop AI Agents From Going Rogue",
+    "summary": "As rogue AI agents cause security problems and product outages even at sophisticated companies such as Meta and Amazon, major firms such as ServiceNow as well as startups are developing new AI to monitor and stop them.The new AI, also known as guardian AI agents, comes in the form of a cloud applica",
+    "url": "https://www.theinformation.com/articles/guardian-apps-aim-stop-ai-agents-going-rogue"
+  },
+  {
+    "id": "mnf6zdj60kvwus",
+    "date": "2026-04-01",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "How an Unusual Fitness Deal Came Together",
+    "summary": "Three executives were at a health and fitness industry conference last March, but it was in Las Vegas, so they were drinking old-fashioneds when they hatched a cross-border deal to create a fitness company worth $7.5 billion that spanned subscription and scheduling apps, plus equipment.The three whi",
+    "url": "https://www.theinformation.com/articles/unusual-fitness-deal-came-together"
+  },
+  {
+    "id": "mnf6zdj6236ne1",
+    "date": "2026-04-01",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Nvidia Invests $2 Billion in Marvell",
+    "summary": "Nvidia said it has invested $2 billion in chip maker Marvell as part of a “strategic partnership” in which Marvell will supply chips that work with Nvidia technology. The investment is the latest in a series Nvidia has made lately—typically at around $2 billion—with companies that work with the ...",
+    "url": "https://www.theinformation.com/briefings/nvidia-invests-2-billion-marvell"
+  },
+  {
+    "id": "mnf6zdj6lk1vhq",
+    "date": "2026-04-01",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "OpenAI Says Latest Funding Round Raised $122 Billion at $830 Billion Valuation",
+    "summary": "OpenAI has secured commitments for its latest funding round totaling $122 billion at a valuation of $830 billion before the financing, the company announced on Tuesday. The total is about $22 billion over its initial target of $100 billion, which The Information first reported. SoftBank and ...",
+    "url": "https://www.theinformation.com/briefings/openai-says-latest-funding-round-raised-122-billion-830-billion-valuation"
+  },
+  {
+    "id": "mnf6zdj6d00iva",
+    "date": "2026-04-01",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Microsoft Energy VP Departs",
+    "summary": "Bobby Hollis, a Microsoft vice president in charge of procuring energy for its data centers, has left the company for a new opportunity, he said Tuesday in a LinkedIn post. Hollis joined Microsoft three years ago, coinciding with the start of an artificial intelligence boom requiring the company ...",
+    "url": "https://www.theinformation.com/briefings/microsoft-energy-vp-departs"
+  },
+  {
+    "id": "mnf6zdj6kiv3vu",
+    "date": "2026-04-01",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Oracle Lays of Thousands of Employees",
+    "summary": "Oracle is laying off thousands of employees, CNBC reported. The move comes as the company’s substantial spending on AI data centers has eaten into its cash reserves, prompting it to issue tens of billions of dollars in debt. The company began the cuts on Tuesday in emails to employees citing “a ...",
+    "url": "https://www.theinformation.com/briefings/oracle-lays-thousands-employees"
+  },
+  {
+    "id": "mnf6zdj63hqdyc",
+    "date": "2026-04-01",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Anthropic’s Coding Agent Source Code Exposed in Leak",
+    "summary": "Anthropic mistakenly leaked some of the source code underlying its Claude Code application, the company said on Tuesday. The leak revealed new details about how the popular AI coding tool works and potential unreleased models and features. Developers noticed early Tuesday morning that Anthropic ...",
+    "url": "https://www.theinformation.com/briefings/anthropics-coding-agent-source-code-exposed-leak"
+  },
+  {
+    "id": "mnf6zegzpadmkd",
+    "date": "2026-04-01",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "OpenAI raises $3bn from retail investors as part of record funding haul",
+    "summary": "ChatGPT maker taps individuals for first time as it pulls in up to $122bn Artificial intelligence, Technology sector",
+    "url": "https://www.ft.com/content/89dd9814-e0f3-4464-9a06-58686e85c76e?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mnf6zegzh4hdnw",
+    "date": "2026-04-01",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Raspberry Pi profit surges as AI boom lifts demand",
+    "summary": "Sales growth for UK computer company particularly strong in China and USArtificial intelligence, Technology sector",
+    "url": "https://www.ft.com/content/5c167591-80bb-4290-ae66-7d04112cbd1c?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mnf6zf05pu7w99",
+    "date": "2026-04-01",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+    "summary": "Veo 3.1 Lite  is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/"
+  }
+]

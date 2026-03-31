@@ -1,5 +1,82 @@
 [
   {
+    "id": "mnf6zh3qjc1vnx",
+    "date": "2026-03-30",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "别再让AI只干零活了！AI工具正在接管投放全链路",
+    "summary": "从行业中来，到行业中去",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247879147&idx=1&sn=9a90196389706ca1a1e9b5fa8f244b82"
+  },
+  {
+    "id": "mnf6zh3q6jtv2u",
+    "date": "2026-03-30",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "全球OCR新王来自中国开源！GitHub狂揽73300+Star",
+    "summary": "谷歌持续霸榜多年Tesseract OCR被赶超",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247879147&idx=2&sn=257f806f80ed8dc1afafc1a85f8991ed"
+  },
+  {
+    "id": "mnf6zh3qesdscz",
+    "date": "2026-03-30",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "VLM解几何题总翻车？GEODPO从「看」入手：用结构化表示+DPO优化，让模型先看懂再推理丨ICLR'26",
+    "summary": "用结构化强化学习让VLM「看懂」几何",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247879147&idx=3&sn=9a92deb2108cf6b6316e5b0da2f81f3e"
+  },
+  {
+    "id": "mnf6zh3qeh00dx",
+    "date": "2026-03-30",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "一年一度最值得关注的AI榜单来啦！申报即日启动",
+    "summary": "欢迎申报，截至4月27日",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247879147&idx=4&sn=0117d5eb62e2240f12e350c98f51101d"
+  },
+  {
+    "id": "mnf6zh8174ilex",
+    "date": "2026-03-30",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "DeepMind之父惊人自白：我造的AI可能灭绝人类，但已无人能停下",
+    "summary": "DeepMind之父惊人自白：我造的AI可能灭绝人类，但已无人能停下",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652687761&idx=1&sn=d0ad58286884205e296496d0d920ccdc"
+  },
+  {
+    "id": "mnf6zh81moj4t3",
+    "date": "2026-03-30",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "人类一离座AI就进化！伯克利开源MetaClaw，静态Agent慌了",
+    "summary": "人类一离座AI就进化！伯克利开源MetaClaw，静态Agent慌了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652687761&idx=2&sn=a8b53eb91c9717a21842822a1fac243e"
+  },
+  {
+    "id": "mnf6zh817cnqzp",
+    "date": "2026-03-30",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "早于DeepSeek Engram！用「查表」重置Transformer记忆 | ICLR",
+    "summary": "早于DeepSeek Engram！用「查表」重置Transformer记忆 | ICLR",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652687761&idx=3&sn=6bd0f810018d47aae2a0f92e080ff100"
+  },
+  {
     "id": "mndrk928dy56qs",
     "date": "2026-03-30",
     "sourceType": "portal",
