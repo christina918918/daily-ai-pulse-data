@@ -1,0 +1,90 @@
+[
+  {
+    "id": "mni1qqlafmcp6m",
+    "date": "2026-04-03",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "OpenAI acquires popular tech talk show for ‘low hundreds of millions’",
+    "summary": "ChatGPT-maker moves into broadcasting with deal for TBPN after it had pledged to abandon ‘side-quests’ Artificial intelligence, Technology sector",
+    "url": "https://www.ft.com/content/4fe4972a-3d24-45be-b9fa-a429c432b08e?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mni1qqlazct040",
+    "date": "2026-04-03",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Trump administration announces new tariffs on pharmaceuticals",
+    "summary": "White House also rolls back levies on some metals in an attempt to simplify dutiesGlobal trade",
+    "url": "https://www.ft.com/content/25ecf952-2fca-4ac0-9f72-69949c929a62?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mni1qqlayxvfr4",
+    "date": "2026-04-03",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "SpaceX IPO is Musk’s biggest financial moonshot",
+    "summary": "Tech showman seeks to tap the Fomo factor with a market sales pitch for the agesTechnology sector",
+    "url": "https://www.ft.com/content/ad4daba0-8dd2-48ee-a09f-2b6eabbc1c62?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mni1qqlahcs0r0",
+    "date": "2026-04-03",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "The case for Trump’s tariffs looks strong a year on from ‘liberation day’",
+    "summary": "Economists’ lurid forecasts of disaster have not been realisedGlobal trade",
+    "url": "https://www.ft.com/content/35f79237-630c-4b04-8e5a-57394ad2b2f6?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mni1qqlaeugof8",
+    "date": "2026-04-03",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Investment trusts call for UK rule change to frustrate activist investors",
+    "summary": "Attempt by Boaz Weinstein’s Saba to take over EWIT’s board has prompted plea for regulatory overhaulInvestments",
+    "url": "https://www.ft.com/content/c2846aed-5ccf-4dab-8e0b-52263b6bb365?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mni1qqlae36kut",
+    "date": "2026-04-03",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Blue Owl struck by $5.4bn of redemption requests",
+    "summary": "Private credit firm caps withdrawals after investors attempted to pull more than 40% from one fundInvestments",
+    "url": "https://www.ft.com/content/f4320148-3d81-4bd0-9ab6-053a5bade188?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mni1qr3wf0cglu",
+    "date": "2026-04-03",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "New ways to balance cost and reliability in the Gemini API",
+    "summary": "Google is introducing two new inference tiers to the Gemini API, Flex and Priority,\nto balance cost and latency.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/"
+  },
+  {
+    "id": "mni1qr3whzb6kw",
+    "date": "2026-04-03",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Create, edit and share videos at no cost in Google Vids",
+    "summary": "New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more.",
+    "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/"
+  }
+]
