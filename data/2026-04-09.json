@@ -1,5 +1,16 @@
 [
   {
+    "id": "mnthgl7876rjlx",
+    "date": "2026-04-09",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+    "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+    "url": "https://openai.com/index/cyberagent"
+  },
+  {
     "id": "mns252ylu84k53",
     "date": "2026-04-09",
     "sourceType": "portal",
