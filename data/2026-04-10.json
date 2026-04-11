@@ -1,5 +1,49 @@
 [
   {
+    "id": "mnuwp8o9itrive",
+    "date": "2026-04-10",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Our response to the Axios developer tool compromise",
+    "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+    "url": "https://openai.com/index/axios-developer-tool-compromise"
+  },
+  {
+    "id": "mnuwpaiib8rce1",
+    "date": "2026-04-10",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Generalist爆火背后：具身智能真正的竞争，已不在模型",
+    "summary": "张小珺对话光轮智能 CEO 谢晨",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651026977&idx=1&sn=c28ed343f67058124f4c89d3cff0e36b"
+  },
+  {
+    "id": "mnuwpaiiokrdmm",
+    "date": "2026-04-10",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "龙虾连Gemma 4，只需三步，谷歌官方教程出炉，不再花钱买token",
+    "summary": "谷歌 Gemma 官方下场了，直接教大家如何分三步把 Gamma 4 和龙虾连上。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651026977&idx=2&sn=31e760bbf6287464bfa70431b75f0e3d"
+  },
+  {
+    "id": "mnuwpaiiki0qh1",
+    "date": "2026-04-10",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "CVPR 2026 | 20步也能稳住画质，这个扩散加速方法不一样",
+    "summary": "TC-Padé 提供了一种具有现实价值的高效加速思路。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651026977&idx=3&sn=706efc2a22e98809d60669a85905269c"
+  },
+  {
     "id": "mnthgkvo30jf9l",
     "date": "2026-04-10",
     "sourceType": "portal",
