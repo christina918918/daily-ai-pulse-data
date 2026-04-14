@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mnz7hu7vbebc44",
+    "date": "2026-04-15",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "OpenAI releases new cyber security model to limited group of customers",
+    "summary": "Launch of GPT-5.4-Cyber follows concern about ability of Anthropic’s Mythos to find software bugsTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/cf3d62e0-1b6c-4e69-b5f7-facaca586dbf?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mnz7hu7v1thlkl",
+    "date": "2026-04-15",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "FirstFT: China flexes economic muscle with soaring use of export controls",
+    "summary": "Also in today’s newsletter: Singapore tightens monetary policy and Wall Street’s trading boomGlobal trade",
+    "url": "https://www.ft.com/content/eafa86e2-2a7a-46fa-9c19-2cb4189884d6?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mnz7hu7vjtlw9j",
+    "date": "2026-04-15",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Elon Musk is officially free to roam in Texas",
+    "summary": "Delaware ruling draws a line under Tesla’s corporate domicile in the Lone Star StateTechnology sector",
+    "url": "https://www.ft.com/content/87ac2aff-446e-4ed8-b41e-0cc4f9a669b8?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mnz7hu7vdz3are",
+    "date": "2026-04-15",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Middle East war live: Trump says new US-Iran talks could happen ‘over next two days’",
+    "summary": "The US president said additional talks could happen this week in Islamabad but that further discussions to end the war would happen in EuropeGeopolitics",
+    "url": "https://www.ft.com/content/bb8bf4c4-2643-4935-9872-5949d3ac3eb1?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mnz7huwvffuyxs",
+    "date": "2026-04-15",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "summary": "Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.",
+    "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/"
+  }
+]
