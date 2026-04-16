@@ -1,0 +1,79 @@
+[
+  {
+    "id": "mo226yfyfad62s",
+    "date": "2026-04-17",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "US oil bosses warn Donald Trump to block Iran’s Strait of Hormuz toll",
+    "summary": "Executives step up lobbying to convince White House that Tehran controlling the strategic waterway sets dangerous precedentGlobal trade",
+    "url": "https://www.ft.com/content/0f41cbd9-58e5-4f0c-b975-3e6b919f1431?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mo226yfyprfad0",
+    "date": "2026-04-17",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Trump administration urges business partnerships instead of foreign aid",
+    "summary": "US state department’s ‘trade over aid’ initiative draws criticism from non-profit sector Global trade",
+    "url": "https://www.ft.com/content/fba6f975-a536-4c62-a7cb-a6070d61a5b4?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mo226yfycftxie",
+    "date": "2026-04-17",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "UK firms ‘should be worried’ about Anthropic’s latest AI model, minister says",
+    "summary": "Kanishka Narayan says Britain needs to ‘make most of opportunities’ as government launches £500mn unit Technology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/450cd25e-a9de-445d-98e3-725ca1092792?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mo226yfyt1lzmi",
+    "date": "2026-04-17",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "The Mythos cyber scare signals the economics of AI scarcity",
+    "summary": "As the capabilities of frontier models advance, gaining access to the technology could become critically importantTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/53f9bb30-3abc-4f4d-bf0d-99410d0ab77f?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mo226yfywo6mre",
+    "date": "2026-04-17",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "AI has an Awful Image problem",
+    "summary": "Modern-day Luddites are gaining ground because tech titans haven’t shown people how innovation will improve their livesTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/221470bd-ac17-4aa5-a8df-92e454f47c28?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mo226z5zpdydjx",
+    "date": "2026-04-17",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "A new way to explore the web with AI Mode in Chrome",
+    "summary": "Today’s upgrades for AI Mode in Chrome transform how you interact with the web",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/"
+  },
+  {
+    "id": "mo226z5zl5xlj6",
+    "date": "2026-04-17",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "New ways to create personalized images in the Gemini app",
+    "summary": "Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/"
+  }
+]
