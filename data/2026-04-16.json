@@ -1,5 +1,49 @@
 [
   {
+    "id": "mo3hl3faiysj0b",
+    "date": "2026-04-16",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "xAI to Rent Computing Power to Cursor",
+    "summary": "SpaceX subsidiary xAI will rent computing power from its data centers to the coding startup Cursor, Business Insider reported. Cursor plans to use tens of thousands of xAI’s chips to train its latest AI coding model, according to the report. The arrangement could help SpaceX, which acquired xAI ...",
+    "url": "https://www.theinformation.com/briefings/xai-rent-computing-power-cursor"
+  },
+  {
+    "id": "mo3hl7g6tm5hk4",
+    "date": "2026-04-16",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "当AI迈入Harness时代：以MiniMax为样本看智能体云端新基建",
+    "summary": "揭秘 MiniMax 的虾与马：如何用阿里云让智能体企业级大规模落地",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028135&idx=1&sn=2e4f293dda94036c97d6145bb940dd4b"
+  },
+  {
+    "id": "mo3hl7g63nyoib",
+    "date": "2026-04-16",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "数据限制具身？觅蜂杀进场破局：高质量数据水电一样即取即用",
+    "summary": "觅蜂科技发布一站式物理 AI 数据服务平台，启动蜂巢数据共创行动。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028135&idx=2&sn=d464915cd3a109d9ec259ea8e8902944"
+  },
+  {
+    "id": "mo3hl7g6ghumso",
+    "date": "2026-04-16",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "TPAMI 2026 | 北大彭宇新团队提出CPL++框架，实现视觉定位模型的「自知之明」和「自我纠错」",
+    "summary": "一种弱监督视觉定位框架 CPL++。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028135&idx=3&sn=7ba2faf4b884a950dd1aa45a46ffaf9e"
+  },
+  {
     "id": "mo226yfyip7cd9",
     "date": "2026-04-16",
     "sourceType": "portal",
