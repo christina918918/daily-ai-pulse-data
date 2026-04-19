@@ -1,5 +1,148 @@
 [
   {
+    "id": "mo6cc1biousfdt",
+    "date": "2026-04-18",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "What xAI and OpenAI Should Buy Next",
+    "summary": "Welcome, Weekenders! In this newsletter:• The Big Read: The rise of SemiAnalysis’ Dylan Patel, Silicon Valley’s favorite AI commentator • Plus, Recommendations—our weekly pop culture picks: “The Obit Project,” “Disneyland and the Rise of Automation” and “Unfamiliar”Recently, a close friend of mine i",
+    "url": "https://www.theinformation.com/articles/xai-openai-buy-next"
+  },
+  {
+    "id": "mo6cc1biyqetwn",
+    "date": "2026-04-18",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Anthropic’s CFO Wields Power Behind the Scenes",
+    "summary": "These days, Anthropic is a crowded place: a startup with its own in-house philosopher, researchers devoted to preventing Armageddon and a CEO willing to go toe-to-toe with the Pentagon. And then there’s Chief Financial Officer Krishna Rao, who has emerged as a key force within the company while stay",
+    "url": "https://www.theinformation.com/articles/anthropics-cfo-wields-power-behind-scenes"
+  },
+  {
+    "id": "mo6cc7v1bjbycx",
+    "date": "2026-04-18",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "OpenClaw的风，已经吹进了奶茶圈",
+    "summary": "企业该如何安全落地龙虾",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247884413&idx=1&sn=10b43030630ca4c1995462510e6f81e4"
+  },
+  {
+    "id": "mo6cc7v11bcvm0",
+    "date": "2026-04-18",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "AI开始接管实验室了！玻尔·跃迁实验室：试剂、设备、数据一个入口搞定，1800+设备即插即用",
+    "summary": "自然语言操控设备、零代码编排流程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247884413&idx=2&sn=b1ba4663befe724d0146e2b79ee61489"
+  },
+  {
+    "id": "mo6cc7v1wv2bgi",
+    "date": "2026-04-18",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "RAG搜对了却答错？德国萨尔大学找到了真相丨ACL'26",
+    "summary": "长文档、矛盾信息统统捋清",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247884413&idx=3&sn=92ebd9e047716196e4960463fc494ba4"
+  },
+  {
+    "id": "mo6cc7v186hru9",
+    "date": "2026-04-18",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "今年最火的AI产品，不止龙虾｜榜单申报中",
+    "summary": "抓紧申报了！截至4月27日",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247884413&idx=4&sn=839cab63ae22c25685a39e9fbf1b971d"
+  },
+  {
+    "id": "mo6cc7v1mc19qp",
+    "date": "2026-04-18",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247884413&idx=5&sn=fecb42f7e7ca6c5ef8d8b162ca389c88"
+  },
+  {
+    "id": "mo6cc7x8xtmti8",
+    "date": "2026-04-18",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "游戏行业不缺AI工具，缺什么？腾讯游戏用一场大赛给出答案",
+    "summary": "从一场大赛到一个生态",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028489&idx=1&sn=32fa70af65e811c88748eac575e60c8e"
+  },
+  {
+    "id": "mo6cc7x842mwwm",
+    "date": "2026-04-18",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "终于，Claude革了设计行业的命：Figma、Adobe股价重挫",
+    "summary": "设计师的 Claude Code 时刻？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028489&idx=2&sn=7c0538c8436d81bd9af9135697e0fd96"
+  },
+  {
+    "id": "mo6cc7x8en14ha",
+    "date": "2026-04-18",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "算力极限下，OpenAI 急着做什么？",
+    "summary": "OpenAI 近期在产品方向收缩、千亿算力投入等动作下，究竟想要做什么？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651028489&idx=3&sn=57371ef2f7d3dbb532d68921097b2ec1"
+  },
+  {
+    "id": "mo6cc7zwc246rp",
+    "date": "2026-04-18",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "B站爆了！Hermes首度直播回应「抄袭」，MiniMax提前杀入Harness赛点",
+    "summary": "B站爆了！Hermes首度直播回应「抄袭」，MiniMax提前杀入Harness赛点",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652693267&idx=1&sn=ed1b6d7130ba06b174d84de2bb2a2bb4"
+  },
+  {
+    "id": "mo6cc7zwk89xcx",
+    "date": "2026-04-18",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "跑分第一，推理暴跌！Claude Opus 4.7上线48小时口碑崩了",
+    "summary": "跑分第一，推理暴跌！Claude Opus 4.7上线48小时口碑崩了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652693267&idx=2&sn=1c1057254e1158138b97be7bc4593914"
+  },
+  {
+    "id": "mo6cc7zwh8gxon",
+    "date": "2026-04-18",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "伦理防线不可靠！分布偏移诱导，大模型进入暗黑模式",
+    "summary": "伦理防线不可靠！分布偏移诱导，大模型进入暗黑模式",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652693267&idx=3&sn=17ea7b53982442403a3b0f137fedc7db"
+  },
+  {
     "id": "mo4wvij86bzue5",
     "date": "2026-04-18",
     "sourceType": "portal",
