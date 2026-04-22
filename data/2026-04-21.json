@@ -1,5 +1,126 @@
 [
   {
+    "id": "moan31xkp6edyc",
+    "date": "2026-04-21",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "OpenAI Launches Cost-Per-Click ChatGPT Ads",
+    "summary": "OpenAI has started to offer ChatGPT ad campaigns that charge advertisers based on how many people click on the ads, screenshots of the company’s ad manager show, confirming The Information’s report last week about the plans. The new ads are in addition to ads that OpenAI first launched in ...",
+    "url": "https://www.theinformation.com/briefings/openai-launches-cost-per-click-chatgpt-ads"
+  },
+  {
+    "id": "moan33ajxcajdj",
+    "date": "2026-04-21",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Introducing ChatGPT Images 2.0",
+    "summary": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-0"
+  },
+  {
+    "id": "moan357wg0y8ck",
+    "date": "2026-04-21",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "神秘模型「大象」：仅100B拿下SOTA，Token效率超高！",
+    "summary": "天生干活圣体",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247885154&idx=1&sn=c6abcfcf1ac06703a92cf56c9da47544"
+  },
+  {
+    "id": "moan357wdfaqx5",
+    "date": "2026-04-21",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "GitHub Star明码标价5毛/颗，AI项目刷假星最猛",
+    "summary": "GitHub上存在约600万颗假Star",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247885154&idx=2&sn=7d94f0dd78b1c1bbf0f61d676cae18bf"
+  },
+  {
+    "id": "moan357wid3tai",
+    "date": "2026-04-21",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "国产多模态Agent拿下医学分割SOTA！不用改模型、不加token | 浙大&上海AI Lab",
+    "summary": "已被CVPR 2026接收",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247885154&idx=3&sn=93311fc665596fede9cb5e9119983f95"
+  },
+  {
+    "id": "moan35a0sycghr",
+    "date": "2026-04-21",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "拒绝透露姓名，却拿了两个世界第一：具身圈大佬们都在打听它是谁",
+    "summary": "这个最强世界模型到底谁家的？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029195&idx=1&sn=90ba2a003fb32072b2ac188a63243ec2"
+  },
+  {
+    "id": "moan35a0ptvw8t",
+    "date": "2026-04-21",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "谢尔盖·布林重启「创始人模式」？谷歌组建「突击队」，重押「AI编程」",
+    "summary": "被Anthropic「逼到墙角」，这一次，谷歌还来得及吗？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029195&idx=2&sn=bd8df065aa57e01ab590ed8ef906919d"
+  },
+  {
+    "id": "moan35a00duaxd",
+    "date": "2026-04-21",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Monet：赋予多模态大模型如人类一般的抽象视觉思考能力",
+    "summary": "Monet实现了一种训练MLLM直接在连续的隐空间思考的 Think with image 方法",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029195&idx=3&sn=70aac86fca04a898838192b56c6e9a4d"
+  },
+  {
+    "id": "moan35ccyx4ir1",
+    "date": "2026-04-21",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "华为全球首款大阔折来了！Pura X Max首发小艺伴随式AI，人机逻辑彻底变了",
+    "summary": "华为，这次把AI玩明白了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652694082&idx=1&sn=49488f1d2ec196c3523da4a5e46bc38c"
+  },
+  {
+    "id": "moan35cc4e5z9w",
+    "date": "2026-04-21",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "比OpenClaw还狠！奥特曼押注「心灵感应」，Codex直接读取你的屏幕",
+    "summary": "比OpenClaw还狠！奥特曼押注「心灵感应」，Codex直接读取你的屏幕",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652694082&idx=2&sn=f96bf0558decd8f97078f7f0bc3cb118"
+  },
+  {
+    "id": "moan35ccbtavm6",
+    "date": "2026-04-21",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "人多不管用！智能体团队别盲目扩张，最新综述给出三大维度",
+    "summary": "人多不管用！智能体团队别盲目扩张，最新综述给出三大维度",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652694082&idx=3&sn=c9dc9ba9914ab5c5dd0f4842f38eb300"
+  },
+  {
     "id": "mo97d247r7xp7k",
     "date": "2026-04-21",
     "sourceType": "portal",
