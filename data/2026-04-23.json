@@ -1,5 +1,104 @@
 [
   {
+    "id": "modhoz61oa517c",
+    "date": "2026-04-23",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Microsoft Offers Voluntary Retirement Buyouts for Some Employees",
+    "summary": "Microsoft is offering voluntary retirement buyouts to employees who have been at the company for a long time, chief people officer Amy Coleman said in a memo to staff on Thursday. The buyouts will be available to employees whose tenure at the company plus their age totals more than 70, the ...",
+    "url": "https://www.theinformation.com/briefings/microsoft-offers-voluntary-retirement-buyouts-employees"
+  },
+  {
+    "id": "modhp2wlu06r8x",
+    "date": "2026-04-23",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "河南师傅，左手扳手，右手飞书，竟然能搞数据分析！",
+    "summary": "多维表格又升级了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247885704&idx=1&sn=8ecca1420de794f9db99ecb337ecc29b"
+  },
+  {
+    "id": "modhp2wlqrbfea",
+    "date": "2026-04-23",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家",
+    "summary": "百万Token要降到1分钱",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247885704&idx=2&sn=410c14d6e72dbf340a6214836fa856f9"
+  },
+  {
+    "id": "modhp2wltnjfsr",
+    "date": "2026-04-23",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "27B秒了自家397B旗舰，Qwen3.6-27B开源，智能体编程全面超越前代",
+    "summary": "原生支持多模态理解",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247885704&idx=3&sn=589e625a5a883b4860acd1fb717c5fed"
+  },
+  {
+    "id": "modhp2wl3hwuc9",
+    "date": "2026-04-23",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "倒计时4天！我们在寻找能代表今年AI的企业与产品｜榜单申报",
+    "summary": "抓紧申报了！截至4月27日",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247885704&idx=4&sn=0f7fb29afd06390fbd1c6585d682eb5f"
+  },
+  {
+    "id": "modhp2wlv864ui",
+    "date": "2026-04-23",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247885704&idx=5&sn=daf1d7d31def2fe8b63fc35f178a0d22"
+  },
+  {
+    "id": "modhp2yk0vmscn",
+    "date": "2026-04-23",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "姚顺雨带队、Hy3 preview上线！腾讯现在适合上车吗？",
+    "summary": "好风凭借力，送我上青云。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029762&idx=1&sn=d93a219f9f0f24656ea9b16a02c98f3a"
+  },
+  {
+    "id": "modhp2ykws11wv",
+    "date": "2026-04-23",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "刚刚，DeepSeek开始频繁更新：Tile Kernels、DeepEP V2",
+    "summary": "难道是 V4 发布的前摇？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029762&idx=2&sn=5d7c0e89feb7b58401c82f3d8f6bd592"
+  },
+  {
+    "id": "modhp2ykvz7tz6",
+    "date": "2026-04-23",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "首篇「Attention Sink」综述：从利用、理解到消除，Transformer中的注意力「汇聚」全景解析",
+    "summary": "Attention Sink系统综述，系统梳理了超过180篇相关研究。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651029762&idx=3&sn=ce8d8aea229c9dc6bc2b36ef0ce0adc1"
+  },
+  {
     "id": "moc2emtkii84bl",
     "date": "2026-04-23",
     "sourceType": "portal",
