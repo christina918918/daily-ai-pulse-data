@@ -1,5 +1,38 @@
 [
   {
+    "id": "mogcjjwj7f16pq",
+    "date": "2026-04-25",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "OpenAI，危机四伏",
+    "summary": "OpenAI，危机四伏",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652695222&idx=1&sn=882790db0a4ade24c807fcb29481f4a1"
+  },
+  {
+    "id": "mogcjjwjyula63",
+    "date": "2026-04-25",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "Anthropic实验火了！Claude替人类做了186笔买卖，用Opus能多赚70%",
+    "summary": "Anthropic实验火了！Claude替人类做了186笔买卖，用Opus能多赚70%",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652695222&idx=2&sn=12d47e060c107eee3cac93f4c740b575"
+  },
+  {
+    "id": "mogcjjwjujb5po",
+    "date": "2026-04-25",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "给大模型验DNA，微调、蒸馏的隐藏血缘藏不住了 | ICLR'26 Oral",
+    "summary": "给大模型验DNA，微调、蒸馏的隐藏血缘藏不住了 | ICLR'26 Oral",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652695222&idx=3&sn=07b27a64b69e2898dcf5bd7c6bc92b97"
+  },
+  {
     "id": "moex1gswvwazr6",
     "date": "2026-04-25",
     "sourceType": "portal",
