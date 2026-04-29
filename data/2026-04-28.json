@@ -1,5 +1,71 @@
 [
   {
+    "id": "mokniwmeiwo824",
+    "date": "2026-04-28",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Our commitment to community safety",
+    "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+    "url": "https://openai.com/index/our-commitment-to-community-safety"
+  },
+  {
+    "id": "mokniyb7i5ad4z",
+    "date": "2026-04-28",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "不卷参数卷架构，这个开源模型把图像理解和生成统一了",
+    "summary": "全网开源，即刻可用",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247887537&idx=1&sn=67703ab483decc9a6e33b26c07636b5e"
+  },
+  {
+    "id": "mokniyb7gbdqgj",
+    "date": "2026-04-28",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "小米双模型正式开源！MiMo-V2.5-Pro无中断肝出“macOS”：54个应用全开、浏览器真能冲浪",
+    "summary": "百万亿Token免费发放，新兴Agent框架免费接入",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247887537&idx=2&sn=ed9dfac76ce1fd72fb8417c2fed5d512"
+  },
+  {
+    "id": "mokniyb7qzntzx",
+    "date": "2026-04-28",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "消费级显卡可以快速上手跑！面壁智能MiniCPM-o 4.5发技术报告",
+    "summary": "下载量突破25万",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247887537&idx=3&sn=c1a2b1c2e82579a31cf2d14d21a3d51e"
+  },
+  {
+    "id": "mokniyb7efwi3b",
+    "date": "2026-04-28",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "成功率最高暴跌36.9%！南洋理工首个“模糊指令”测试，直击具身智能落地软肋",
+    "summary": "系统化评估机器人如何处理“模糊人类指令”",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247887537&idx=4&sn=c33b83af20538a881c2f7a64fae4b6b7"
+  },
+  {
+    "id": "mokniyb7qqpmwk",
+    "date": "2026-04-28",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247887537&idx=5&sn=80bfad469951dfbbbb44d24df851e000"
+  },
+  {
     "id": "moj8471wtu5z7z",
     "date": "2026-04-28",
     "sourceType": "portal",
