@@ -1,5 +1,93 @@
 [
   {
+    "id": "mom2vwu9tttrqz",
+    "date": "2026-04-29",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Building the compute infrastructure for the Intelligence Age",
+    "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+    "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age"
+  },
+  {
+    "id": "mom2vz57a661mn",
+    "date": "2026-04-29",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "生数科技认领神秘登顶模型：AI视频公司拿出工业级Demo，跨本体跑通复杂长程任务",
+    "summary": "做视频，顺便把具身智能的活也干了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247887827&idx=1&sn=1145c1ec9d0e0f6755512d756d2f2909"
+  },
+  {
+    "id": "mom2vz57dmfel3",
+    "date": "2026-04-29",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "确认！DeepSeek多模态AI已经开测",
+    "summary": "首页出现「识图模式」",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247887827&idx=2&sn=6801c43c3dc9126d3e6bc2dd94a372b4"
+  },
+  {
+    "id": "mom2vz57wvb611",
+    "date": "2026-04-29",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "龙虾冲浪终于不迷路了！网页智能体新框架Avenir-Web开源即SOTA",
+    "summary": "不用训练就能用",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247887827&idx=3&sn=6f15e73e3e9766986b064a1fce6fe955"
+  },
+  {
+    "id": "mom2vz57ffgvq1",
+    "date": "2026-04-29",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247887827&idx=4&sn=c45db2c32de0c11f2c9b517aaa82ae92"
+  },
+  {
+    "id": "mom2vz9wmgmh7x",
+    "date": "2026-04-29",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "刚刚，国产AI双冠王！黑马世界模型打破全球纪录，一镜到底封神",
+    "summary": "刚刚，国产AI双冠王！黑马世界模型打破全球纪录，一镜到底封神",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652696367&idx=1&sn=8db80a50389fcdf5d1ac7c8a31a59921"
+  },
+  {
+    "id": "mom2vz9wiib9ky",
+    "date": "2026-04-29",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "20岁了！劈柴哥发帖庆生：谷歌翻译换了4代AI，第一次有了「呼吸感」",
+    "summary": "20岁了！劈柴哥发帖庆生：谷歌翻译换了4代AI，第一次有了「呼吸感」",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652696367&idx=2&sn=42489f533f480df337253aa1b543e08b"
+  },
+  {
+    "id": "mom2vz9wzm7l7x",
+    "date": "2026-04-29",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "刷榜只是体力活！清华消费10万块，一周「肝」出105个SOTA",
+    "summary": "刷榜只是体力活！清华消费10万块，一周「肝」出105个SOTA",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652696367&idx=3&sn=2d22c09d1f00f30a1f4fc080dccc009f"
+  },
+  {
     "id": "moknivek5j4pg1",
     "date": "2026-04-29",
     "sourceType": "portal",
