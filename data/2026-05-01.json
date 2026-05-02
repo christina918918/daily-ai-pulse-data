@@ -1,5 +1,71 @@
 [
   {
+    "id": "moox96g79he1k8",
+    "date": "2026-05-01",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Pentagon Signs Classified AI Deals with Seven Companies Following Anthropic Spat",
+    "summary": "The U.S. Department of Defense has signed deals with seven AI companies to use their technology on classified networks, the agency said Friday. The AI providers include SpaceX’s xAI, OpenAI, Google, Nvidia, Microsoft, Amazon Web Services, and the AI startup Reflection, the Pentagon said. Those ...",
+    "url": "https://www.theinformation.com/briefings/pentagon-signs-classified-ai-deals-seven-companies-following-anthropic-spat"
+  },
+  {
+    "id": "moox96g7mxgr6t",
+    "date": "2026-05-01",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Moonshot AI and Other Chinese Firms Weigh Corporate Overhaul in Wake of Meta-Manus Deal Reversal",
+    "summary": "Chinese tech startups such as Moonshot AI and DeepRoute.ai are considering changing their corporate structures&mdash;in which they’re partly incorporated overseas&mdash;in favor of incorporating in China. That shift follows signals from China’s securities regulator that it is less likely to approve ",
+    "url": "https://www.theinformation.com/articles/moonshot-ai-chinese-firms-weigh-corporate-overhaul-wake-meta-manus-deal-reversal"
+  },
+  {
+    "id": "moox96g7x71wnh",
+    "date": "2026-05-01",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Atlassian Shares Jump Nearly 25% as AI Search Boosts Product Sales",
+    "summary": "Shares of Atlassian, a provider of software that helps teams of developers and employees collaborate on projects, jumped nearly 25% in extended trading after its third-quarter earnings, as investors responded to signs that AI is giving a boost to its business. Atlassian’s revenue grew 32% ...",
+    "url": "https://www.theinformation.com/briefings/atlassian-shares-jump-nearly-25-ai-search-boosts-product-sales"
+  },
+  {
+    "id": "moox96g73p1fc1",
+    "date": "2026-05-01",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Apple's Cash Strategy Shift",
+    "summary": "Tim Cook is going out with a bang. Apple reported a stellar March quarter on Thursday, delivering 17% higher revenue, thanks to 22% growth in iPhone revenues, a big change from several years of anemic growth in sales of the ubiquitous device. In other words, far more consumers are upgrading their ol",
+    "url": "https://www.theinformation.com/articles/apples-cash-strategy-shift"
+  },
+  {
+    "id": "moox96g7kv8edi",
+    "date": "2026-05-01",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Founders Fund Takes a Bigger Bite of Anduril",
+    "summary": "Two months ago, my colleagues broke the news of Anduril’s latest funding round, slated to value the company at $60 billion. Andreessen Horowitz and Thrive Capital are leading the roughly $4 billion investment, according to a source with direct knowledge of the fundraising efforts. But another invest",
+    "url": "https://www.theinformation.com/articles/founders-fund-takes-bigger-bite-anduril"
+  },
+  {
+    "id": "moox96g71h3uj4",
+    "date": "2026-05-01",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Exclusive: Zuckerberg Tells Meta Employees: We’re Tracking You Because You’re Really Smart",
+    "summary": "Meta Platforms CEO Mark Zuckerberg said using employees’ computer activity to train its AI models could give the company an edge over rivals, arguing that its staff are of higher average intelligence than contractors typically used by data-labeling firms. In a company-wide meeting on Thursday, a ...",
+    "url": "https://www.theinformation.com/briefings/exclusive-zuckerberg-tells-meta-employees-tracking-smart"
+  },
+  {
     "id": "moni4mias74yuf",
     "date": "2026-05-01",
     "sourceType": "portal",
