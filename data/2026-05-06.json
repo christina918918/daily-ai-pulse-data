@@ -1,5 +1,16 @@
 [
   {
+    "id": "mow385ffjhzbu6",
+    "date": "2026-05-06",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+    "url": "https://openai.com/index/singular-bank"
+  },
+  {
     "id": "moungvhhr3yemw",
     "date": "2026-05-06",
     "sourceType": "portal",
