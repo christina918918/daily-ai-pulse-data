@@ -1,5 +1,16 @@
 [
   {
+    "id": "moxihb5cn4xzvl",
+    "date": "2026-05-06",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "How ChatGPT learns about the world while protecting privacy",
+    "summary": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
+    "url": "https://openai.com/index/how-chatgpt-protects-privacy"
+  },
+  {
     "id": "mow385ffjhzbu6",
     "date": "2026-05-06",
     "sourceType": "company",

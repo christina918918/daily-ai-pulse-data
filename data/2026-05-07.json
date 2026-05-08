@@ -1,5 +1,60 @@
 [
   {
+    "id": "moxihb5cjrq0w3",
+    "date": "2026-05-07",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Simplex rethinks software development with Codex",
+    "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
+    "url": "https://openai.com/index/simplex"
+  },
+  {
+    "id": "moxihcykhm9nnw",
+    "date": "2026-05-07",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "离谱！一句话+百元预算，这只龙虾就给我搓出了一支百万级广告片？",
+    "summary": "创意脚本、旁白、配乐、剪辑一条龙搞定",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247889236&idx=1&sn=734b4f2a90b13769479eaea924a36061"
+  },
+  {
+    "id": "moxihcykosqolj",
+    "date": "2026-05-07",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
+    "summary": "背靠国内最大ComfyUI生态",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247889236&idx=2&sn=a2082831eca5be476cc1f7d8d3a82b7d"
+  },
+  {
+    "id": "moxihcyknt7naf",
+    "date": "2026-05-07",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "只看图片就能学会压缩Token！浙大&阿里新框架多轮VQA压缩率90%，精度不掉｜CVPR 2026",
+    "summary": "90%的视觉Token都能扔",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247889236&idx=3&sn=c7df379968508005e66d604552a3e491"
+  },
+  {
+    "id": "moxihcykyj9eht",
+    "date": "2026-05-07",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247889236&idx=4&sn=e9d1259f4591dd10ed9e76b88e5c692b"
+  },
+  {
     "id": "mow385323l184k",
     "date": "2026-05-07",
     "sourceType": "portal",
