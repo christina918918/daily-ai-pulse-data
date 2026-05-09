@@ -1,5 +1,38 @@
 [
   {
+    "id": "moyxetodcatoq8",
+    "date": "2026-05-08",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "拿下1亿美元种子轮！SGLang团队创立RadixArk，打造下一代开放AI基础设施",
+    "summary": "Intel CEO、John Schulman 等全线入局，AI Infra 迎来「系统梦之队」。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032082&idx=1&sn=0edd0911ca751491929d5984faf7a701"
+  },
+  {
+    "id": "moyxetodeau8ai",
+    "date": "2026-05-08",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "OpenAI官方CLI上线，跟复杂的SDK说拜拜",
+    "summary": "终端原生化。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032082&idx=2&sn=27559e9afe2e7e6407e3ae4ece6dc2a0"
+  },
+  {
+    "id": "moyxetod6ror7g",
+    "date": "2026-05-08",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "ICLR 2026 I 英伟达 & 普渡大学用agent闭环实现文生3D",
+    "summary": "让文本生成 3D 场景这件事，不再只是一次性的“生成”，而更像一个不断规划、检查、修正的过程。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032082&idx=3&sn=2fe6091fbcc78fd7646491f8c8f965d4"
+  },
+  {
     "id": "moxiha147xfjrm",
     "date": "2026-05-08",
     "sourceType": "portal",
