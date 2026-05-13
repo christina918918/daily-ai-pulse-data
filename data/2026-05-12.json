@@ -1,5 +1,71 @@
 [
   {
+    "id": "mp4o0tocgwxwnv",
+    "date": "2026-05-12",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "光轮智能与谷歌、英伟达共同定义物理AI仿真标准",
+    "summary": "仿真，正在成为物理AI时代的CUDA。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032531&idx=1&sn=c52806b42194a35cb3220da73ce1ee37"
+  },
+  {
+    "id": "mp4o0toc1nq2ai",
+    "date": "2026-05-12",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "宇树造了款民用高达！390万元起",
+    "summary": "看！一位铁驭！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032531&idx=2&sn=c6900503aba2065f25b448294c953772"
+  },
+  {
+    "id": "mp4o0tochjutew",
+    "date": "2026-05-12",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "告别云端依赖！字节开源新作DreamLite让手机秒变 AI 画板",
+    "summary": "口袋里随时可用的画板",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032531&idx=3&sn=d20164b0e4bf6329393c57e669f68886"
+  },
+  {
+    "id": "mp4o0tqeb84aym",
+    "date": "2026-05-12",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "人类史上最大单品工业品，正在中国量产！",
+    "summary": "人类史上最大单品工业品，正在中国量产！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652699783&idx=1&sn=e874cd0d09a5f09dd7d2764f9982b64a"
+  },
+  {
+    "id": "mp4o0tqe9hl1h7",
+    "date": "2026-05-12",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "绝杀！OpenAI正式接管人类耳朵，首个GPT-5级推理音频模型来了",
+    "summary": "绝杀！OpenAI正式接管人类耳朵，首个GPT-5级推理音频模型来了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652699783&idx=2&sn=f7674cd7caa9ab1af25a0b93e17ef1bf"
+  },
+  {
+    "id": "mp4o0tqeur8c8m",
+    "date": "2026-05-12",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "TTS也要真人感！首个字级内容、毫秒级停顿控制的语音合成系统",
+    "summary": "TTS也要真人感！首个字级内容、毫秒级停顿控制的语音合成系统",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652699783&idx=3&sn=1ed3afa9b6b4e443d25e506ef3d77b37"
+  },
+  {
     "id": "mp38e24t6tywto",
     "date": "2026-05-12",
     "sourceType": "portal",
