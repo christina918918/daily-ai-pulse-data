@@ -1,5 +1,104 @@
 [
   {
+    "id": "mp634oj1t21eux",
+    "date": "2026-05-13",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Our response to the TanStack npm supply chain attack",
+    "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening def",
+    "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack"
+  },
+  {
+    "id": "mp634q6vdgu6od",
+    "date": "2026-05-13",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "挑战扩散自回归统治！字节提出视觉生成第三种路线，让模型像人类一样边画边改",
+    "summary": "相同参数量超越扩散自回归",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247890479&idx=1&sn=b266ed272248b79a32d1be46c1e01ee7"
+  },
+  {
+    "id": "mp634q6vpee73p",
+    "date": "2026-05-13",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "8岁小学生idea直接变应用，秒哒3.0刚刚把AI应用门槛打没了",
+    "summary": "重新定义“开发应用”",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247890479&idx=2&sn=a40210b8417cd7e914892b6cb2c2d669"
+  },
+  {
+    "id": "mp634q6v7y496x",
+    "date": "2026-05-13",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "倒计时一周，AIGC峰会嘉宾又上新了！一起来看第三波嘉宾",
+    "summary": "520来一起聊AI！北京·金茂万丽酒店",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247890479&idx=3&sn=3cce67882406076ede0d3171ee36552d"
+  },
+  {
+    "id": "mp634q6v2lfxb7",
+    "date": "2026-05-13",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "微信聊天记录喂AI（腾讯官方版）",
+    "summary": "聊天记录一键转脑图表格会议纪要",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247890479&idx=4&sn=6241b79af2c45be3798f29d9a593c82b"
+  },
+  {
+    "id": "mp634q6v93ygo1",
+    "date": "2026-05-13",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位招小红书AI冲浪选手",
+    "summary": "量子位招小红书AI冲浪选手",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247890479&idx=5&sn=099d68627344ede21785b08c3ca4e50d"
+  },
+  {
+    "id": "mp634q8ce8djox",
+    "date": "2026-05-13",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "88天登录193次！顶级证据+循证医学，让500万中国医生拥有「神助攻」",
+    "summary": "不是模型聪不聪明的问题，而是一套系统的证据工程建设。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032731&idx=1&sn=7c2c5cf79280ac16dd5c1b558af26441"
+  },
+  {
+    "id": "mp634q8clta5ob",
+    "date": "2026-05-13",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "突发！林俊旸被曝创业：新AI Lab估值20亿美元",
+    "summary": "林俊旸的「下一站做什么」有了新的动向",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032731&idx=2&sn=08bee6cdee532d78ff8fc1d1e9643c73"
+  },
+  {
+    "id": "mp634q8cyvcaz5",
+    "date": "2026-05-13",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "0成本升级，快手OneSearch-V2全量上线，生成式搜索进入「懂你」时代",
+    "summary": "买家数、订单量双突破。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651032731&idx=3&sn=785b3de120c34e17b9b2d149b5b52a35"
+  },
+  {
     "id": "mp4o0rfsf7w307",
     "date": "2026-05-13",
     "sourceType": "portal",
