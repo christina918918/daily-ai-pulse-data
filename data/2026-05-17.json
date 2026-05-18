@@ -1,5 +1,71 @@
 [
   {
+    "id": "mpbt1qqfos1myw",
+    "date": "2026-05-17",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "一只机器狗，把英伟达的算力王座拱翻了",
+    "summary": "算力超越英伟达，成本却低了几倍",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247891358&idx=1&sn=db9c28d37f97b773a6e05036cca72452"
+  },
+  {
+    "id": "mpbt1qqfi09sqf",
+    "date": "2026-05-17",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "无需构造偏好对：TGO用标量反馈对齐视觉生成模型｜ICML'26",
+    "summary": "来自NUS最新研究",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247891358&idx=2&sn=d63e568f68be834df8cd92ecc2e35ddc"
+  },
+  {
+    "id": "mpbt1qqfjwt14h",
+    "date": "2026-05-17",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247891358&idx=3&sn=89ab1e076a71d44ac6ab96333c27c26b"
+  },
+  {
+    "id": "mpbt1quq7uamzw",
+    "date": "2026-05-17",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "中国机器狗撕开英伟达垄断！70亿大模型跑通，成本仅1/10",
+    "summary": "中国机器狗撕开英伟达垄断！70亿大模型跑通，成本仅1/10",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652701076&idx=1&sn=7126c4f20e8b6b1b979eb900ac04d5a0"
+  },
+  {
+    "id": "mpbt1quq81n13h",
+    "date": "2026-05-17",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "全球首个全民免费用ChatGPT Plus的国家，OpenAI官宣了",
+    "summary": "一场大型社会实验。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652701076&idx=2&sn=df64bdf74650dbdc474ac7e740dc4b3e"
+  },
+  {
+    "id": "mpbt1quqt1pb31",
+    "date": "2026-05-17",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "DAG革新时间序列预测，代码、数据、排行榜全开源 | ICML'26",
+    "summary": "DAG革新时间序列预测，代码、数据、排行榜全开源 | ICML'26",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652701076&idx=3&sn=5e1d3afd9f8c8c497500ae695a3c498d"
+  },
+  {
     "id": "mpadcbhr68zg7w",
     "date": "2026-05-17",
     "sourceType": "portal",
