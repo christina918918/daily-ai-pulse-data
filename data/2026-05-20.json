@@ -1,0 +1,112 @@
+[
+  {
+    "id": "mpd8k146oe9636",
+    "date": "2026-05-20",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Google to release smart glasses and add AI ‘agents’ to search engine",
+    "summary": "CEO Sundar Pichai says features powered by new Gemini model will close gap with Anthropic and OpenAIArtificial intelligence, Technology sector",
+    "url": "https://www.ft.com/content/c47ab51e-2521-4ccb-9de5-a2b03791981a?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mpd8k1460y62dy",
+    "date": "2026-05-20",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Wall Street prepares for boom in tech IPOs after Cerebras’ success",
+    "summary": "Chip designer’s $6.4bn raise signals demand ahead of huge listings expected from SpaceX, OpenAI and AnthropicArtificial intelligence, Technology sector",
+    "url": "https://www.ft.com/content/b839fea1-8563-4a34-b8f0-1c735f23467f?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mpd8k146i2kgl6",
+    "date": "2026-05-20",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "America needs to put the renminbi back on the international agenda",
+    "summary": "‘Managed trade’ isn’t the answerGlobal trade",
+    "url": "https://www.ft.com/content/b600dbba-e881-4d20-b55f-94b313b8d5d5?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mpd8k225huo9fo",
+    "date": "2026-05-20",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "I/O 2026",
+    "summary": "At Google I/O 2026, we shared how we’re making AI more helpful for everyone. See everything we announced.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/"
+  },
+  {
+    "id": "mpd8k225w4n83o",
+    "date": "2026-05-20",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "How AI Mode is changing the way people search in the U.S.",
+    "summary": "One year after launch, see how AI Mode’s users are shifting from keywords to natural language queries.",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/"
+  },
+  {
+    "id": "mpd8k225sq8ifu",
+    "date": "2026-05-20",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "New ways to create and get things done in Google Workspace",
+    "summary": "Announcing new voice capabilities in Gmail, Docs and Keep, a new design tool called Google Pics and updates to AI Inbox.",
+    "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/"
+  },
+  {
+    "id": "mpd8k225e4fy2c",
+    "date": "2026-05-20",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "I/O 2026: Welcome to the agentic Gemini era",
+    "summary": "The latest from Google I/O: See how we’re helping you get more done with Gemini.",
+    "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/"
+  },
+  {
+    "id": "mpd8k225v954qt",
+    "date": "2026-05-20",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Gemini 3.5: frontier intelligence with action",
+    "summary": "At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"
+  },
+  {
+    "id": "mpd8k225fpqebc",
+    "date": "2026-05-20",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "A new era for AI Search",
+    "summary": "We shared the next step in our journey to bring together the best of a search engine with the best of AI.",
+    "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/"
+  },
+  {
+    "id": "mpd8k2253bse10",
+    "date": "2026-05-20",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+    "summary": "Introducing a $100 AI Ultra plan — plus, new features and benefits for Google AI Plus, Pro and Ultra subscribers.",
+    "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/"
+  }
+]
