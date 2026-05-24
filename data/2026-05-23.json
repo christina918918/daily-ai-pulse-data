@@ -1,5 +1,49 @@
 [
   {
+    "id": "mpkdkswf8mv8a8",
+    "date": "2026-05-23",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "The new arms race in computing power",
+    "summary": "Military capability depends increasingly on data centres. Now governments outpaced in AI are looking to experimental technologiesArtificial intelligence",
+    "url": "https://www.ft.com/content/5aecd7b6-652f-4edb-b666-71f3f50fc43e?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mpkdkv933cdoak",
+    "date": "2026-05-23",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "没有大模型、没有自有流量、股价一度跌成废墟，他靠什么把广告投放炼成千亿金矿？",
+    "summary": "当别人看不懂你的时候就觉得你在作弊。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034626&idx=1&sn=2cc5bbfae3d1c6ae3dbef85be3ca4f9d"
+  },
+  {
+    "id": "mpkdkv931m6vkd",
+    "date": "2026-05-23",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Bengio新论文刷新递归推理上限，并行轨迹碾压串行推理",
+    "summary": "当递归推理遇上概率采样，小模型也能探索多条解题路径。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034626&idx=2&sn=388ad293530242fb645a8a020cb07f9a"
+  },
+  {
+    "id": "mpkdkv93cgrmhg",
+    "date": "2026-05-23",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "22.9倍加速！FlashAR：仅用0.05%数据，让预训练好的自回归图像模型飞起来",
+    "summary": "在不从头训练、不改变原始预测目标的前提下，将已有的预训练 AR 模型改造成高度并行的生成器，同时继承其强大的生成能力？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034626&idx=3&sn=b2bf74624dd0f10786bae2d650ffc2a5"
+  },
+  {
     "id": "mpixz5hllavu0w",
     "date": "2026-05-23",
     "sourceType": "portal",
