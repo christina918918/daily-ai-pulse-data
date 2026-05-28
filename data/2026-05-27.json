@@ -1,5 +1,49 @@
 [
   {
+    "id": "mpq3z3y7wf5y9j",
+    "date": "2026-05-27",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "1400亿Agent入场，“流量”这条护城河要塌了",
+    "summary": "看到大厂押注Agent生态的新方向",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893397&idx=1&sn=efe0b3025b18d6d75d2a72661d959cd1"
+  },
+  {
+    "id": "mpq3z3y7ypsr5i",
+    "date": "2026-05-27",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "大模型也需要睡觉！让AI打个盹，醒来更聪明",
+    "summary": "解越难的题，越要多睡会儿",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893397&idx=2&sn=6b10c525880f4303c0062a80bd069d06"
+  },
+  {
+    "id": "mpq3z3y7x2nf7c",
+    "date": "2026-05-27",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看”",
+    "summary": "医学AI Agent到了关键拐点",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893397&idx=3&sn=d86dba851c44d7cf9236b933d052be3f"
+  },
+  {
+    "id": "mpq3z3y7xcz83b",
+    "date": "2026-05-27",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893397&idx=4&sn=c9c37660a2882e6039e73705cc9d210f"
+  },
+  {
     "id": "mpookpewou3cde",
     "date": "2026-05-27",
     "sourceType": "portal",
