@@ -1,0 +1,79 @@
+[
+  {
+    "id": "mprja5ic6o9fpw",
+    "date": "2026-05-30",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Private credit firm Castlelake explores bid for easyJet",
+    "summary": "Takeover of budget airline would lead to another UK-listed company taken off the stock market Investments",
+    "url": "https://www.ft.com/content/90b32812-a766-4195-99c3-88d3025d2f54?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mprja5iccrwagn",
+    "date": "2026-05-30",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "US stocks post longest weekly winning streak since 2023",
+    "summary": "AI enthusiasm and hopes for deal to extend US-Iran ceasefire boost marketsTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/d218a534-7f63-4bd9-867d-f47f4727e2e1?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mprja5ic1t3kuo",
+    "date": "2026-05-30",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "SpaceX and the ‘enshittification’ of markets",
+    "summary": "The IPO of Elon Musk’s company is a big risk for the millions of investors who have put savings into passive investingTechnology sector, Investments",
+    "url": "https://www.ft.com/content/f724d500-fd45-4f38-86b8-549b5cae88ba?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mprja5ic6uit11",
+    "date": "2026-05-30",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Directors’ Deals: Aviva chief Blanc adds to stake",
+    "summary": "Insurer’s share price has fallen by 8 per cent so far this yearInvestments",
+    "url": "https://www.ft.com/content/81b4ab10-f704-45f8-824f-f25a437a0adf?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mprja5ic53fuk4",
+    "date": "2026-05-30",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Stockpickers: Diaceutics, Pets at Home, Autotrader Group",
+    "summary": "Our experts discuss which companies to buy, sell or hold this weekInvestments",
+    "url": "https://www.ft.com/content/67bb3fac-fb11-41a1-92e3-7a8fc12e462d?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mprja696ycah54",
+    "date": "2026-05-30",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/"
+  },
+  {
+    "id": "mprja696yaraw7",
+    "date": "2026-05-30",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+    "summary": "Watch 9 videos showing the capabilities of Gemini Omni and Gemini 3.5, announced at Google I/O 2026.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/"
+  }
+]

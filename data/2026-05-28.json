@@ -1,5 +1,60 @@
 [
   {
+    "id": "mprja5z74scrk6",
+    "date": "2026-05-28",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "How Endava builds an agentic organization with Codex",
+    "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+    "url": "https://openai.com/index/endava"
+  },
+  {
+    "id": "mprja5z7oaogaj",
+    "date": "2026-05-28",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "url": "https://openai.com/index/mufg"
+  },
+  {
+    "id": "mprja8j0r54vvw",
+    "date": "2026-05-28",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速",
+    "summary": "国产算力是潮流，先用起来",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893592&idx=1&sn=f3de28fc4031f185ad9c2576c20c03c3"
+  },
+  {
+    "id": "mprja8j0b4rnd7",
+    "date": "2026-05-28",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "GUI Agent轨迹获取新范式：有限状态机合成无限轨迹数据，平均每条轨迹成本低至0.04美元",
+    "summary": "把网页从黑盒变成可验证的交互世界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893592&idx=2&sn=b0bb834be9ebe25b9fb552f9fbb659b4"
+  },
+  {
+    "id": "mprja8j03b8csz",
+    "date": "2026-05-28",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247893592&idx=3&sn=196fb556e7b99cc08941d1e33d0a0b9a"
+  },
+  {
     "id": "mpq3z1sgv6ifu4",
     "date": "2026-05-28",
     "sourceType": "portal",
