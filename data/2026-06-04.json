@@ -1,5 +1,71 @@
 [
   {
+    "id": "mq1j812qhyxe8b",
+    "date": "2026-06-04",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "当办公室都在咕咕嘎嘎……打字，正在变成一种古老的技艺",
+    "summary": "硅谷开始喃喃低语……",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037142&idx=1&sn=b38c9fbfcf9b3430112938e540e3d153"
+  },
+  {
+    "id": "mq1j812q7s3g6n",
+    "date": "2026-06-04",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "告别盲盒筛选！分子之心发布MMDesign，抗体发现迈入可编程生物工程时代",
+    "summary": "AI蛋白质设计从概念验证走向产业化应用。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037142&idx=2&sn=af4d327cc3b148b0928fc83e67d14753"
+  },
+  {
+    "id": "mq1j812qmffwec",
+    "date": "2026-06-04",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "120亿参数跑在16G笔记本上，谷歌Gemma 4新成员杀来了",
+    "summary": "12B性能逼近更大规模的26B。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037142&idx=3&sn=4f4b6b166c1ab682a944438f594da763"
+  },
+  {
+    "id": "mq1j814e7d0yil",
+    "date": "2026-06-04",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "硅谷CEO深夜站台！MiniMax M3冲上开源第一，中文社区却吵翻了？",
+    "summary": "争议声里，国产模型正接受全球开发者检验",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652705015&idx=1&sn=5b5d7bfb44fdc4919f1cfa3e11cdf5ee"
+  },
+  {
+    "id": "mq1j814eh00h76",
+    "date": "2026-06-04",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "专家预测年底才到，Claude Mythos今天就跑出3小时6分！",
+    "summary": "AI加速，超乎想象！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652705015&idx=2&sn=23955f4f6d14f0d4f9eb777d596eb634"
+  },
+  {
+    "id": "mq1j814e8g2dcl",
+    "date": "2026-06-04",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "超越国际顶尖模型！分子之心推MMDesign，靶点命中率狂飙至90%",
+    "summary": "许锦波教授团队再破局，攻克制药深水区！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652705015&idx=3&sn=5cdef4557c0bd095e4d7d9a780b0062c"
+  },
+  {
     "id": "mq03tt751bygks",
     "date": "2026-06-04",
     "sourceType": "portal",
