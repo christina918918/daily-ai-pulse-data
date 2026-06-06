@@ -1,5 +1,148 @@
 [
   {
+    "id": "mq2ygotzq94xpk",
+    "date": "2026-06-06",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Trump relaunches tariffs war after court struck down levies",
+    "summary": "President attempts to craft a regime of punitive trade measures that can survive legal challenges Global trade",
+    "url": "https://www.ft.com/content/7e5cfed4-dd91-435d-914a-677f97822724?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mq2ygotz3xcxrs",
+    "date": "2026-06-06",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Wasting China’s solar panel surplus is madness",
+    "summary": "Clean power is within our reach — yet factories sit idleGlobal trade",
+    "url": "https://www.ft.com/content/b6cac184-75a4-47ab-94c5-5eb8c92cd407?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mq2ygotz37phvl",
+    "date": "2026-06-06",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Can AI save a company’s soul?",
+    "summary": "It is easy to imagine institutional memory lost to automation preserved in silicon — but there is one crucial differenceArtificial intelligence",
+    "url": "https://www.ft.com/content/bad7c845-d7b5-45eb-acb1-1299ccd9dacf?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mq2ygotzg3j8tk",
+    "date": "2026-06-06",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Police in England and Wales told to halt AI use in court statements",
+    "summary": "Safeguards must be in place before forces automate justice tasks, says head of Police.AI  Artificial intelligence",
+    "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mq2ygrj6b4wq4l",
+    "date": "2026-06-06",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+    "summary": "观众投币定前10！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247895494&idx=1&sn=9f5af0c9bb7f2c399a9c9a1fd0c9e324"
+  },
+  {
+    "id": "mq2ygrj6kdzewb",
+    "date": "2026-06-06",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "港股鞋王千百度，一夜完成AI数据公司转型",
+    "summary": "形成「鞋履+人工智能数据」双主业",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247895494&idx=2&sn=e008b344edd08b0e0ba77e015f491adb"
+  },
+  {
+    "id": "mq2ygrj6d4zna9",
+    "date": "2026-06-06",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247895494&idx=3&sn=b933655c2c05937038eb677a132b1354"
+  },
+  {
+    "id": "mq2ygrl7jw4if9",
+    "date": "2026-06-06",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "视频AI卷向5分钟：全量开源，一次生成，正式告别「盲盒抽卡」",
+    "summary": "京东搅局AI长视频。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037518&idx=1&sn=24f77464cb1d0d46ac80c9c5e9911f96"
+  },
+  {
+    "id": "mq2ygrl7o0b3nk",
+    "date": "2026-06-06",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "DeepSeek V4做数学证明，500倍成本优势：智能体系统刷新多项纪录",
+    "summary": "普林斯顿大学团队出品。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037518&idx=2&sn=2d6012bcb8a495b818fce4458626480d"
+  },
+  {
+    "id": "mq2ygrl7c8gxja",
+    "date": "2026-06-06",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "大晓机器人联合南洋理工打通Physical AI全链路！PhysX-Omni补齐物理AI基建",
+    "summary": "首次实现对刚体、可形变物体以及关节物体的统一建模，能够直接生成具备丰富物理属性、可用于真实仿真环境的高质量 3D 资产。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651037518&idx=3&sn=59f355e1dc3f88caf44be217a4474af5"
+  },
+  {
+    "id": "mq2ygrn4hk7lvo",
+    "date": "2026-06-06",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "美股一夜蒸发2万亿！ASI三巨兽上市前夜，整个华尔街被抽干",
+    "summary": "AI已占美股四成，ASI巨兽正重写资本秩序",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652705304&idx=1&sn=8945fa6608aa458e3b5eb041c52803aa"
+  },
+  {
+    "id": "mq2ygrn4wkidyb",
+    "date": "2026-06-06",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "世界第一！让全体AI翻车的叠衣难题，被这家中国实验室拿下",
+    "summary": "柔性操作，具身智能落地的最后一公里",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652705304&idx=2&sn=0b45cd32077915e97854637d4789e4a7"
+  },
+  {
+    "id": "mq2ygrn42pz54c",
+    "date": "2026-06-06",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "280美元一单！1000名工程师教Claude写好代码",
+    "summary": "280美元一单！1000名工程师教Claude写好代码",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652705304&idx=3&sn=1f5969b7cbfc0935fedabc3ec6407b62"
+  },
+  {
     "id": "mq1j7yryafwryf",
     "date": "2026-06-06",
     "sourceType": "portal",
