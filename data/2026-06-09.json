@@ -1,5 +1,49 @@
 [
   {
+    "id": "mq8p2alsu76mip",
+    "date": "2026-06-09",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Industrial policy for the Intelligence Age",
+    "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
+  },
+  {
+    "id": "mq8p2cj0zjqh6x",
+    "date": "2026-06-09",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "300美元跑通世界模型！比老黄便宜10倍",
+    "summary": "300美元跑通世界模型！比老黄便宜10倍",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652705999&idx=1&sn=aab1dd996d6a0de7ecb501668397ec00"
+  },
+  {
+    "id": "mq8p2cj0za28cb",
+    "date": "2026-06-09",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "苹果渴求的端侧AI杀出黑马：首个认知模型诞生，4B打平GPT-5.4！",
+    "summary": "Karpathy 预言的「认知核心」新方向已落地。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652705999&idx=2&sn=37c13d0202cef8ba2b435697c2b52db9"
+  },
+  {
+    "id": "mq8p2cj0ae3xia",
+    "date": "2026-06-09",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "新智元ALL in ASI英雄帖",
+    "summary": "新智元ALL in ASI英雄帖",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652705999&idx=3&sn=5e69a75eaba2fde9b370e71483154efa"
+  },
+  {
     "id": "mq79csnmrgoelm",
     "date": "2026-06-09",
     "sourceType": "portal",

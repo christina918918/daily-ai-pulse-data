@@ -1,0 +1,112 @@
+[
+  {
+    "id": "mq8p2a975dajlf",
+    "date": "2026-06-11",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Oracle to spend $70bn on data centre build-out in coming year",
+    "summary": "Shares in the database group drop as much as 8% in after-hours trading following flat revenue guidance Technology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/974b8392-3197-468c-ac6e-18d0a2efce42?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mq8p2a97oh43p8",
+    "date": "2026-06-11",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "US tech stocks sink as volatility flares up on Wall Street",
+    "summary": "Latest bout of selling comes ahead of SpaceX’s historic market debutTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/bbc8c712-23fe-4cad-b2ee-39dec0e0f3ca?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mq8p2a97nweybi",
+    "date": "2026-06-11",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Oil tankers increase ‘dark’ transits through Strait of Hormuz",
+    "summary": "Donald Trump says US launched ‘secret mission’ to help move crude through the waterwayGlobal trade",
+    "url": "https://www.ft.com/content/31450147-1b85-4ecf-a60d-0c0e3a298ae7?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mq8p2a97tmlo8y",
+    "date": "2026-06-11",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Donald Trump suggests he may not renew trade deal with Mexico and Canada",
+    "summary": "‘We don’t need anything that they have,’ US president says of 2020 trilateral agreementGlobal trade",
+    "url": "https://www.ft.com/content/e55a6ab9-d5dd-4a9f-bcb5-9bc0d23e08fb?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mq8p2a970jmssj",
+    "date": "2026-06-11",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "US CEOs are getting richer and more nervous",
+    "summary": "More than 29% of S&P 500 companies provided home security perks for their top brass in 2025Technology sector",
+    "url": "https://www.ft.com/content/f7b6ad83-9852-4b5c-9886-15c43a644884?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mq8p2a976pt99h",
+    "date": "2026-06-11",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Trump’s AI fund idea is good politics, but bad economics",
+    "summary": "Plans to share the gains from technology could cause more problems than they solveArtificial intelligence",
+    "url": "https://www.ft.com/content/48efae8b-39e2-48a3-9424-dcf5bab39eef?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mq8p2a97gxi4e6",
+    "date": "2026-06-11",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Apollo and Blackstone raise $35bn in chip financing deal for Anthropic",
+    "summary": "Transaction is one of the largest private credit fundraisings, fuelling Claude maker’s AI growth plansTechnology sector, Artificial intelligence, Investments",
+    "url": "https://www.ft.com/content/c49e0eff-0776-4103-8eaf-1b049fbf9d3f?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mq8p2a977n2jcr",
+    "date": "2026-06-11",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "AI and the productivity paradox",
+    "summary": "Routine time savings don’t automatically make organisations function better — and staff have to clean up a lot of slopArtificial intelligence",
+    "url": "https://www.ft.com/content/b4b60d00-2e8c-4db0-b3ed-9988dc0eeb5c?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mq8p2als52pymk",
+    "date": "2026-06-11",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes"
+  },
+  {
+    "id": "mq8p2alszei46d",
+    "date": "2026-06-11",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+    "url": "https://openai.com/index/openai-on-oracle-cloud"
+  }
+]
