@@ -1,5 +1,115 @@
 [
   {
+    "id": "mqcylz7cdfs3nl",
+    "date": "2026-06-12",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "「AI春晚」又来了！智源研究院推出的世界模型，成今年最硬一盘菜",
+    "summary": "AI话题风向标",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897256&idx=1&sn=20f9d25a3953f445564cae061af4cd93"
+  },
+  {
+    "id": "mqcylz7c2qmwar",
+    "date": "2026-06-12",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "清华开源视频生成加速框架：无需重训练，视频生成提速1.8倍，质量几乎无损",
+    "summary": "让不同帧各走各的路",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897256&idx=2&sn=488b6ab262fd16fe718fe689bd607713"
+  },
+  {
+    "id": "mqcylz7cvhk62l",
+    "date": "2026-06-12",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "不改工作流，多智能体系统也能继续涨性能｜ICML 2026 Spotlight",
+    "summary": "不动拓扑也能优化多智能体",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897256&idx=3&sn=cccf741b9bfbeaff954a34fd4a14f006"
+  },
+  {
+    "id": "mqcylz7cagdc98",
+    "date": "2026-06-12",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247897256&idx=4&sn=6e9e0e2d8de7c7d1ac761e56f51453ab"
+  },
+  {
+    "id": "mqcylz8msxwuxa",
+    "date": "2026-06-12",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "入围CVPR 2026最佳论文决选，ViT³用「测试时训练」突破Transformer复杂度瓶颈",
+    "summary": "一张高清图6084个token，ViT³跑快4.6倍、显存不到十分之一。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038804&idx=1&sn=d2bab50f9d5db279727d50646d23ff9b"
+  },
+  {
+    "id": "mqcylz8meesu8z",
+    "date": "2026-06-12",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "5秒攻破，仅需1次对话：Fable 5最强安全机制被华人团队破解",
+    "summary": "不到 5 秒就能破解。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038804&idx=2&sn=e7cfc446d6b3d44fd7a3384da026471e"
+  },
+  {
+    "id": "mqcylz8m552mmz",
+    "date": "2026-06-12",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "RSS 2026 | 别再让机器人看错重点，GuidedVLA给动作解码器装上可控可解释的注意力专家",
+    "summary": "让VLA不只是变大，也要变得更可控、更可解释。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651038804&idx=3&sn=83dbed4ed25f6197c61d69a07f72ad88"
+  },
+  {
+    "id": "mqcylzabicos1y",
+    "date": "2026-06-12",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "2026智源大会：智源研究院为世界模型「正本清源」",
+    "summary": "2026智源大会：智源研究院为世界模型「正本清源」",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652706785&idx=1&sn=6f38146264ebfe79bbd886512ce6aae4"
+  },
+  {
+    "id": "mqcylzab6mj0nh",
+    "date": "2026-06-12",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "准到封神！世界杯首日，「全对」的千问做对了什么？",
+    "summary": "准到封神！世界杯首日，「全对」的千问做对了什么？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652706785&idx=2&sn=1a1b9343a5340c514ddf15d826175316"
+  },
+  {
+    "id": "mqcylzabuz5mce",
+    "date": "2026-06-12",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "新智元ALL in ASI英雄帖",
+    "summary": "新智元ALL in ASI英雄帖",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652706785&idx=3&sn=d0a223af007bcd1c35d3b642f9553ae4"
+  },
+  {
     "id": "mqbjmzgeokn7ga",
     "date": "2026-06-12",
     "sourceType": "portal",
