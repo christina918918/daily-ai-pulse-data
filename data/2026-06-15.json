@@ -1,5 +1,38 @@
 [
   {
+    "id": "mqh9o2lsqay0ru",
+    "date": "2026-06-15",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "腾讯Robotics X开源HyVLA-0.5：基于亚毫米级指套UMI与真机强化，摆脱繁重遥操",
+    "summary": "机器人离真实干活更近一步。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039196&idx=1&sn=cf807f51fc0efaffb4bf9996f743493d"
+  },
+  {
+    "id": "mqh9o2lsdi0uyx",
+    "date": "2026-06-15",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "用国产GPU训练AI给自己写内核，摩尔线程刷榜硬核基准",
+    "summary": "首个国产GPU训练的代码大模型。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039196&idx=2&sn=f13e155230d90bbd87c8680cc29b1e4a"
+  },
+  {
+    "id": "mqh9o2lsypqblp",
+    "date": "2026-06-15",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "1080条提示词、7款模型大比拼：视频生成离「好看、好用又准确」还差多少？",
+    "summary": "KIVI：面向知识密集型场景的视频生成任务与评测基准。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039196&idx=3&sn=a8c0079c0c8998cbed22222b8cd884e8"
+  },
+  {
     "id": "mqfuzioa3hvk3r",
     "date": "2026-06-15",
     "sourceType": "portal",
