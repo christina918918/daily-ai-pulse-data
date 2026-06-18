@@ -1,5 +1,38 @@
 [
   {
+    "id": "mqk5a2uulblpgv",
+    "date": "2026-06-17",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "堆了一仓库GPU，却生产不出专业智能？九章云极用AI工厂给出解答",
+    "summary": "蒸汽机之后是流水线，大模型之后是 AI 工厂",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039784&idx=1&sn=bd3bcf35cd77ab17a83b1e40032ff8cc"
+  },
+  {
+    "id": "mqk5a2uukvsrpb",
+    "date": "2026-06-17",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "DeepMind：Transformer存在拓扑缺陷，思维链治标不治本",
+    "summary": "解决方案或许在于「循环」。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039784&idx=2&sn=3e73223b9ccb5e65d4a3db36190e233b"
+  },
+  {
+    "id": "mqk5a2uvy7cv3i",
+    "date": "2026-06-17",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "ACL 2026 Main｜混合推理模型也会「钻空子」：南大移动团队提出TNT，破解「假装不思考」骗奖励",
+    "summary": "仅在奖励层面引入一个动态token上限，便将奖励欺骗概率压制在10%以内。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651039784&idx=3&sn=e324a77817d9313ea92e5b09fbe6b900"
+  },
+  {
     "id": "mqip1tgdtn3kwp",
     "date": "2026-06-17",
     "sourceType": "portal",
