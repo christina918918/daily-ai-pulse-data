@@ -1,5 +1,82 @@
 [
   {
+    "id": "mqliyuwoiliayg",
+    "date": "2026-06-18",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
+    "summary": "当医疗增强大模型开始进入普通家庭",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898354&idx=1&sn=b06a7a37d4509957c76dafa8e063b594"
+  },
+  {
+    "id": "mqliyuwo3firdb",
+    "date": "2026-06-18",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "Midjourney新副业曝光：50万个传感器藏进浴池，60秒生成你的3D身体地图",
+    "summary": "一边泡澡，另一边全身影像检查果就出来了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898354&idx=2&sn=f842f4fd953b066992ed4f5808c6c8d0"
+  },
+  {
+    "id": "mqliyuwoa83omr",
+    "date": "2026-06-18",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "从“一句成片”到“长轨推演”：探究多模态智能体在长视频编辑中的应用",
+    "summary": "从工件层面系统重构了长视频剪辑管线",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898354&idx=3&sn=07109e75543357ad7ab51c0a10102eb6"
+  },
+  {
+    "id": "mqliyuwowvxlqe",
+    "date": "2026-06-18",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位招聘丨汽车及机器人方向",
+    "summary": "文字作者和视频编导，要的就是你！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898354&idx=4&sn=ba70b7e828283ee3657acb352fa80569"
+  },
+  {
+    "id": "mqliyuy4oa6lyc",
+    "date": "2026-06-18",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "人形机器人不再「走走停停」：Current Robotics发布全身灵巧操作模型Curr-0",
+    "summary": "21,000 小时真实人类行为数据。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040002&idx=1&sn=2350f75c30770f5657c2911aed4ef022"
+  },
+  {
+    "id": "mqliyuy4vd77io",
+    "date": "2026-06-18",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "PPT之外，AI之内｜2026WAIC机器之心特别企划栏目",
+    "summary": "打开传播新窗口",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040002&idx=2&sn=9601ca3d48a44f348b9fc2cd8b2ae4ce"
+  },
+  {
+    "id": "mqliyuy4zm8hlb",
+    "date": "2026-06-18",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "ICML 2026 Oral | 为3D空间智能数据构建全自动数据飞轮，Holi-Spatial打造400万级空间多模态数据集",
+    "summary": "一个全自动空间数据构建框架。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040002&idx=3&sn=2070ed6854a7789a6b7b3edbcac2515c"
+  },
+  {
     "id": "mqk5a0gns793yv",
     "date": "2026-06-18",
     "sourceType": "portal",
