@@ -1,5 +1,137 @@
 [
   {
+    "id": "mqoeefft2rrng1",
+    "date": "2026-06-21",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Back-stabbing myths are driving the US and Europe further apart",
+    "summary": "Competing narratives of abandonment — from Iran to Greenland — could lead to Nato’s permanent unravellingGeopolitics",
+    "url": "https://www.ft.com/content/4a9be9b8-4cac-49d5-8e08-cb750007b2db?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mqoeefftflgyu4",
+    "date": "2026-06-21",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "UK telecoms groups introduce ‘kill switch’ to cut phone theft from stores",
+    "summary": "Virgin Media O2 and VodafoneThree’s move comes after Apple and Samsung resisted calls to adopt broader measuresTechnology sector",
+    "url": "https://www.ft.com/content/786de887-a970-4b43-9de1-670c57ab0923?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mqoeefftccrbcl",
+    "date": "2026-06-21",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "SpaceX handed lowest possible ESG rating by MSCI",
+    "summary": "Triple C score puts Elon Musk’s company on par with Russia after 2022 invasion of UkraineTechnology sector, Investments",
+    "url": "https://www.ft.com/content/a0dd4ea7-ef3d-4460-a96c-8c6975a053e3?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mqoeefftecmi1f",
+    "date": "2026-06-21",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Workers are emerging as the next big AI logjam",
+    "summary": "Big Tech wakes up to the need for brawn and crafts skills to build and maintain data centresTechnology sector",
+    "url": "https://www.ft.com/content/8fcd0d88-cee9-43e0-9af8-addd250edd4c?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mqoeehsch5lirq",
+    "date": "2026-06-21",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+    "summary": "如果不做具身大脑、没有世界模型，我劝你谨慎机器人创业",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898574&idx=1&sn=6ede0b426e915786f55b39231903cd4a"
+  },
+  {
+    "id": "mqoeehscodqmd9",
+    "date": "2026-06-21",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "同样算力质量更高，西湖大学把扩散缓存做成了“离线搜索题”",
+    "summary": "既严格卡住推理成本，也能保住最终生成质量",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898574&idx=2&sn=f39ee0adf2d3a234c81d2e87599abb9e"
+  },
+  {
+    "id": "mqoeehsc5ij7lc",
+    "date": "2026-06-21",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位招聘丨汽车及机器人方向",
+    "summary": "文字作者和视频编导，要的就是你！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247898574&idx=3&sn=1e5ca0d8beb84f84fdf1741385b5fa40"
+  },
+  {
+    "id": "mqoeehthjbnvuf",
+    "date": "2026-06-21",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "「机器学习之父」Jordan：Hinton等「思想领袖们」正在伤害年轻一代",
+    "summary": "AGI 是公关术语，把 AI 说成「理解」是在讲科幻。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040234&idx=1&sn=b9d20058d84b417a596123a0c7e0ce4d"
+  },
+  {
+    "id": "mqoeehth7rzpoh",
+    "date": "2026-06-21",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "靠零食和黑客松，能重振Meta士气吗？",
+    "summary": "信任一旦被打碎，并不会靠几句承诺就自动修复。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651040234&idx=2&sn=1efae613482a41c6b0722999d581576b"
+  },
+  {
+    "id": "mqoeehuwk4l1bm",
+    "date": "2026-06-21",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "Fable 5准备复活？Anthropic联创：我们彻底低估了Scaling",
+    "summary": "Fable 5准备复活？Anthropic联创：我们彻底低估了Scaling",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652708232&idx=1&sn=823bbe0969150ecc249fa8b6384b4cb5"
+  },
+  {
+    "id": "mqoeehuw85zd32",
+    "date": "2026-06-21",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "24岁「AI股神」横扫华尔街！未婚妻是Anthropic CEO幕僚长",
+    "summary": "24岁「AI股神」横扫华尔街！未婚妻是Anthropic CEO幕僚长",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652708232&idx=2&sn=725a53cdd30670bd98861b8510dc58cc"
+  },
+  {
+    "id": "mqoeehuw5oy5av",
+    "date": "2026-06-21",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "5.4万亿！英伟达成AI最大地主，大模型巨头沦为算力佃农",
+    "summary": "退潮时见真章！AI巨头IPO后，探照灯下谁在裸泳？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652708232&idx=3&sn=a63e5cf64de5f257f8586bb21fa96db0"
+  },
+  {
     "id": "mqmysx42l7y8uk",
     "date": "2026-06-21",
     "sourceType": "portal",
