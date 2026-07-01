@@ -1,0 +1,90 @@
+[
+  {
+    "id": "mr2ow1vo0f8kt1",
+    "date": "2026-07-02",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "White House accelerates plans for AI model standards",
+    "summary": "Guidance to be announced as soon as next week after government intervention in Anthropic and OpenAI rollouts Artificial intelligence",
+    "url": "https://www.ft.com/content/0bb7e2f9-007b-4577-9c4a-858948ee969a?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mr2ow1vopizo6g",
+    "date": "2026-07-02",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Shares in Uber-backed Lime climb after it raised $167mn in IPO",
+    "summary": "Bike and scooter group’s shares were initially priced at $25 in deal underwritten by Goldman Sachs, JPMorgan and JefferiesTechnology sector",
+    "url": "https://www.ft.com/content/5d9eee57-f08c-4b28-a9d5-57578fbc1f8f?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mr2ow1vo0onfz0",
+    "date": "2026-07-02",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "AOL and Eventbrite owner Bending Spoons soars 40% on Nasdaq debut",
+    "summary": "Italian tech group behind Vimeo and Evernote raises $1.68bn in one of Europe’s biggest technology IPOs this yearTechnology sector",
+    "url": "https://www.ft.com/content/aebe2dbb-6d8b-4b3d-82c8-e64aebd4ef70?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mr2ow1vopouo36",
+    "date": "2026-07-02",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "US opts not to renew Trump’s trade deal with Mexico and Canada",
+    "summary": "Washington will instead hold annual reviews on terms of commerce with its biggest trading partnersGlobal trade",
+    "url": "https://www.ft.com/content/2c7b4dc8-1b1c-49f4-b51a-0dee0c1d216a?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mr2ow1vo6mcm4j",
+    "date": "2026-07-02",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Zelenskyy urges EU to sanction Russian-owned alumina plant in Ireland",
+    "summary": "Call on the opening day of Dublin’s EU presidency adds to pressure over Aughinish Alumina smelterGlobal trade",
+    "url": "https://www.ft.com/content/0c4f7c99-61d9-4be9-a842-10295699cc8e?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mr2ow1vo0g5b4g",
+    "date": "2026-07-02",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Sam Altman: This is how we can make AI safe for everyone",
+    "summary": "The labs develop the technology, but citizens and their elected representatives must make the rulesTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/0c2e1077-f658-4b3d-9040-602615c961ca?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mr2ow2htq8dvrs",
+    "date": "2026-07-02",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "The latest AI news we announced in June 2026",
+    "summary": "Here are Google’s latest AI updates from June 2026.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/"
+  },
+  {
+    "id": "mr2ow2htql93i0",
+    "date": "2026-07-02",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+    "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/"
+  }
+]
