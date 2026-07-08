@@ -1,5 +1,16 @@
 [
   {
+    "id": "mrconcdjyip0mi",
+    "date": "2026-07-07",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "url": "https://openai.com/index/mufg"
+  },
+  {
     "id": "mrb91wnmwd5xd4",
     "date": "2026-07-07",
     "sourceType": "portal",
