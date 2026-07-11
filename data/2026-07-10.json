@@ -1,5 +1,38 @@
 [
   {
+    "id": "mrgya7ke5s38a5",
+    "date": "2026-07-10",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "刚刚，百度搭子全面升级，要让Agent接住人类90%以上的活",
+    "summary": "从个人到企业、生态，百度正在重写Agent落地路径。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651043795&idx=1&sn=e4ce73f07afb834facfc519acbe79a47"
+  },
+  {
+    "id": "mrgya7kev3s6rh",
+    "date": "2026-07-10",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "「十万卡时代」，谁在定义新标准？",
+    "summary": "中国 AI 算力，正在杀出重围。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651043795&idx=2&sn=fa61c65616702b785f5e795c37bb1ee5"
+  },
+  {
+    "id": "mrgya7ke2ittqv",
+    "date": "2026-07-10",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "ICML 2026 | 图像编辑进入「交互理解」时代，北大提出HOI-Edit基准与SCPE自纠错框架",
+    "summary": "本文不仅提出了一个新的 HOI 编辑基准和评测指标，也探索了一种利用视频过程反馈优化图像编辑模型的新范式",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651043795&idx=3&sn=014ba6e24de771e418bce4daa9ebf355"
+  },
+  {
     "id": "mrfjc6tjpad75w",
     "date": "2026-07-10",
     "sourceType": "portal",
