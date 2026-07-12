@@ -1,5 +1,104 @@
 [
   {
+    "id": "mridpth98j06vg",
+    "date": "2026-07-12",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Stranded pollock prompt EU to delay fish import controls for US",
+    "summary": "System introduced to crack down on illegal fishing has left cargoes stuck in docks for daysGlobal trade",
+    "url": "https://www.ft.com/content/aba8d356-489a-469b-bb49-b54e74acc3a0?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mridpthaxpghss",
+    "date": "2026-07-12",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Quantum is exciting, but watch out for the Schrödinger’s cat bounce",
+    "summary": "The ‘fault tolerant’ computer — one that is acceptably error-free — is still some time awayTechnology sector",
+    "url": "https://www.ft.com/content/b85769b5-ca03-466a-a76c-13a772d8bcf4?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mridpthaew9qtt",
+    "date": "2026-07-12",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Big Tech to face fines for consumer protection failures, says EU official",
+    "summary": "Justice commissioner Michael McGrath says Brussels seeks to strengthen social media safeguardsTechnology sector",
+    "url": "https://www.ft.com/content/25640be5-a5bd-4548-81f9-bd0e16f87f35?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mridpthawr90mo",
+    "date": "2026-07-12",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Big private equity firms pull in more cash as winners take all",
+    "summary": "Shrinking pool of recipients points to coming wave of so-called zombie firmsInvestments",
+    "url": "https://www.ft.com/content/b7130eb3-c8bd-460f-9d8a-082e7bb48b48?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mridpvym8qjjum",
+    "date": "2026-07-12",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "98年哈工大教授带队，破晓智能要把触觉写进机器人基础模型",
+    "summary": "视觉告诉机器人动作像不像成功，触觉决定成功是否真的发生。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651043906&idx=1&sn=f8bd8f3ee9b7bb634d9a4dea3eeb3545"
+  },
+  {
+    "id": "mridpvymx628e8",
+    "date": "2026-07-12",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "ICML 2026｜让奖励模型更准更高效，TikTok、NUS提出置信度门控",
+    "summary": "不要让模型无差别地思考，而要把计算花在真正困难的地方。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651043906&idx=2&sn=b664726db41281efe1ba814d26ae887c"
+  },
+  {
+    "id": "mridpw04gxz8ae",
+    "date": "2026-07-12",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "全球最大数据中心黄了！美国电网卡住AI，GobiX在中国戈壁破局",
+    "summary": "全球最大数据中心黄了！美国电网卡住AI，GobiX在中国戈壁破局",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652712432&idx=1&sn=b14efc98f2c0867f6e0008816e3c0580"
+  },
+  {
+    "id": "mridpw043rcns1",
+    "date": "2026-07-12",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+    "summary": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652712432&idx=2&sn=b54298542d95ea1f2c6b5ab8d0a17c04"
+  },
+  {
+    "id": "mridpw04mun1ts",
+    "date": "2026-07-12",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "给多智能体LLM装上「图记忆工作流路由器」，搞定调用、协作规划",
+    "summary": "给多智能体LLM装上「图记忆工作流路由器」，搞定调用、协作规划",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652712432&idx=3&sn=16ed508986e394a232ff179f9b6f6847"
+  },
+  {
     "id": "mrgya5dwnkvyir",
     "date": "2026-07-12",
     "sourceType": "portal",
