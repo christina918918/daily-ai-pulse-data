@@ -1,5 +1,16 @@
 [
   {
+    "id": "mrjtit35jzttrg",
+    "date": "2026-07-10",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Getting started with ChatGPT",
+    "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "url": "https://openai.com/academy/getting-started"
+  },
+  {
     "id": "mrgya7ke5s38a5",
     "date": "2026-07-10",
     "sourceType": "wechat",
