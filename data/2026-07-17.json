@@ -1,0 +1,68 @@
+[
+  {
+    "id": "mro3vwby4at1vw",
+    "date": "2026-07-17",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "US chip and memory stocks slide in fresh bout of Wall Street tumult",
+    "summary": "Investors pull away from shares in companies that have led markets higher this yearTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/c92a5a36-55a0-4d04-b84c-d1705976987b?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mro3vwbynie8y5",
+    "date": "2026-07-17",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Netflix shares slide on disappointing growth forecasts",
+    "summary": "Streaming giant projects weakest revenue increase in three yearsTechnology sector",
+    "url": "https://www.ft.com/content/2c5151d9-738f-4808-bbd0-15aaf48d922e?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mro3vwbyvy0fvj",
+    "date": "2026-07-17",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Dassault Systèmes in talks to buy drug trial software company for about $2bn",
+    "summary": "Potential purchase of ArisGlobal from Swedish buyout group would boost French conglomerate’s push into life sciencesTechnology sector, Investments",
+    "url": "https://www.ft.com/content/72c335dd-11c9-4ba0-bd11-41414df06d97?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mro3vwn8wkttvt",
+    "date": "2026-07-17",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Why teens deserve access to safe AI",
+    "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
+  },
+  {
+    "id": "mro3vwtz5rjtic",
+    "date": "2026-07-17",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Connect more of your apps to Search",
+    "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
+    "url": "https://blog.google/products-and-platforms/products/search/connected-apps/"
+  },
+  {
+    "id": "mro3vwtzzjqyqr",
+    "date": "2026-07-17",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Create, edit and star in videos with two Google Vids updates",
+    "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
+    "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/"
+  }
+]
