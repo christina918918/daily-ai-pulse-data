@@ -1,5 +1,126 @@
 [
   {
+    "id": "mrqyenp4ykhzin",
+    "date": "2026-07-17",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "全球市占第一后，普渡在WAIC开始回答机器人下一场战争",
+    "summary": "一脑多形，重构机器人产业新范式",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247904696&idx=1&sn=8020e0c81cd6dae2ddf3c3a05d6432d1"
+  },
+  {
+    "id": "mrqyenp4t5kczz",
+    "date": "2026-07-17",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU",
+    "summary": "发布芯片只是拿到了入场券",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247904696&idx=2&sn=7b4b11495d15ea5964c3e5240c3d7037"
+  },
+  {
+    "id": "mrqyenp49xd49l",
+    "date": "2026-07-17",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "具身数采新方案：数字遥操作，现已开源，达摩院出品",
+    "summary": "RynnWorld-Teleop：用生成式世界模型替代真实机器人",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247904696&idx=3&sn=ec39651f6a9a25e0ea9d991eee168a2f"
+  },
+  {
+    "id": "mrqyenp4opkdj7",
+    "date": "2026-07-17",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "7月19日，和LingBot主创们聊聊2.0发布周的故事｜WAIC具身派对",
+    "summary": "LingBot主创团队首次公开亮相！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247904696&idx=4&sn=c20335c2e27632aefacb65232d3263ee"
+  },
+  {
+    "id": "mrqyenp4u4me9s",
+    "date": "2026-07-17",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247904696&idx=5&sn=cfab9882a1d5ab10020597913256087f"
+  },
+  {
+    "id": "mrqyenqgkvvd2x",
+    "date": "2026-07-17",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "千寻智能最强大脑亮相WAIC：攻克「金鱼记忆」，终结单一任务Demo内卷",
+    "summary": "一口气整理完整个客厅，中途还能应对临时任务。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651045079&idx=1&sn=9b32aa87b5c1e23463892e99d2c74aa4"
+  },
+  {
+    "id": "mrqyenqgg6hqbm",
+    "date": "2026-07-17",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Kimi K3发布，国产Fable 5来了！",
+    "summary": "开放，前沿，强大",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651045079&idx=2&sn=8137bdf18198d8cf74b6eff472a43a0a"
+  },
+  {
+    "id": "mrqyenqgj3hzta",
+    "date": "2026-07-17",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "FreeStyle来了！从社区LoRA中挖掘风格与内容，让双参考图像生成更可控",
+    "summary": "风格迁移、内容保持与泄漏抑制之间取得了更好的平衡。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651045079&idx=3&sn=8ba606a40bb495b24f4f870084665f71"
+  },
+  {
+    "id": "mrqyens52gjwo3",
+    "date": "2026-07-17",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "刚刚，WAIC杀出国产「桌面超算」！150B大模型，放你桌上跑",
+    "summary": "刚刚，WAIC杀出国产「桌面超算」！150B大模型，放你桌上跑",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652713617&idx=1&sn=32f430c035b6a8cbc29dd3b668311948"
+  },
+  {
+    "id": "mrqyens53x4pj6",
+    "date": "2026-07-17",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "同一个链接，你和同事打开的不一样：Claude让AI页面活了",
+    "summary": "同一个链接，你和同事打开的不一样：Claude让AI页面活了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652713617&idx=2&sn=430f87167c36bbff17c30333e0b77383"
+  },
+  {
+    "id": "mrqyens5lgma9u",
+    "date": "2026-07-17",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "从Token Capital到企业认知主权：别把大脑交给大模型公司！",
+    "summary": "从Token Capital到企业认知主权：别把大脑交给大模型公司！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652713617&idx=3&sn=04c545a9178b39f5ae5a3e1d9c3fa74e"
+  },
+  {
     "id": "mrpizywvwijjum",
     "date": "2026-07-17",
     "sourceType": "portal",
