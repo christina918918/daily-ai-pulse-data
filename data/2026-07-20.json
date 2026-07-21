@@ -1,5 +1,82 @@
 [
   {
+    "id": "mrv90ztebixwy1",
+    "date": "2026-07-20",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff",
+    "summary": "未来的医院，可能不只存在于一栋楼里",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247905288&idx=1&sn=cab10872925a0a1fdb56ba2945a6483a"
+  },
+  {
+    "id": "mrv90zteqc0lq0",
+    "date": "2026-07-20",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "上海这场大赛有点“野”：让AI自主科研、控核聚变、认甲骨文",
+    "summary": "为科研OPC创业者铺就“最后一公里”",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247905288&idx=2&sn=902de22d4c38b8f47a3af22bdbc11b1e"
+  },
+  {
+    "id": "mrv90zte573suw",
+    "date": "2026-07-20",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "给AI喂“噪声”也能涨分，这项工作让噪声实现正迁移 | ICML26",
+    "summary": "迁移学习里的“源数据”，未必非得是图像、文本或音频。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247905288&idx=3&sn=084673e5be55f24269aa3069834c04d7"
+  },
+  {
+    "id": "mrv90ztebwax0s",
+    "date": "2026-07-20",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247905288&idx=4&sn=40dd447c363fa4e254c5ab34f1d044b7"
+  },
+  {
+    "id": "mrv90zwdxl4mpz",
+    "date": "2026-07-20",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "全球Token「生产流水线」大升级，幕后推手Agentic Infra首次曝光！",
+    "summary": "「前店后厂一中心」完整Agentic Infra战略布局首公开",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652714052&idx=1&sn=dcc75df5b9d498aeb9c34a92d91c6bab"
+  },
+  {
+    "id": "mrv90zwdj0m705",
+    "date": "2026-07-20",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "读甲骨文、算核聚变！他们还直接让AI去啃顶刊级难题",
+    "summary": "为科研OPC创业者铺就「最后一公里」。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652714052&idx=2&sn=0954ec51f9ed12eec7c722f64a977b00"
+  },
+  {
+    "id": "mrv90zwdr1nccb",
+    "date": "2026-07-20",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "恶意插件100%得手！伯克利、UIUC和NUS等给智能体做了次安全体检",
+    "summary": "恶意插件100%得手！伯克利、UIUC和NUS等给智能体做了次安全体检",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652714052&idx=3&sn=41cd57b038a7d99471a86833ee1b6d91"
+  },
+  {
     "id": "mrttq92wv86juc",
     "date": "2026-07-20",
     "sourceType": "portal",
