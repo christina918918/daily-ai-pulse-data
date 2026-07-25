@@ -1,5 +1,126 @@
 [
   {
+    "id": "ms0yr88jrkfiu3",
+    "date": "2026-07-25",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Why this philosopher turned down Anthropic",
+    "summary": "The AI industry is courting the humanities — but it is asking the wrong questionsArtificial intelligence",
+    "url": "https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "ms0yra42wrdoqd",
+    "date": "2026-07-25",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+    "summary": "不做人形，抓住用户真实需求",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247907199&idx=1&sn=be2e4bb8e9eb039edfe881e6ee9144a4"
+  },
+  {
+    "id": "ms0yra42beikei",
+    "date": "2026-07-25",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "100%开源！吴恩达做了个个人桌面Agent",
+    "summary": "开源、隐私、本地优先、模型无关",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247907199&idx=2&sn=b870bc12802b0593d431f8a02b910817"
+  },
+  {
+    "id": "ms0yra42wuphns",
+    "date": "2026-07-25",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "LLM后训练太烧钱？清华&腾讯有了破解法门：关键是得会Rollout",
+    "summary": "把Agent轨迹看成一棵树，不再均摊预算给prompt",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247907199&idx=3&sn=db62b221aeb50a9dfff1af69803b2787"
+  },
+  {
+    "id": "ms0yra420zvv05",
+    "date": "2026-07-25",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247907199&idx=4&sn=3040445079d782a8e7cb5f8df299124a"
+  },
+  {
+    "id": "ms0yra5jypu7kj",
+    "date": "2026-07-25",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "人类研发时代结束？XYZ最强Search Agent横扫七大榜单，300个Agent跑通AI4AI全栈闭环",
+    "summary": "不只刷新榜单：AI 开始驱动完整 Agent 系统的研发闭环。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651046629&idx=1&sn=51f122b258d9557c41edab9c7667affb"
+  },
+  {
+    "id": "ms0yra5jgmn8er",
+    "date": "2026-07-25",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "JiuwenSwarm开源统一工作台来了，引领智能体人机协同新范式！",
+    "summary": "人不仅能站在团队外指挥，还可以直接进入智能体团队中协同办公，甚至联机开一局游戏。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651046629&idx=2&sn=056802384b9543b84492788733a247ce"
+  },
+  {
+    "id": "ms0yra5jlph44j",
+    "date": "2026-07-25",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "开盒网暴、诈骗刷单，Fable5等8款模型操作真实手机「成功作案」！",
+    "summary": "首个靶向式手机智能体安全测评数据集",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651046629&idx=3&sn=aee1414dcbe1613f6a8042478dc86148"
+  },
+  {
+    "id": "ms0yra6raprg18",
+    "date": "2026-07-25",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "Claude Opus 5震撼发布！半价超越Fable 5，内部觉醒「自我保护」意识",
+    "summary": "Claude Opus 5震撼发布！半价超越Fable 5，内部觉醒「自我保护」意识",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652714775&idx=1&sn=e2fe37d899ac94afc54ce02330e7c16d"
+  },
+  {
+    "id": "ms0yra6rkxw8jc",
+    "date": "2026-07-25",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "提前实测Opus 5：3D细节封神，然而有一个致命缺陷",
+    "summary": "提前实测Opus 5：3D细节封神，然而有一个致命缺陷",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652714775&idx=2&sn=d54d25a53a71fe201db34384f0733e49"
+  },
+  {
+    "id": "ms0yra6r4jqsjk",
+    "date": "2026-07-25",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "重写手机AI安全边界！首个MoAI攻防SoK，系统梳理三大安全支柱",
+    "summary": "重写手机AI安全边界！首个MoAI攻防SoK，系统梳理三大安全支柱",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652714775&idx=3&sn=a424ea10db1220c915b112ce2be141aa"
+  },
+  {
     "id": "mrzjjhxg8gi3uk",
     "date": "2026-07-25",
     "sourceType": "portal",

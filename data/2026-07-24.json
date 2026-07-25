@@ -1,5 +1,82 @@
 [
   {
+    "id": "ms0yr88jhczinq",
+    "date": "2026-07-24",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Air taxis are nearing route to economic viability",
+    "summary": "Electric vertical take-off and landing machines are starting to offer practical uses that are growing nearer to realisationTechnology sector",
+    "url": "https://www.ft.com/content/92912dd1-4540-47f8-ba47-937b9e12f216?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "ms0yra42w801ey",
+    "date": "2026-07-24",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "刚刚，AI接通了平行世界的电话！全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
+    "summary": "单卡突破10000 video tokens/s，打通实时多模态生成全链路",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247907132&idx=1&sn=d7a8826cdab0a961a7c666cf765f4db9"
+  },
+  {
+    "id": "ms0yra42mmi7fs",
+    "date": "2026-07-24",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
+    "summary": "跑出原生全模态新路径",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247907132&idx=2&sn=fcd586ffbd36d209a70537dda027da08"
+  },
+  {
+    "id": "ms0yra42jmcj90",
+    "date": "2026-07-24",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "告别“无脑”长推理！腾讯E-GRM让模型学会“自我怀疑”：拿不准才多想，拿得准直接答",
+    "summary": "E-GRM：不确定性决定是否需要CoT，混合损失判别评分器替代投票。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247907132&idx=3&sn=be58f881975eb34a690613b0f9c7de4b"
+  },
+  {
+    "id": "ms0yra42hs647y",
+    "date": "2026-07-24",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247907132&idx=4&sn=83488cc3255c9ce1f00802b605b991fd"
+  },
+  {
+    "id": "ms0yra5jps934g",
+    "date": "2026-07-24",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "刚刚，黄仁勋首次发推：半个硅谷，力挺Kimi K3开源",
+    "summary": "为什么开源模型很重要。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651046515&idx=1&sn=b25f4b16e9aef0440bf7686a0d8206e5"
+  },
+  {
+    "id": "ms0yra5jovjqkk",
+    "date": "2026-07-24",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "行动即推理：南洋理工大学等提出S-Agent，空间智能迈入Agent时代",
+    "summary": "把空间理解从一次性回答改写为一条可执行的行动链。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651046515&idx=2&sn=2c721691c753384e283cefbdfc16fef1"
+  },
+  {
     "id": "mrzjjhxgzze546",
     "date": "2026-07-24",
     "sourceType": "portal",
