@@ -1,5 +1,38 @@
 [
   {
+    "id": "ms596zmshil7sv",
+    "date": "2026-07-27",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "CUDA 20年护城河一个周末崩了 ！Claude独自跑通AMD新GPU",
+    "summary": "CUDA 20年护城河一个周末崩了 ！Claude独自跑通AMD新GPU",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652714996&idx=1&sn=b323431cf45bd6d1d299b7b7857d1e5d"
+  },
+  {
+    "id": "ms596zmsiliope",
+    "date": "2026-07-27",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "Claude设计师被工程师卷到掉队，反手造出百万用户工具",
+    "summary": "Claude设计师被工程师卷到掉队，反手造出百万用户工具",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652714996&idx=2&sn=aa3010f1391dc1ca3c4dfce7a7d6f124"
+  },
+  {
+    "id": "ms596zms42a0ea",
+    "date": "2026-07-27",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "换个地面/身体，机器人策略就失灵？让扩散策略读懂「动力学」| ICML'26",
+    "summary": "换个地面/身体，机器人策略就失灵？让扩散策略读懂「动力学」| ICML'26",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652714996&idx=3&sn=900e7ad630dd25920a02fc79f6dbf84d"
+  },
+  {
     "id": "ms3tu8ez25w8cb",
     "date": "2026-07-27",
     "sourceType": "portal",

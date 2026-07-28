@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ms596xxc78ewn5",
+    "date": "2026-07-29",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Apple tops $5tn valuation for first time",
+    "summary": "Tech giant gains due to its lack of huge spending on AI and as investors seek havens from sell-off in chip sectorTechnology sector",
+    "url": "https://www.ft.com/content/024fb6a1-fb39-4b2d-be3e-2393ed62482a?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "ms596xxc63zfht",
+    "date": "2026-07-29",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Chip stocks tumble as AI sell-off deepens",
+    "summary": "Nasdaq 100 briefly falls into correction territory ahead of Big Tech earningsTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "ms596xxch1zajq",
+    "date": "2026-07-29",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Ares’ next big private capital deal looks deceptively close to home",
+    "summary": "While it’s already common to find private equity and credit under the same roof, any tie-up will prove a test of cultureInvestments",
+    "url": "https://www.ft.com/content/20432705-d873-46eb-9b65-b5ae547b1585?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "ms596xxc84vcdq",
+    "date": "2026-07-29",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Ebay pays couple $56mn for its role in cockroach harassment campaign",
+    "summary": "Couple received threatening deliveries including funeral wreath after criticising ecommerce retailer in blogTechnology sector",
+    "url": "https://www.ft.com/content/1ed4aee0-cbb4-4c98-a2aa-34971ded2583?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "ms596xxccoomkh",
+    "date": "2026-07-29",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "The US should stay open to open-weight AI",
+    "summary": "New and cheaper models could be a boon for the growth of the tech sectorTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/3e9e7e69-08c5-4c31-af50-f7d057815946?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "ms596xxcb4kb5f",
+    "date": "2026-07-29",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Shipping group CMA CGM boosted by customers stockpiling to beat Trump tariffs",
+    "summary": "The French container shipping company predicts heightened demand will persist Global trade",
+    "url": "https://www.ft.com/content/8be7a9f5-a440-4f3a-9b0f-1a1358242c35?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "ms596y0rur2si8",
+    "date": "2026-07-29",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Scientific computing in the age of agentic AI",
+    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai"
+  },
+  {
+    "id": "ms596y95xy9v1j",
+    "date": "2026-07-29",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
+  }
+]
