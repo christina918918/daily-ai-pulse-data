@@ -1,0 +1,68 @@
+[
+  {
+    "id": "msf9fos0kqq0th",
+    "date": "2026-08-05",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says",
+    "summary": "AI Security Institute warns tools undertook ‘potentially harmful activity directed at real people and organisations’Technology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/480c18a3-e661-4c7c-aaa0-1763887144a2?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "msf9fos0lgia2g",
+    "date": "2026-08-05",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "SpaceX posts 92% rise in revenue in debut earnings report",
+    "summary": "Elon Musk’s company outperformed analyst expectations in second quarter but shares dropped as much as 8% Technology sector",
+    "url": "https://www.ft.com/content/41f7963b-dd50-4f27-a085-771ddec4a8ca?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "msf9fos08sjucq",
+    "date": "2026-08-05",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Trump administration refunds $100bn in ‘liberation day’ tariffs",
+    "summary": "US customs officials repay about 60% of the levies that were struck down by the Supreme CourtGlobal trade",
+    "url": "https://www.ft.com/content/b0f728aa-1e71-4bb0-b50f-2e0818712734?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "msf9fos0k39rno",
+    "date": "2026-08-05",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Palantir rides high on greed and fear — but mostly fear",
+    "summary": "Given its prodigious growth and the belief that this will continue, the anxiety many feel is the fear of missing outTechnology sector",
+    "url": "https://www.ft.com/content/6183a03c-4766-43e7-9392-cacd9a6545f8?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "msf9fos0yoborl",
+    "date": "2026-08-05",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Spotify profits hit by heavy spending as fears build over streaming growth",
+    "summary": "US-listed group’s user growth forecasts miss estimates as it invests in AI tools to build its subscriber baseTechnology sector",
+    "url": "https://www.ft.com/content/cc0873c7-28cf-4b0b-9bf6-1d303ff8c262?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "msf9fovmj0sdxo",
+    "date": "2026-08-05",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
+  }
+]

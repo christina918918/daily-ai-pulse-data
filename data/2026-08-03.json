@@ -1,5 +1,60 @@
 [
   {
+    "id": "msf9fovmnp02uq",
+    "date": "2026-08-03",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+    "url": "https://openai.com/index/circles"
+  },
+  {
+    "id": "msf9fp33iwkdhy",
+    "date": "2026-08-03",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Inside our 353,000-person vibe coding course",
+    "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
+  },
+  {
+    "id": "msf9fqij6u67zi",
+    "date": "2026-08-03",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
+    "summary": "出海AI，正被“三重算力锁链”捆死",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247909355&idx=1&sn=db260fcb1b13e3945a8d8c70432de303"
+  },
+  {
+    "id": "msf9fqijyzuqb4",
+    "date": "2026-08-03",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "智元下架了首席科学家罗剑岚",
+    "summary": "港股IPO前夕，智元首席科学家罗剑岚从官网名单消失",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247909355&idx=2&sn=e2ddaf527ab3d97e137bb39675774a4b"
+  },
+  {
+    "id": "msf9fqij5jop9u",
+    "date": "2026-08-03",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247909355&idx=3&sn=c47de30a8d59e8bcac2c5e8a11c43055"
+  },
+  {
     "id": "msdtvwkz9we9fl",
     "date": "2026-08-03",
     "sourceType": "portal",
