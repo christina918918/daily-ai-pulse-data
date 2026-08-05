@@ -1,5 +1,38 @@
 [
   {
+    "id": "msgopx7obhezu2",
+    "date": "2026-08-04",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "中国版「生物DeepSeek」诞生！4个牛津学霸，让AI接管生命科学",
+    "summary": "中国版「生物DeepSeek」诞生！4个牛津学霸，让AI接管生命科学",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716282&idx=1&sn=0fa8a5011025e0614cbd209c2d16d969"
+  },
+  {
+    "id": "msgopx7ovr6ojr",
+    "date": "2026-08-04",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "最大AI黑洞！Anthropic年入1万亿美元后，算力价格狂飙10倍",
+    "summary": "算力正在按人类工资重新标价",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716282&idx=2&sn=552e56825dd089d18cdd66856e242e0e"
+  },
+  {
+    "id": "msgopx7oky46ca",
+    "date": "2026-08-04",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "Agent成本暴降几十倍！LlamaFactory作者开源新工具：0.2元自动造Agent",
+    "summary": "Agent成本暴降几十倍！LlamaFactory作者开源新工具：0.2元自动造Agent",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652716282&idx=3&sn=9828379f3bdb22539500f5f0d371824c"
+  },
+  {
     "id": "msf9fos0jjqani",
     "date": "2026-08-04",
     "sourceType": "portal",
