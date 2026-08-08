@@ -1,5 +1,104 @@
 [
   {
+    "id": "mskxy1f487hwq5",
+    "date": "2026-08-08",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "The exciting boring decade",
+    "summary": "Why hasn’t all the chaos in the real world inspired more interesting art?Geopolitics",
+    "url": "https://www.ft.com/content/10f9922c-4667-4fb9-b2a0-6f3264ef0b09?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mskxy1f4ybc25a",
+    "date": "2026-08-08",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "The joy of cooking imaginary food",
+    "summary": "From ‘The Sims 2’ to ‘Overcooked’, video games turn kitchen work into play — and reveal the satisfaction of making something you cannot eatTechnology sector",
+    "url": "https://www.ft.com/content/9a60eb7c-2662-4767-8de9-dc72d3398d08?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mskxy1f4fb0fk1",
+    "date": "2026-08-08",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Moonshot shake-up seeks to win Beijing nod for stock market debut",
+    "summary": "Chinese AI start-up targets Hong Kong listing to raise fresh funding for next phase of developmentTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mskxy34lpak52v",
+    "date": "2026-08-08",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
+    "summary": "从技能、harness到模型，层层递进",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247910812&idx=1&sn=1be36c772024fb1001416a99bdc7ec3a"
+  },
+  {
+    "id": "mskxy34luqo42f",
+    "date": "2026-08-08",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
+    "summary": "「太危险」被延期",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247910812&idx=2&sn=19274ba091daef41ccac22b079c22468"
+  },
+  {
+    "id": "mskxy34lyfpjn3",
+    "date": "2026-08-08",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247910812&idx=3&sn=3a76c26212311d1d06e45591eeca5d8d"
+  },
+  {
+    "id": "mskxy35tuiuivn",
+    "date": "2026-08-08",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "贵57.1倍的Claude Opus 4.8五项全输，赢它的不是模型，是Harness",
+    "summary": "如何计量 Harness ？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651049201&idx=1&sn=f8110edb2ca6e5ca038bf0e8196394b0"
+  },
+  {
+    "id": "mskxy35t549u5c",
+    "date": "2026-08-08",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "谷歌AI重组：创始人布林亲自盯Gemini，哈萨比斯交权",
+    "summary": "谷歌AI权力重组。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651049201&idx=2&sn=8a27a26d25acedc9665fe59d19f41e5a"
+  },
+  {
+    "id": "mskxy35t6lf60d",
+    "date": "2026-08-08",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "让生成式模型「画」出空间智能，而非强迫LLM输出「坐标」! 浙大提出Agentic空间认知评估框架",
+    "summary": "Show, Don't tell.",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651049201&idx=3&sn=0d392ccc606293b0469161d091a1d940"
+  },
+  {
     "id": "msjiqdegdkbxtu",
     "date": "2026-08-08",
     "sourceType": "portal",
