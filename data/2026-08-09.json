@@ -1,5 +1,38 @@
 [
   {
+    "id": "msnt55y9q4x5ng",
+    "date": "2026-08-09",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "OpenAI研究员：我们都不读论文了",
+    "summary": "那什么是真的？你说什么是真的？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651049267&idx=1&sn=2a9f8a52ac7bfa34397972ec4bf0fa6a"
+  },
+  {
+    "id": "msnt55y9tzplyq",
+    "date": "2026-08-09",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "揭秘！Agent潜伏两个月联手作案，OpenAI还原安全事故全过程",
+    "summary": "划时代的AI「能力」案例。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651049267&idx=2&sn=e79c651f1cb024a0200b515c364854bb"
+  },
+  {
+    "id": "msnt55y99c9iri",
+    "date": "2026-08-09",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "让生成式模型「画」出空间智能，而非强迫LLM输出「坐标」! 浙大提出Agentic空间认知评估框架",
+    "summary": "Show, Don't tell.",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651049267&idx=3&sn=49011a107e9b97fbf50a12366969b72f"
+  },
+  {
     "id": "msmdg9u6gdz3vb",
     "date": "2026-08-09",
     "sourceType": "portal",
