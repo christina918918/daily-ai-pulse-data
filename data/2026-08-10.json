@@ -1,5 +1,93 @@
 [
   {
+    "id": "msp8pudn9j5qt7",
+    "date": "2026-08-10",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+    "url": "https://openai.com/index/zapier"
+  },
+  {
+    "id": "msp8pudn011kop",
+    "date": "2026-08-10",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work"
+  },
+  {
+    "id": "msp8pw2otjs0bm",
+    "date": "2026-08-10",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "模型路线趋同之后，Physical AI的胜负手变了",
+    "summary": "物理AI新瓶颈已出现",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247911150&idx=1&sn=dbd57204912911c505d76bc34353ef2b"
+  },
+  {
+    "id": "msp8pw2on2olzh",
+    "date": "2026-08-10",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
+    "summary": "三视角世界模型谁更稳？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247911150&idx=2&sn=bf933366a5ecfed73b1f9242f43f92da"
+  },
+  {
+    "id": "msp8pw2oex74uy",
+    "date": "2026-08-10",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247911150&idx=3&sn=44a9ec63d1a1398bad3785228dde1916"
+  },
+  {
+    "id": "msp8pw44it1qdq",
+    "date": "2026-08-10",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "百万卡时代来了！全球最大AI「超级单体」在中国点亮",
+    "summary": "远景星河基地：让百万卡集群，跑出真实算力",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651049541&idx=1&sn=10d7635d6749ad986d2eebf5a428545c"
+  },
+  {
+    "id": "msp8pw44r69uoc",
+    "date": "2026-08-10",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "RIP：只活了292天的Atlas",
+    "summary": "浏览器里的 AI，正在杀死 AI 浏览器。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651049541&idx=2&sn=fa8e0ee8367b4380f7e240e8b9da7895"
+  },
+  {
+    "id": "msp8pw44jhnnsk",
+    "date": "2026-08-10",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "ECCV 2026｜自驾VLA Scaling有戏了，北航清华DriveTeach-VLA：用图像轨迹打通驾驶场景与基模预训练",
+    "summary": "该论文已经被 ECCV 2026 正式接收，相关代码和模型已全部开源。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651049541&idx=3&sn=53ce414a70d168d1b7f2e13e9c941e7a"
+  },
+  {
     "id": "msnt53l0hcjdxg",
     "date": "2026-08-10",
     "sourceType": "portal",
