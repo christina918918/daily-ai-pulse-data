@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mss3lfv3x7pt41",
+    "date": "2026-08-14",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Billionaires are taking over sports teams — and that’s a risk for fans",
+    "summary": "Franchises risk getting caught up in the disparate affairs of their financier ownersInvestments",
+    "url": "https://www.ft.com/content/9eca25f2-85ca-4654-a02e-ccbc638ff9eb?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mss3lfv3zhl0if",
+    "date": "2026-08-14",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Buyers should beware the dangers of new ETFs",
+    "summary": "High leverage and insufficient oversight could amplify risks for individuals and marketsInvestments",
+    "url": "https://www.ft.com/content/9f299fc0-b3ed-4a60-b228-9b2cc097f222?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mss3lfv3jxrub9",
+    "date": "2026-08-14",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "AI has opened up big holes in cyber security",
+    "summary": "It is too late to prevent the technology from being used as a damaging weapon, so great investment in defences is urgently neededTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/c78f18d3-fd4f-47ee-b34b-e5bdaa2fb9c6?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mss3lfv3aw1yxa",
+    "date": "2026-08-14",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Nearly 14,000 crypto holders face security risk after data breach",
+    "summary": "Personal details of people with Trezor hardware wallets stolen by hackers in second ‘cold’ storage attack in two weeksTechnology sector",
+    "url": "https://www.ft.com/content/a91356ef-67bd-4bd9-947b-b272423f1318?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mss3lg6vn8nt2l",
+    "date": "2026-08-14",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
+    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
+  }
+]
