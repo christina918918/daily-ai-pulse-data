@@ -1,5 +1,126 @@
 [
   {
+    "id": "msz858qg33213i",
+    "date": "2026-08-17",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Meta and BlackRock’s $14bn data centre exposes lenders to insurance gap",
+    "summary": "Investors in gigawatt-scale campuses face billions in underinsured risks as insurers balk at cost of full coverageArtificial intelligence",
+    "url": "https://www.ft.com/content/adeca274-67a3-4ee8-94f1-f43e4f28be97?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "msz85chysi4810",
+    "date": "2026-08-17",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "AI Infra进入自进化时代！清华团队用「AI优化AI」造就国产万亿Token工厂",
+    "summary": "ALL IN国产算力生态",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247913001&idx=1&sn=18a6edae23cb46536ef8a48701ab7a8f"
+  },
+  {
+    "id": "msz85chyx1818k",
+    "date": "2026-08-17",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "OpenAI解散「灾难风险应急」团队！GPU大神Scott Gray也跑路了",
+    "summary": "OpenAI已无独立安全团队。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247913001&idx=2&sn=0fe0eea8e8cdf3fb2daf1b719fbb9668"
+  },
+  {
+    "id": "msz85chy9guoid",
+    "date": "2026-08-17",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "世界模型一口气输出小时级视频不跑偏，开源了",
+    "summary": "三步去噪、零CFG，1.5秒片段的扩散只要2.11秒",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247913001&idx=3&sn=0ffd266a88f762bb4366ada6614a51e5"
+  },
+  {
+    "id": "msz85chy1vpqwr",
+    "date": "2026-08-17",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247913001&idx=4&sn=c7c3008a399b00ba3157e2659b43b20d"
+  },
+  {
+    "id": "msz85cl994na9c",
+    "date": "2026-08-17",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "起猛了，机器人开上卡丁车了！",
+    "summary": "把关于机器人的想象「驶」进了现实",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050789&idx=1&sn=24d0089b094af36e6e81d18a30d3ba89"
+  },
+  {
+    "id": "msz85cl926b02v",
+    "date": "2026-08-17",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "全球首个跨本体、多视角、多模态物理世界模型，CurrentWorld-0 来了！",
+    "summary": "在统一框架中实现跨本体、多视角与力-触觉建模。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050789&idx=2&sn=ad80098f33a57c6e63e5ea2fd0971bda"
+  },
+  {
+    "id": "msz85cl9iptric",
+    "date": "2026-08-17",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "OpenAI有个神秘邮箱，多大点事都能惊动奥特曼",
+    "summary": "靠一个邮箱对抗官僚主义。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651050789&idx=3&sn=9e66e0531f994153d531042b8615ac7b"
+  },
+  {
+    "id": "msz85crazywgar",
+    "date": "2026-08-17",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "AI视频运镜玄学已破！告别无限抽卡，3D预演台直接封神",
+    "summary": "拯救《牛来》第一步：AI +「预演台」",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652718554&idx=1&sn=b905ae36c8f000a2b9daf6881904ad6d"
+  },
+  {
+    "id": "msz85cragnlw6n",
+    "date": "2026-08-17",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "AI不是比人聪明，是输得起！菲尔兹奖得主点破OpenAI十项成果",
+    "summary": "AI不是比人聪明，是输得起！菲尔兹奖得主点破OpenAI十项成果",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652718554&idx=2&sn=151aaf2b2bbab9f7fcda270639663ad8"
+  },
+  {
+    "id": "msz85cra5y04xy",
+    "date": "2026-08-17",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "从Claude隐形水印回望GenAI时代信息隐藏：嵌入水印如何保证无损？",
+    "summary": "从Claude隐形水印回望GenAI时代信息隐藏：嵌入水印如何保证无损？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652718554&idx=3&sn=d289d47aa2e1e3f2bcea2a45f73b98ce"
+  },
+  {
     "id": "msxsqyp28n7o16",
     "date": "2026-08-17",
     "sourceType": "portal",
