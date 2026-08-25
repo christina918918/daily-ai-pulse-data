@@ -1,5 +1,126 @@
 [
   {
+    "id": "mt98cjxh5pu01u",
+    "date": "2026-08-24",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Filling In the Gaps in Nvidia’s $500 Billion Financing Pitch",
+    "summary": "Nvidia shocked the market earlier this month when it lined up half a dozen financial giants, including Blackstone, Apollo and Goldman Sachs, to finance $500 billion of AI infrastructure purchases. The eye-popping figure was a signal to the market that Nvidia is moving away from acting as the financi",
+    "url": "https://www.theinformation.com/articles/filling-gaps-nvidias-500-billion-financing-pitch"
+  },
+  {
+    "id": "mt98cjxhmcufya",
+    "date": "2026-08-24",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Nvidia Announces New Customers For Vera CPU, Groq LPX Racks",
+    "summary": "SpaceX and AI cloud company Nebius are set to be early customers of Nvidia’s Vera central processing units and fast inference-focused Groq LPX racks, two key items intended to expand on Nvidia’s main, graphics processing unit-based products, according to Nvidia. Analysts and investors have ...",
+    "url": "https://www.theinformation.com/briefings/nvidia-announces-new-customers-vera-cpu-groq-lpx-racks"
+  },
+  {
+    "id": "mt98cjxhttqksg",
+    "date": "2026-08-24",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Shein Expects IPO Valuation of $26 Billion",
+    "summary": "Fast fashion company Shein expects to go public at a valuation of around $26 billion, the company said in a filing with the Hong Kong Stock Exchange. That would be a sharp decline from the $80 billion to $90 billion valuation it was hoping for three years ago. That decline reflects how ...",
+    "url": "https://www.theinformation.com/briefings/shein-expects-ipo-valuation-26-billion"
+  },
+  {
+    "id": "mt98cjxhbgeemz",
+    "date": "2026-08-24",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Jensen Huang's Manic Moves",
+    "summary": "Nvidia CEO Jensen Huang continues to not rest on his laurels, particularly as clouds continue forming over the AI buildout. On Sunday, Phoebe, Valida and I reported that Nvidia was planning to lead a multibillion-dollar investment in Perplexity, the search firm-turned-AI agent provider whose revenue",
+    "url": "https://www.theinformation.com/articles/jensen-huangs-manic-moves"
+  },
+  {
+    "id": "mt98cjxh0sf8uj",
+    "date": "2026-08-24",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Amazon Becomes Vital Sales Outlet For Independent Merchants",
+    "summary": "When Lauren Wang started Flex in Los Angeles a decade ago, she wanted to create a new type of menstrual care product that wasn’t already on the market&mdash;a disposable disc that lasts longer than traditional tampons or pads. Flex sold through its own website early on; it was one of a number of bra",
+    "url": "https://www.theinformation.com/articles/amazon-becomes-vital-sales-outlet-independent-merchants"
+  },
+  {
+    "id": "mt98cjxhq40dmi",
+    "date": "2026-08-24",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Nvidia to Raise Flagship AI Chip Prices 17%, Server Makers Say",
+    "summary": "Prices for Nvidia’s Grace Blackwell and Vera Rubin chip systems are set to rise about 17%, The Information reported Saturday. The price jump adds to a growing array of cost surprises for cloud providers and other data center developers, including unexpected power delays, political ...",
+    "url": "https://www.theinformation.com/briefings/nvidia-raise-flagship-ai-chip-prices-17-server-makers-say"
+  },
+  {
+    "id": "mt98cjxh0xjozd",
+    "date": "2026-08-24",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Nvidia Invests in Data Center Power Firm, Preps Multibillion-Dollar Perplexity Deal",
+    "summary": "Nvidia acquired a minority stake in Cloverleaf Infrastructure, its third equity investment in rapid succession in firms that secure real estate and electricity access for data centers in the U.S. The move is part of Nvidia’s race to lock up data center capacity for its full AI hardware ...",
+    "url": "https://www.theinformation.com/briefings/nvidia-invests-data-center-power-firm-preps-multibillion-dollar-perplexity-deal"
+  },
+  {
+    "id": "mt98cn7jn6z57r",
+    "date": "2026-08-24",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+    "summary": "AI科研能力从工具级跨越到系统级",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247914630&idx=1&sn=f69a93f5e6113519919f74fed5a94e08"
+  },
+  {
+    "id": "mt98cn7jnpjxhl",
+    "date": "2026-08-24",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "AI正在重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
+    "summary": "Visa看到的AI未来",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247914630&idx=2&sn=80df85bd53d5bbed4472eb260a2f74b9"
+  },
+  {
+    "id": "mt98cn7j2dr5kl",
+    "date": "2026-08-24",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "刚刚，小米一口气发布三颗自研芯片！玄戒O3安兔兔跑分522万，安卓首破500万",
+    "summary": "每个模块都塞进了AI",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247914630&idx=3&sn=b0952d1b3b89f3df119fa8d9dfc9cec9"
+  },
+  {
+    "id": "mt98cn7jcmoz7q",
+    "date": "2026-08-24",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247914630&idx=4&sn=2dff2ce7191e8811d7630b558c959c9a"
+  },
+  {
     "id": "mt7svrlckgf25y",
     "date": "2026-08-24",
     "sourceType": "portal",
