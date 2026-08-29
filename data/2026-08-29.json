@@ -1,5 +1,148 @@
 [
   {
+    "id": "mtf1b8k3sf1r5f",
+    "date": "2026-08-29",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Chart of the Week: Is the 60-40 portfolio dead?",
+    "summary": "Under inflation, bonds are no longer a good diversifierInvestments",
+    "url": "https://www.ft.com/content/59955452-1de0-40f0-a8d1-62139d502484?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mtf1b8k38t2c73",
+    "date": "2026-08-29",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Zero-sum thinking will fuel resentment and scarcity",
+    "summary": "The assumption that one group must lose for another to gain has become worryingly widespreadGeopolitics",
+    "url": "https://www.ft.com/content/492134e9-49eb-4f13-b70a-b2b595ed0e2a?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mtf1b8k3fp2own",
+    "date": "2026-08-29",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Did AI write this? It’s getting harder to tell",
+    "summary": "Detection software offers quick answers, but the risk of false positives and the stigma of being accused are leading to societal mistrust in the written wordTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mtf1b8k3a9zwgc",
+    "date": "2026-08-29",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "FT stock picking game results: the unexpected triumph of fundamentals",
+    "summary": "No one ever won a stock picking game by choosing good companies. Or did they?Technology sector",
+    "url": "https://www.ft.com/content/38a05881-ebfc-47ac-b326-96142edd1bb7?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mtf1bb01gmt88k",
+    "date": "2026-08-29",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "去年归国的徐梦迪，成了清华姚班班主任",
+    "summary": "本科读车辆工程，如今教AI第一班",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247916598&idx=1&sn=16983de05b4dbfbbcb8e9474d647dc9e"
+  },
+  {
+    "id": "mtf1bb01k2oomi",
+    "date": "2026-08-29",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "企业智能化产品与案例征集｜量子位智库",
+    "summary": "你的企业，正在怎么用AI？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247916598&idx=2&sn=d9482124f988fabd1ecba0794b7f7910"
+  },
+  {
+    "id": "mtf1bb01atjbjd",
+    "date": "2026-08-29",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "只靠一问一答，就能抓出大模型幻觉，准确率88% | ICML'26",
+    "summary": "“类人准则探测机制”让大模型幻觉检测有了新基线",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247916598&idx=3&sn=d4b7937d5c43888682c10e5905020303"
+  },
+  {
+    "id": "mtf1bb017qv27o",
+    "date": "2026-08-29",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247916598&idx=4&sn=4db12769b847669f971f5ea095c757ee"
+  },
+  {
+    "id": "mtf1bb25jl90o0",
+    "date": "2026-08-29",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "突发！OpenAI宣布断供Cursor",
+    "summary": "「马斯克想蒸馏我。」",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651053471&idx=1&sn=eb718841cd7d53921a32e5ecd15bbff5"
+  },
+  {
+    "id": "mtf1bb25l2n328",
+    "date": "2026-08-29",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Anthropic盯上「训练芯片」？被爆曾想70亿美元收购AI芯片公司MatX",
+    "summary": "OpenAI亮出「推理芯片」，Anthropic瞄准「训练芯片」。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651053471&idx=2&sn=e6f7b2881329a55cfb6a1f71cbb861fb"
+  },
+  {
+    "id": "mtf1bb4l3es36r",
+    "date": "2026-08-29",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "一块GPU，Claude爆肝48小时自我对齐！效率狂飙15000倍",
+    "summary": "48小时不睡不歇，效率狂飙15000倍！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652721330&idx=1&sn=41a465565a357819906d1cb0e0b683ce"
+  },
+  {
+    "id": "mtf1bb4ldyqwfk",
+    "date": "2026-08-29",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "刚刚，谷歌新模型全球登顶！",
+    "summary": "刚刚，谷歌新模型全球登顶！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652721330&idx=2&sn=5aedf7d87244a4f83ed4d27dbe223484"
+  },
+  {
+    "id": "mtf1bb4lvrp2al",
+    "date": "2026-08-29",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "苹果新研究：纯中文推理训练，和用英文几乎没有差距",
+    "summary": "苹果新研究：纯中文推理训练，和用英文几乎没有差距",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652721330&idx=3&sn=5488f346037f803f959554c6669a1b8f"
+  },
+  {
     "id": "mtdtl3cb4x6shd",
     "date": "2026-08-29",
     "sourceType": "portal",
