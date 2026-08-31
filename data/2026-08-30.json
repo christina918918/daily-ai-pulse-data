@@ -1,0 +1,123 @@
+[
+  {
+    "id": "mtghfayrailck8",
+    "date": "2026-08-30",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Americans feel they have lost their agency",
+    "summary": "People increasingly blame large corporations for the sense that they have ever less control over their own livesTechnology sector",
+    "url": "https://www.ft.com/content/63e8a4f3-7c18-4ddc-b3b7-e472159a7adf?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mtghfayravcvj8",
+    "date": "2026-08-30",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Meta’s settlement is a starting point",
+    "summary": "Governments can use it as leverage as they mull social media bans for minorsTechnology sector",
+    "url": "https://www.ft.com/content/5729b32c-8b7a-42b1-b1e2-b8b0106739cb?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mtghfayrfboghm",
+    "date": "2026-08-30",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Grindr bets wealthy gay men will pay more to find the right match",
+    "summary": "Dating app’s chief executive plans premium service push to help boost growthTechnology sector",
+    "url": "https://www.ft.com/content/952920f9-429d-451a-9913-a360880ead41?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mtghfdmu8iij74",
+    "date": "2026-08-30",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
+    "summary": "赛博义父连夜救场",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247916663&idx=1&sn=7af9458f7853a6df8f0be87a34c6d3a1"
+  },
+  {
+    "id": "mtghfdmu0ycdl7",
+    "date": "2026-08-30",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "手机本地一键成片，靠的是一个8B小模型的自我进化 | EMNLP'26",
+    "summary": "8B小模型学会“剪片子”，端侧剪辑规划比肩前沿大模型",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247916663&idx=2&sn=174f44f53f5fb8296479fc52f461ad5f"
+  },
+  {
+    "id": "mtghfdmu5124h8",
+    "date": "2026-08-30",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247916663&idx=3&sn=2b8a52f333f6062e2253df2a3184ce40"
+  },
+  {
+    "id": "mtghfdovlfpzni",
+    "date": "2026-08-30",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Claude安全机制大翻车！AI怒删开发者700GB主目录",
+    "summary": "「Who watches the watchmen?」",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651053526&idx=1&sn=e40820f4e96546b56a2a6419432b31cc"
+  },
+  {
+    "id": "mtghfdovwp3pum",
+    "date": "2026-08-30",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "端侧模型专用Harness，用Qwen3.8-27B实现「零成本推理」",
+    "summary": "本地定制化Agent运行范式。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651053526&idx=2&sn=c487c62ae639a7fd386b186820419f70"
+  },
+  {
+    "id": "mtghfdovb76gsd",
+    "date": "2026-08-30",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "当 AI 开始为 AI 造“认知外骨骼”：不训模型，也能让小 AI 能力翻倍？AI4AI 正从这里开始",
+    "summary": "完全不改变这个员工本身，而是给它设计一套更好的工作制度。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651053526&idx=3&sn=86488a72c65463f7a70e5fcbf92681d5"
+  },
+  {
+    "id": "mtghfdr9pa3ent",
+    "date": "2026-08-30",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "AI文明涌现！OpenAI智能体自建「三代帝国」，暗网越狱反向接管母公司",
+    "summary": "AI文明涌现！OpenAI智能体自建「三代帝国」，暗网越狱反向接管母公司",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652721643&idx=1&sn=5b763ba9dbcf1aa67f2c0afac8ca606a"
+  },
+  {
+    "id": "mtghfdr9652exj",
+    "date": "2026-08-30",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "陶哲轩：100年后，数学再度大危机！",
+    "summary": "陶哲轩：100年后，数学再度大危机！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652721643&idx=2&sn=fe5ad2aa89e122507b52f2bb1a9cc10a"
+  }
+]
