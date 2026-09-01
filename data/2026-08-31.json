@@ -1,5 +1,82 @@
 [
   {
+    "id": "mtjbf39v53e3h9",
+    "date": "2026-08-31",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
+  },
+  {
+    "id": "mtjbf55sexf92x",
+    "date": "2026-08-31",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+    "summary": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247917119&idx=1&sn=f4eb1aaf47ac7c68a65549f1979d645e"
+  },
+  {
+    "id": "mtjbf55sxtsev9",
+    "date": "2026-08-31",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "Cursor刚姓马斯克OpenAI就断供了，你们硅谷装不了一点",
+    "summary": "Claude：俺火速补位",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247917119&idx=2&sn=4ee192c6b415c1161d5ff703118acb46"
+  },
+  {
+    "id": "mtjbf55sxnfz3d",
+    "date": "2026-08-31",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247917119&idx=3&sn=0dbbe97a1290515e95cc54403927872c"
+  },
+  {
+    "id": "mtjbf59shojxc3",
+    "date": "2026-08-31",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "Claude Max 20x在哪儿？200刀只管5小时",
+    "summary": "Claude Max 20x 虚假宣传：真实周额度只有 5x 的两倍！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652721876&idx=1&sn=9ac27b0ec3a2bc76b68dca246d2877b8"
+  },
+  {
+    "id": "mtjbf59slwlijm",
+    "date": "2026-08-31",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "一觉醒来20个PR自己合进了主干！SpaceXAI工程师：我基本不看代码了",
+    "summary": "一觉醒来20个PR自己合进了主干！SpaceXAI工程师：我基本不看代码了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652721876&idx=2&sn=5940bc6c2c7e76a617ca41bbbfc60a08"
+  },
+  {
+    "id": "mtjbf59suop5m7",
+    "date": "2026-08-31",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "Co-Scientist升级：AI走出屏幕，首次在真实实验室「造出」半导体",
+    "summary": "Co-Scientist升级：AI走出屏幕，首次在真实实验室「造出」半导体",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652721876&idx=3&sn=684ff86b770d4c1f59ae3dadd2e5d476"
+  },
+  {
     "id": "mthyk2u73ilq1r",
     "date": "2026-08-31",
     "sourceType": "portal",
