@@ -1,5 +1,49 @@
 [
   {
+    "id": "mtkr00d7wqmz89",
+    "date": "2026-09-01",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+    "url": "https://openai.com/index/gilbert-tobin"
+  },
+  {
+    "id": "mtkr02axvvu5pf",
+    "date": "2026-09-01",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Kimi、WorkBuddy、MiniMax能力包，招行这张信用卡全包了，AI办公新入口来了！",
+    "summary": "招行 “AI 信用卡” 再上新：集齐多款主流 AI 生产力工具",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651053856&idx=1&sn=1b2bc040c2c0efa863c958efa8f45f62"
+  },
+  {
+    "id": "mtkr02axktr9n1",
+    "date": "2026-09-01",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Runway把世界模型做成了操作系统！不用代码直接生成界面",
+    "summary": "Runway想把代码从UI里拿掉。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651053856&idx=2&sn=b9dde7ac8cc75c5fa074342175d40fca"
+  },
+  {
+    "id": "mtkr02ax1y3qkh",
+    "date": "2026-09-01",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "当AI从工具到认知主体，我们需要警惕哪些新风险？",
+    "summary": "如何确保人类仍然拥有独立思考的能力、自主选择的权力，以及压箱底的控制力？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651053856&idx=3&sn=1501153f2e5e680af043e9f7878b96de"
+  },
+  {
     "id": "mtjbf33s2eia2n",
     "date": "2026-09-01",
     "sourceType": "portal",

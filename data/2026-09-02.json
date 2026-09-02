@@ -1,5 +1,126 @@
 [
   {
+    "id": "mtkr009cgsuix2",
+    "date": "2026-09-02",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Indonesia’s lessons for the global energy transition",
+    "summary": "Country’s solar push highlights momentum — and obstacles — around green energy shiftInvestments",
+    "url": "https://www.ft.com/content/3cd95c0c-4d62-4a74-8c66-34523bc2567d?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mtkr009cfqdmyr",
+    "date": "2026-09-02",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "The best, worst and strangest ways AI is really being used at work",
+    "summary": "Consultants, lawyers, bankers and others share a snapshot of how tech tools are changing their jobsTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/9877ee0d-8c13-41b4-b102-9f2b280787ea?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mtkr009cr74t74",
+    "date": "2026-09-02",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Back to school: meet PE’s new headmasters",
+    "summary": "Top European private capital firms have fresh leadershipInvestments",
+    "url": "https://www.ft.com/content/2a2d9bab-7441-446b-8e2e-7463583738c2?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mtkr009c00bzmf",
+    "date": "2026-09-02",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "AI sounds the death knell for audit fee inflation",
+    "summary": "Companies’ audit bills increased less than 2% last year, broadly in line with inflationArtificial intelligence",
+    "url": "https://www.ft.com/content/80d02797-9a54-47e0-8bc3-a7144354da93?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mtkr009c0e6qw2",
+    "date": "2026-09-02",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "‘All it will take is one screw-up’: AI groups race to limit bioweapon risks",
+    "summary": "Executives and biosecurity experts are concerned that future models could help users create novel viruses or bioweaponsTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/22bfa989-7477-434a-aa53-6fbfe6cd0335?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mtkr009czvx58h",
+    "date": "2026-09-02",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Advisory firm Interpath looking for its own US deal",
+    "summary": "New owners want foothold in top market for restructurings and other consulting workInvestments",
+    "url": "https://www.ft.com/content/0a019cc6-3ce3-4034-b88f-302a56888095?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mtkr009cpd6mvu",
+    "date": "2026-09-02",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "National data centre projects are consolidating America’s AI lead",
+    "summary": "Countries may host facilities but dispersion of hardware does not equal decentralisation of power Technology sector, Artificial intelligence, Geopolitics",
+    "url": "https://www.ft.com/content/732c05fe-ca63-4048-8784-aebe80b8b1f4?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mtkr00d77rma7g",
+    "date": "2026-09-02",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+    "url": "https://openai.com/index/atv-big-air-tour"
+  },
+  {
+    "id": "mtkr00m8mso2li",
+    "date": "2026-09-02",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
+  },
+  {
+    "id": "mtkr02axk5cw3j",
+    "date": "2026-09-02",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Vibe Coding杀进3D领域！OpenAI总裁都在围观这种新玩法",
+    "summary": "代码之后，3D建模也开始「一句话交付」。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651054212&idx=1&sn=abd00272952a72de2c50ee625e2a5bc2"
+  },
+  {
+    "id": "mtkr02ax179ica",
+    "date": "2026-09-02",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "李飞飞发布Atlas，世界模型进入新时代",
+    "summary": "从 Marble 到 Atlas：李飞飞把世界模型推向机器人",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651054212&idx=2&sn=60e918d46f57e0532054d6424cd31992"
+  },
+  {
     "id": "mtjbf33skfpasd",
     "date": "2026-09-02",
     "sourceType": "portal",
