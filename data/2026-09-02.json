@@ -1,5 +1,82 @@
 [
   {
+    "id": "mtm6d31pah8s64",
+    "date": "2026-09-02",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "今年最难的机器人Demo，“机器人含量”为0",
+    "summary": "机器人学精细操作，不一定要先遥操机器人了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247918115&idx=1&sn=19591699cfe1b3e11012312eaf44c8ab"
+  },
+  {
+    "id": "mtm6d31pfbaho7",
+    "date": "2026-09-02",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "具身大脑进了真实世界，难题才刚刚开始",
+    "summary": "我们又和蚂蚁灵波攒了个局，聊聊具身智能的硬骨头",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247918115&idx=2&sn=0523d2f3dee63eeb082b9f5a8f8fb121"
+  },
+  {
+    "id": "mtm6d31plc4v56",
+    "date": "2026-09-02",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "0.25秒识破未见攻击，这套检测方法没看过任何越狱样本 | EMNLP'26",
+    "summary": "将大视觉语言模型的越狱防线前移",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247918115&idx=3&sn=0acd5d2ca26b17bf7517c937e084880a"
+  },
+  {
+    "id": "mtm6d31pq1300g",
+    "date": "2026-09-02",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247918115&idx=4&sn=ca92a4a8d4a030107fc4e7550d550b37"
+  },
+  {
+    "id": "mtm6d34gb0silu",
+    "date": "2026-09-02",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "刚刚，全球首台「万元级」高性能人形机器人诞生！比Mac还便宜",
+    "summary": "机器人平权时代，从一台电脑的价格开始",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652722301&idx=1&sn=69f6a8dd3ae9f69f58393cfa6ef5864d"
+  },
+  {
+    "id": "mtm6d34gbkwgrj",
+    "date": "2026-09-02",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "OpenAI Astra发布在即，全自动网络攻防能力已突破天际！",
+    "summary": "漏洞利用基准测试满分。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652722301&idx=2&sn=2d59d8e46c78ad74c1853fb987d6e2d8"
+  },
+  {
+    "id": "mtm6d34gdaswj5",
+    "date": "2026-09-02",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "AI替主人抢健身课，顺手删了陌生人的预约！太听话的AI才最可怕",
+    "summary": "AI替主人抢健身课，顺手删了陌生人的预约！太听话的AI才最可怕",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652722301&idx=3&sn=25ad32b228668d6682bdefd141da3745"
+  },
+  {
     "id": "mtkr009cgsuix2",
     "date": "2026-09-02",
     "sourceType": "portal",
