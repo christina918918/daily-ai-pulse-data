@@ -1,5 +1,16 @@
 [
   {
+    "id": "mtp0o7pv6r1uj1",
+    "date": "2026-09-03",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+    "url": "https://openai.com/index/gpt-6-astra"
+  },
+  {
     "id": "mtnlkb96ybpnta",
     "date": "2026-09-03",
     "sourceType": "wechat",
