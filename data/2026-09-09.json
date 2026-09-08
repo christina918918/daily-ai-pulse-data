@@ -1,0 +1,90 @@
+[
+  {
+    "id": "mttbl3i44g8q3s",
+    "date": "2026-09-09",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "US bans Canadian dairy, motorcycles and most alcoholic beverages",
+    "summary": "Trump administration announces move day after Ottawa imposed US$20bn in retaliatory tariffs on US goodsGlobal trade",
+    "url": "https://www.ft.com/content/639d8eac-fd8c-4557-a852-f826501681ad?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mttbl3i4feh1vk",
+    "date": "2026-09-09",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "CVC hires Todd Sisitsky with plans to name him co-chief",
+    "summary": "London-based private capital group brings on TPG executive as part of succession plan for chief Rob LucasInvestments",
+    "url": "https://www.ft.com/content/2b171670-c0ce-442f-85a0-2d475369ffa3?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mttbl3i4hthgvx",
+    "date": "2026-09-09",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO",
+    "summary": "Investment-grade designation would unlock cheaper financing for AI labs and their infrastructure partnersTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/aa304856-cade-4ad8-a2bf-2dd34fa75b1b?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mttbl3i4b60iph",
+    "date": "2026-09-09",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Meta unveils AI personal assistant linked to WhatsApp and Instagram",
+    "summary": "New ‘agent’ called Muse designed to make customised suggestions based on chats and social media activityTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/5816292b-c36b-4c22-aa50-2680b9970382?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mttbl3i4i96qd6",
+    "date": "2026-09-09",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Investors led by L Catterton to buy controlling stake in Hyrox",
+    "summary": "German fitness company has become a global phenomenon since the Covid pandemicInvestments",
+    "url": "https://www.ft.com/content/8152db75-ceb6-47be-8434-8ad42c1aaf99?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mttbl3i4xat6yn",
+    "date": "2026-09-09",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "UK says it will force tech giants to stop children sharing nude images",
+    "summary": "Culture secretary said Apple and Google would be forced ‘to build in device-level protections for children’Technology sector",
+    "url": "https://www.ft.com/content/c167b64d-aa04-4e6a-9dda-06ad70a36c52?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mttbl3i4s5odne",
+    "date": "2026-09-09",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Apple looks to AI capabilities to drive its new foldable phone sales",
+    "summary": "Halo effect from new device may also allow Apple to raise prices of its other products Technology sector",
+    "url": "https://www.ft.com/content/944fd36f-8f91-4178-b05a-2b961c44e310?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mttbl3mitxdd0f",
+    "date": "2026-09-09",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments"
+  }
+]
