@@ -1,5 +1,71 @@
 [
   {
+    "id": "mtur0o1indirul",
+    "date": "2026-09-08",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
+    "summary": "模型可以开源，部署经验不能",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247920452&idx=1&sn=14359a2b3062f5e1702ce0c135b02dc1"
+  },
+  {
+    "id": "mtur0o1iohbe9t",
+    "date": "2026-09-08",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "Claude Code团队讲究啊，这都往外说",
+    "summary": "软件工程的核心始终是problem solving。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247920452&idx=2&sn=7400d72a3defe8df398c675c40373ccb"
+  },
+  {
+    "id": "mtur0o1i3e2y9h",
+    "date": "2026-09-08",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "Arm造了颗AGI CPU，火山引擎首批智能体沙箱先上车",
+    "summary": "手游画质能打主机了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247920452&idx=3&sn=1bd5e12872e05f1d6a72e14ed23756e2"
+  },
+  {
+    "id": "mtur0o1indnf9z",
+    "date": "2026-09-08",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247920452&idx=4&sn=b102ba8435bf630853efab2b4dfc8685"
+  },
+  {
+    "id": "mtur0o67ygdehf",
+    "date": "2026-09-08",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "端侧模型太夯了！面壁智能开源2B「小钢炮」，通用Agent杀到端侧",
+    "summary": "不只开源模型，面壁智能连数据、RL框架和训练方法都开放了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055602&idx=1&sn=c26a061b944f571aabbcf2ae440fc96f"
+  },
+  {
+    "id": "mtur0o685y7wqj",
+    "date": "2026-09-08",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Agent长时工作如何不跑偏？WorkSwarm用「永续会话」给出解法",
+    "summary": "Agent对「聊久必忘」说不。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055602&idx=2&sn=da7bb74bb874248ea6466b4ba920b2d7"
+  },
+  {
     "id": "mttbl3i43dc4ef",
     "date": "2026-09-08",
     "sourceType": "portal",
