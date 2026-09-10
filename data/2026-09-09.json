@@ -1,5 +1,38 @@
 [
   {
+    "id": "mtw67ucs2qw3te",
+    "date": "2026-09-09",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "The AI policy window is open. We need to act.",
+    "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+    "url": "https://openai.com/index/ai-policy-window"
+  },
+  {
+    "id": "mtw67wt501650p",
+    "date": "2026-09-09",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "RoboPapers专访光轮智能谢晨：具身Scaling Law的两座金字塔",
+    "summary": "EgoSuite-Open100K 背后，光轮智能打造出持续生产、验证和复用物理经验的数据引擎。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055972&idx=1&sn=ebceced211d1f072be55cbd05c0c397e"
+  },
+  {
+    "id": "mtw67wt5w2eim9",
+    "date": "2026-09-09",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "快去提问！沐神空降小红书，在线答疑",
+    "summary": "agent 是能力放大器，就是能力 x10，而不是加法器，不是能力 +10。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055972&idx=2&sn=79a359d1bffb0e42556f185751aedd38"
+  },
+  {
     "id": "mtur0kv0j2mrd3",
     "date": "2026-09-09",
     "sourceType": "portal",
