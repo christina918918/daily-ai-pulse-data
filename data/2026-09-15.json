@@ -1,5 +1,82 @@
 [
   {
+    "id": "mu4rn0h5rgo74t",
+    "date": "2026-09-15",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
+    "summary": "一句话，YOYO全面接管我的生活",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247923377&idx=1&sn=13e5088cfb24a5057f4045fd6245d373"
+  },
+  {
+    "id": "mu4rn0h5phwr50",
+    "date": "2026-09-15",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "华为GTS让Agent学会「看着网络排障」，双防火墙难题几乎全拿下",
+    "summary": "任务通过率提升24.2%，token成本最高下降45%",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247923377&idx=2&sn=6af7b413785dacd51cc4090b1d557902"
+  },
+  {
+    "id": "mu4rn0h5ew33mx",
+    "date": "2026-09-15",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "周一凌晨6点硅谷原地裁员",
+    "summary": "刚睡醒就失业，甲骨文员工实惨。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247923377&idx=3&sn=e2392f1537c15ea8c136a75d8c2ff637"
+  },
+  {
+    "id": "mu4rn0h53qic65",
+    "date": "2026-09-15",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "零样本刷新三项基准：ZeroDiff++让AI边考试边学习 | TPAMI'26",
+    "summary": "锚定真实样本，生成有迹可循",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247923377&idx=4&sn=511ff1f177bfc7e9aadc57c0cb1aa210"
+  },
+  {
+    "id": "mu4rn0h5lw0715",
+    "date": "2026-09-15",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247923377&idx=5&sn=ffdf20c2be29d728384e5f48803b0443"
+  },
+  {
+    "id": "mu4rn0k2qrsqu8",
+    "date": "2026-09-15",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "在多项高难度Benchmark超越GPT-6 Astra，RSIAgent让开源模型自主探索新环境",
+    "summary": "Aether AI 深耕因果智能，推动 AI 持续自我进化",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651057178&idx=1&sn=3ee4d896a3d3ed5a39c7773752d61d30"
+  },
+  {
+    "id": "mu4rn0k2e1iea1",
+    "date": "2026-09-15",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "全奖读AI！人工智能排名前十的MBZUAI本硕博招生启动",
+    "summary": "阿布扎比这所AI大学，究竟有多香？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651057178&idx=2&sn=e69916867dd74b9a1c0609176b8d4107"
+  },
+  {
     "id": "mu3byjjweazvj6",
     "date": "2026-09-15",
     "sourceType": "portal",
