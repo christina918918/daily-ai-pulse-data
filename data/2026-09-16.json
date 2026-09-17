@@ -1,5 +1,27 @@
 [
   {
+    "id": "mu66qa7j163zyd",
+    "date": "2026-09-16",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "本地该怎么做RSI？我们与StartLux CTO聊了聊",
+    "summary": "RSI 不一定要发生在云端",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651057510&idx=1&sn=fe3bfc52fa67e6e43f869228e202f996"
+  },
+  {
+    "id": "mu66qa7j89235b",
+    "date": "2026-09-16",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "复杂的Harness Evolution，甚至不如多跑几遍",
+    "summary": "当 “自我进化” 的 Agent 得分提高时，我们怎么知道它是真的学会了更好的工作方式，而不是因为它比普通 Agent 多获得了几次尝试机会？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651057510&idx=2&sn=8e1bea2b097f6ec4c012b75cf0ccfacb"
+  },
+  {
     "id": "mu4rmvtvvaw39l",
     "date": "2026-09-16",
     "sourceType": "portal",
