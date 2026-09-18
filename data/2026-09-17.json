@@ -1,5 +1,38 @@
 [
   {
+    "id": "mu7m3a6zkp9fxc",
+    "date": "2026-09-17",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+    "url": "https://openai.com/index/cooley-gopublic"
+  },
+  {
+    "id": "mu7m3ctxloag2s",
+    "date": "2026-09-17",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "OpenAI把AI推向物理世界，这家公司已造好引擎，下一站1000万小时人类经验",
+    "summary": "一条新的 Scaling 轴正在变得清晰：人类经验。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651057816&idx=1&sn=37c2b36c2f98b06bde72e1cf6299537c"
+  },
+  {
+    "id": "mu7m3ctx42mb9u",
+    "date": "2026-09-17",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "2400万人围观，前OpenAI研究员做了个「闭嘴」模型",
+    "summary": "快200倍，成本降至1/400。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651057816&idx=2&sn=e499ee2bea5824b0d433e5978ebe0b36"
+  },
+  {
     "id": "mu66q7bj0ir588",
     "date": "2026-09-17",
     "sourceType": "portal",
