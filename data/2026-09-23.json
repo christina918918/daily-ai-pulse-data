@@ -1,5 +1,38 @@
 [
   {
+    "id": "mug7kna85hvny6",
+    "date": "2026-09-23",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+    "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+    "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan"
+  },
+  {
+    "id": "mug7kpmb7p7h6y",
+    "date": "2026-09-23",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "4亿副耳机，正在等待一次AI改造",
+    "summary": "谁来送水？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651059402&idx=1&sn=113b8d8deb7a9692205f6ea9dd648171"
+  },
+  {
+    "id": "mug7kpmb4xvanp",
+    "date": "2026-09-23",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "从训练数据到科研验证，沐晨科技押注AI时代的新基础设施",
+    "summary": "AI越来越复杂，谁来验证下一代智能？沐晨科技给出了一条路径！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651059402&idx=2&sn=1923e294db29d4255fd2fef6989163be"
+  },
+  {
     "id": "mues23upf0st2m",
     "date": "2026-09-23",
     "sourceType": "portal",
