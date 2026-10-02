@@ -1,0 +1,112 @@
+[
+  {
+    "id": "muq9uvq2go9i21",
+    "date": "2026-10-02",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Microsoft’s Executive Exodus Foreshadows Business Transition",
+    "summary": "Is there a fire alarm going off at Microsoft’s headquarters? A slew of Microsoft executives have bolted for the exits in recent weeks, most recently Ryan Roslansky, executive vice president of Office apps, who said Thursday he would leave at the end of this year. A day earlier it was Microsoft Scien",
+    "url": "https://www.theinformation.com/articles/microsofts-executive-exodus-foreshadows-business-transition"
+  },
+  {
+    "id": "muq9uvq20ly7i8",
+    "date": "2026-10-02",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "In Robotics, Google Goes Android to Tesla’s Apple",
+    "summary": "While interviewing Google’s Koray Kavukcuoglu last week, I had a flash of deja vu. In his first sit-down since taking over as CEO of Google DeepMind, Kavukcuoglu offered some of his most detailed comments yet on where the company's robotics ambitions are headed and how they differ from the rest of t",
+    "url": "https://www.theinformation.com/articles/robotics-google-goes-android-teslas-apple"
+  },
+  {
+    "id": "muq9uvq28mppfw",
+    "date": "2026-10-02",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "OpenAI Fires Three Safety Researchers",
+    "summary": "OpenAI said it fired three safety employees for mishandling corporate information, which a person familiar with the matter said included sensitive information with an outside organization that does AI evaluations. “We have parted ways with three individuals for violating our policies on ...",
+    "url": "https://www.theinformation.com/briefings/openai-fires-three-safety-researchers"
+  },
+  {
+    "id": "muq9uvq2lry4ui",
+    "date": "2026-10-02",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Federal Court Dismisses Publishers’ Suits Over Google’s AI Overviews",
+    "summary": "A federal judge on Wednesday dismissed lawsuits from education technology company Chegg and Penske Media, the owner of Rolling Stone, Variety and other publications, which had alleged Google had violated antitrust law when its AI Overviews summaries used their content. The court rejected the ...",
+    "url": "https://www.theinformation.com/briefings/federal-court-dismisses-publishers-suits-googles-ai-overviews"
+  },
+  {
+    "id": "muq9uvq2hf12ip",
+    "date": "2026-10-02",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Exclusive: Nvidia, SoftBank Make Final $20 Billion Investment in OpenAI’s Last Round",
+    "summary": "Nvidia and SoftBank have each made the final $10 billion investment in each of their $30 billion pledges to OpenAI’s last funding round, according to a person with knowledge of the investments and a statement from SoftBank. OpenAI in March said it had $122 billion in commitments in a round that ...",
+    "url": "https://www.theinformation.com/briefings/exclusive-nvidia-softbank-make-final-20-billion-investment-openais-last-round"
+  },
+  {
+    "id": "muq9uvq2oun4sd",
+    "date": "2026-10-02",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Sharon AI Announces $356 Million GPU-Backed Loan",
+    "summary": "Australian neocloud Sharon AI has secured $356 million through its first loan backed by its graphics processing units, making it the latest cloud provider to finance their expansion by borrowing against chips and cash flows from customer contracts. The senior secured facility carries an interest ...",
+    "url": "https://www.theinformation.com/briefings/sharon-ai-announces-356-million-gpu-backed-loan"
+  },
+  {
+    "id": "muq9uvq2r64l5x",
+    "date": "2026-10-02",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Data Center Infra Provider Accelevation Sinks In Post-IPO Trading",
+    "summary": "Data center infrastructure provider Accelevation’s shares were trading down roughly 5% on Thursday morning, as the stock continued to sink following its initial public offering earlier this week. The company on Sept. 29 raised $540 million, moving ahead with the offering even as some  ...",
+    "url": "https://www.theinformation.com/briefings/data-center-infra-provider-accelevation-sinks-post-ipo-trading"
+  },
+  {
+    "id": "muq9uwglf5tkoi",
+    "date": "2026-10-02",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Andy Burnham searches for UK alternative to Palantir",
+    "summary": "Prime minister’s ‘Buy British’ push triggers hunt to find replacement for controversial US tech group awarded health service and defence contractsTechnology sector",
+    "url": "https://www.ft.com/content/9a6e17fe-55e4-4a6d-8761-8346ec765ba9?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "muq9uwnyucmw54",
+    "date": "2026-10-02",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "The eternal complement",
+    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "url": "https://openai.com/index/the-eternal-complement"
+  },
+  {
+    "id": "muq9uwnywlwg45",
+    "date": "2026-10-02",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+    "url": "https://openai.com/index/albertsons-reimagining-retail"
+  }
+]
