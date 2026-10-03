@@ -1,0 +1,79 @@
+[
+  {
+    "id": "muroihjg36h6vb",
+    "date": "2026-10-03",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "OpenAI Hires Top Trump AI Official to Work on National Security",
+    "summary": "OpenAI is continuing to fill out its leadership bench with former Trump administration officials.\n\nThomas Lind, who previously led AI policy at the Office of the National Cyber Director, joined OpenAI this week, an OpenAI spokesperson confirmed. ONCD is a key office within the White House that playe",
+    "url": "https://www.theinformation.com/articles/openai-hires-top-trump-ai-official-work-national-security"
+  },
+  {
+    "id": "muroihjg1kwb60",
+    "date": "2026-10-03",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Exclusive: Crypto Custodian Anchorage Digital Lays Off 17% Staff",
+    "summary": "Anchorage Digital, the first federally chartered U.S. digital-asset bank, has cut 17% of jobs, CEO Nathan McCauley told employees this week, according to people familiar with the matter. Anchorage, which provides crypto custody and issues stablecoins, including Tether’s new U.S. stablecoin USAT ...",
+    "url": "https://www.theinformation.com/briefings/exclusive-crypto-custodian-anchorage-digital-lays-17-staff"
+  },
+  {
+    "id": "muroihjgayux1e",
+    "date": "2026-10-03",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Lambda Secures $1 Billion GPU Loan",
+    "summary": "AI cloud company Lambda said it has secured its first delayed draw term loan at over $1 billion to purchase more than 30,000 Nvidia graphics processing units. The fixed-rate facility carries an interest rate of 6.78%. Privately held Lambda said in an announcement late on Thursday the facility ...",
+    "url": "https://www.theinformation.com/briefings/lambda-secures-1-billion-gpu-loan"
+  },
+  {
+    "id": "muroihjg80i07g",
+    "date": "2026-10-03",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Sean Parker Spreads the Gospel of AI Music",
+    "summary": "To the music industry, Sean Parker has been many things. As co-founder of Napster, he was first an “outlaw renegade,” as he himself puts it. After his time at Facebook, his next act was as an early Spotify investor&mdash;putting in money while at Peter Thiel’s Founders Fund&mdash;and as a longtime S",
+    "url": "https://www.theinformation.com/articles/sean-parker-spreads-gospel-ai-music"
+  },
+  {
+    "id": "muroihjgy20i7d",
+    "date": "2026-10-03",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "AI Data Center Debt Is Showing Up Everywhere",
+    "summary": "Debt financing for data centers and related infrastructure has grown rapidly enough that it’s become its own category these days—credit analysts are breaking out AI versus non–AI-linked debt across markets to analyze new issuance and performance. Several asset managers in recent months have filed to",
+    "url": "https://www.theinformation.com/articles/ai-data-center-debt-showing-everywhere"
+  },
+  {
+    "id": "muroiimpn9mxnz",
+    "date": "2026-10-03",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Our healthy obsession with fitness trackers",
+    "summary": "Wellness wearables are more than fashion accessories, and that is good for all of usTechnology sector",
+    "url": "https://www.ft.com/content/3a83d6a7-1c56-4ce8-964f-ac1a5909b41a?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "muroiiskx3tqka",
+    "date": "2026-10-03",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "A model guide for the GPT-6 family",
+    "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6"
+  }
+]
