@@ -1,5 +1,82 @@
 [
   {
+    "id": "muw19sk5lyr33x",
+    "date": "2026-10-03",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+    "summary": "岗位JD甩了篇技术报告",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247930856&idx=1&sn=ec325c984ebc8d3707423fb2c41c9318"
+  },
+  {
+    "id": "muw19sk5yc1iaw",
+    "date": "2026-10-03",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "魔搭开源动态检索新框架，无需预构建向量索引，知识库还能自己进化",
+    "summary": "从原始文档检索到知识的自我进化",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247930856&idx=2&sn=04c4f138b4e8b36db01979c17ece8db7"
+  },
+  {
+    "id": "muw19sk53eymmh",
+    "date": "2026-10-03",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
+    "summary": "今年12月，北京，MEET2027智能未来大会！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247930856&idx=3&sn=adbf91d70a1d3ac1b7231170397a752b"
+  },
+  {
+    "id": "muw19slpf8kshj",
+    "date": "2026-10-03",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Jev被请下王座，StartLux中国开源决策模型冲上第一",
+    "summary": "一口气推出 0.8B、2B、4B、9B 和 27B 五档版本，并提供支持本地部署的量化模型。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060998&idx=1&sn=5e2496eb644e86fdf2d880a258074514"
+  },
+  {
+    "id": "muw19slp3be722",
+    "date": "2026-10-03",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "万分之一——大模型后训练中的极端稀疏监督",
+    "summary": "大模型后训练中密集的 token-level 信号真的是必要的吗？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060998&idx=2&sn=6e1b1eee268b769acca49b04819c6fd3"
+  },
+  {
+    "id": "muw19snaugvi73",
+    "date": "2026-10-03",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "毕树超官宣：Meta AI连破6大世界猜想，数学界AlphaGo时刻来了！",
+    "summary": "毕树超官宣：Meta AI连破6大世界猜想，数学界AlphaGo时刻来了！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652731555&idx=1&sn=f0d40b4a77955654751eb98e771ed81d"
+  },
+  {
+    "id": "muw19sna1v2kd9",
+    "date": "2026-10-03",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "北大数学系校友：O/A两家做的事，在毁掉数学系的年轻人",
+    "summary": "AI一夜攻破百年猜想 青年数学家一生何为",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652731555&idx=2&sn=deb5a47be77f7c02118a7cb0da4642c3"
+  },
+  {
     "id": "mut2r4nqzqmkw7",
     "date": "2026-10-03",
     "sourceType": "portal",

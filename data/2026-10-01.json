@@ -1,5 +1,104 @@
 [
   {
+    "id": "muw19sk5qy26qa",
+    "date": "2026-10-01",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "我的五线老家成了“Token之都”",
+    "summary": "要吃掉全国算力中心六成电",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247928382&idx=1&sn=8404b547f8e1ef7b221cfa687e91fbbf"
+  },
+  {
+    "id": "muw19sk5r58f03",
+    "date": "2026-10-01",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+    "summary": "用ImageNet训练encoder",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247928382&idx=2&sn=9323f076b10d7cd758252dbe8101740b"
+  },
+  {
+    "id": "muw19sk58xzupy",
+    "date": "2026-10-01",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "视频大模型三方反馈范式上线，面向真实直播建模持续决策",
+    "summary": "会沉默、会记忆、还知道该对谁开口",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247928382&idx=3&sn=6f58542e8ab82189c7198bdb2583dd37"
+  },
+  {
+    "id": "muw19sk577shwl",
+    "date": "2026-10-01",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247928382&idx=4&sn=c16d367f5d2ec86665f98dff5a786211"
+  },
+  {
+    "id": "muw19slpp958xb",
+    "date": "2026-10-01",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家",
+    "summary": "不是嘴炮，调用量真的上来了。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060871&idx=1&sn=97c7644875a4ba12ac962fc49172e0cb"
+  },
+  {
+    "id": "muw19slpik2k0w",
+    "date": "2026-10-01",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "首发！openJiuwen WorkSwarm全双工多模态 ，像聊天一样与Agent交互，昇腾算力原生亲和",
+    "summary": "用户可以展示眼前画面、随时插话，也可以把需要进一步处理的工作交给 后台Core Agent。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060871&idx=2&sn=f8bdc8bd6f0ed7280678d85a54beb567"
+  },
+  {
+    "id": "muw19snarnc88c",
+    "date": "2026-10-01",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "Gemini 4震撼发布，已实现RSI？谷歌80万行内核已被重写",
+    "summary": "谷歌用白菜价，给整个AI圈出了道难题",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652731150&idx=1&sn=a40a56d0a544c7f110d61f38d0f4cf79"
+  },
+  {
+    "id": "muw19snaheegqf",
+    "date": "2026-10-01",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "杀进Office腹地！ChatGPT文档能自己更新，协作PPT也要来了",
+    "summary": "杀进Office腹地！ChatGPT文档能自己更新，协作PPT也要来了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652731150&idx=2&sn=74e0a3c55fdfe26db9d7ccf85a687788"
+  },
+  {
+    "id": "muw19sna2jabdd",
+    "date": "2026-10-01",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "NeurIPS'26 | 港科大：从CPU到GPU，AI能否真正加速全流程？",
+    "summary": "NeurIPS'26 | 港科大：从CPU到GPU，AI能否真正加速全流程？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652731150&idx=3&sn=67a9b831fd2ad980bd0f4db335c99b96"
+  },
+  {
     "id": "muq9uvq2ysy9zb",
     "date": "2026-10-01",
     "sourceType": "portal",

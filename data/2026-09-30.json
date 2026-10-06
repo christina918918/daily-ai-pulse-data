@@ -1,5 +1,93 @@
 [
   {
+    "id": "muw19sk5hwpthp",
+    "date": "2026-09-30",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+    "summary": "专业3D模型反而更稀缺了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247928275&idx=1&sn=05b091d20dfde1ed7659c01d15ecccfe"
+  },
+  {
+    "id": "muw19sk5u1wus6",
+    "date": "2026-09-30",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "国产世界模型首次出海上路！Momenta直接让百亿公里老司机开上欧洲街头",
+    "summary": "从中国出发，AI飞轮扩展到全球",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247928275&idx=2&sn=94972af9bd189d4fdadeac5153c988c2"
+  },
+  {
+    "id": "muw19sk527p7mn",
+    "date": "2026-09-30",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "2026年度AI十大趋势征集启动｜量子位智库",
+    "summary": "快来分享你心中的2026十大AI趋势！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247928275&idx=3&sn=35ad7dfe93f125bace970d013e6de0f4"
+  },
+  {
+    "id": "muw19sk52ipmcs",
+    "date": "2026-09-30",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247928275&idx=4&sn=09435c3e458d4a5cf92c70600bc9dfef"
+  },
+  {
+    "id": "muw19slpop3z5v",
+    "date": "2026-09-30",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "GPT-6 Astra也会「看错」流程图? Einsia AI发布PPTBench，视觉编程还有多远？",
+    "summary": "Coding Agent 正在从屏幕里的终端世界走向屏幕外的物理世界。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060792&idx=1&sn=d30e6a62a6b452c81c2470b4932d3230"
+  },
+  {
+    "id": "muw19slptmn4xv",
+    "date": "2026-09-30",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "DeepSeek开源昇腾基础组件：计算、通信与编译工具同步发布",
+    "summary": "可复用的基础设施。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060792&idx=2&sn=e0f864c845649c83046d7628e5d799e1"
+  },
+  {
+    "id": "muw19snaq873q3",
+    "date": "2026-09-30",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "OpenAI刚发ChatGPT Space，国内版就震撼上线！",
+    "summary": "人+Agent群里开会卷疯了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652731090&idx=1&sn=2659d42284f8bce6b6f30e4e5d713876"
+  },
+  {
+    "id": "muw19snarnoqib",
+    "date": "2026-09-30",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "奥特曼官宣Dots！24小时AI同事上岗，关掉窗口还在替你干活",
+    "summary": "奥特曼官宣Dots！24小时AI同事上岗，关掉窗口还在替你干活",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652731090&idx=2&sn=f9f99208b4164634f1100d324e354f86"
+  },
+  {
     "id": "muotxjb1icf5r3",
     "date": "2026-09-30",
     "sourceType": "portal",

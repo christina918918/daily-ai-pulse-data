@@ -1,5 +1,93 @@
 [
   {
+    "id": "muw19sk5na2nk4",
+    "date": "2026-10-02",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "丘成桐新论文致谢了GPT和Claude",
+    "summary": "44年前被亲自列入问题清单",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247930840&idx=1&sn=bfdf8db9b10e36d9080e3446f9b49b03"
+  },
+  {
+    "id": "muw19sk57z9bgs",
+    "date": "2026-10-02",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+    "summary": "能用小模型解决的事，不再浪费大模型",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247930840&idx=2&sn=b7c106927981ec275e7024b2af3e6eec"
+  },
+  {
+    "id": "muw19sk5tcxj09",
+    "date": "2026-10-02",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "AI搜索的下一站：可信度三层过滤机制，从点击监督到答案级反馈",
+    "summary": "从“排序文档”到“可靠上下文”",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247930840&idx=3&sn=9e0dc013d1fc3fd02e08cd03ced2e90e"
+  },
+  {
+    "id": "muw19sk5qi53k7",
+    "date": "2026-10-02",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247930840&idx=4&sn=7ca1f7310187ab814f763bd64242cc23"
+  },
+  {
+    "id": "muw19slpxdwhrt",
+    "date": "2026-10-02",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "比李飞飞World Labs早两年押注原生4D，影身智能这次是真走在前面了？",
+    "summary": "4D世界模型进入产业竞速期。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060898&idx=1&sn=dcd5a6cee64e86b4b40b03c9b9d3f675"
+  },
+  {
+    "id": "muw19slpdczflj",
+    "date": "2026-10-02",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "LegoFlow：让智能体自主跑完代码数据构建+训练测评全流程",
+    "summary": "目前，数据、代码、文档已全部开源！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060898&idx=2&sn=7c342e5f7de860d0e928dab50043d6b5"
+  },
+  {
+    "id": "muw19snaff8mr4",
+    "date": "2026-10-02",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "Anthropic首曝秘密游说梵蒂冈：Claude已经有意识了！",
+    "summary": "Anthropic首曝秘密游说梵蒂冈：Claude已经有意识了！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652731390&idx=1&sn=d20ca587f5e7aae0ec4ae3ef0526dee2"
+  },
+  {
+    "id": "muw19sna8ahez0",
+    "date": "2026-10-02",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "刚刚，Anthropic「第一夫人」出局了！",
+    "summary": "刚刚，Anthropic「第一夫人」出局了！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652731390&idx=2&sn=95787f6ed8fc2ce010dbc5c99429eaaf"
+  },
+  {
     "id": "muroihjgm2leqy",
     "date": "2026-10-02",
     "sourceType": "portal",

@@ -1,5 +1,82 @@
 [
   {
+    "id": "muw19sk5oe23rh",
+    "date": "2026-10-04",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "最火AI岗位FDE：月薪5万，都干这些…",
+    "summary": "代码越来越便宜，人却越来越难搞",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247930872&idx=1&sn=7e8d20c098c21e4f77a7109ec4488e47"
+  },
+  {
+    "id": "muw19sk5gm85tk",
+    "date": "2026-10-04",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "异构分组混合专家架构上线：参数瘦身20%，推理反超传统MoE | ACL'26",
+    "summary": "中国联通打造工业级LLM高效推理新范式",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247930872&idx=2&sn=35e7dffa3a41aa5f9c38d8fa61db2231"
+  },
+  {
+    "id": "muw19sk5tldip3",
+    "date": "2026-10-04",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
+    "summary": "今年12月，北京，MEET2027智能未来大会！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247930872&idx=3&sn=e3733a396271d23d8d38e8445f15f8e5"
+  },
+  {
+    "id": "muw19slpojk0p2",
+    "date": "2026-10-04",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "终于有人管管屎山代码了！Tibo预告，Astra 6.1要来了？",
+    "summary": "codex 下一步，网友说了算？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061081&idx=1&sn=85bbbe66a12a0ff58c3188c154546137"
+  },
+  {
+    "id": "muw19slpu7lhp9",
+    "date": "2026-10-04",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Agent Harness到底怎么选？南洋理工大学安波团队最新研究给出答案",
+    "summary": "Harness 的好坏并不是固定属性，而是取决于它与模型、任务之间的具体组合",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061081&idx=2&sn=cb11670b3a6aae956f8e44f4cdfa08e9"
+  },
+  {
+    "id": "muw19snaywruek",
+    "date": "2026-10-04",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "突发，谷歌关停大批免费Gemini模型！",
+    "summary": "10.9起，免费模型全面阉割",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652731724&idx=1&sn=028e3c856d653112c84ab9a4572adc23"
+  },
+  {
+    "id": "muw19snag0blp8",
+    "date": "2026-10-04",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "Fable 5.5震撼首测：人类万年史浓缩进24小时！外网传疯了的3分钟神作",
+    "summary": "三分钟看完一万年",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652731724&idx=2&sn=4490acb9fd658fd12e7a890dcf2560f6"
+  },
+  {
     "id": "muuicedxc3r8mx",
     "date": "2026-10-04",
     "sourceType": "portal",
