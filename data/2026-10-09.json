@@ -1,0 +1,178 @@
+[
+  {
+    "id": "mv0aw07tyiz87t",
+    "date": "2026-10-09",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "South Korean Banks Were Hacked Using Chinese AI Agent, Researchers Say",
+    "summary": "The perpetrator of a recent hack of South Korean financial institutions that resulted in data leaks used an open-source Chinese AI agent called Artex and Chinese large language models, according to a report published this week by cybersecurity firm CrowdStrike. The analysis of the incident shows ...",
+    "url": "https://www.theinformation.com/briefings/south-korean-banks-hacked-using-chinese-ai-agent-researchers-say"
+  },
+  {
+    "id": "mv0aw07tttqhg7",
+    "date": "2026-10-09",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Anthropic Announces Broader Cyber Defense Program",
+    "summary": "Anthropic said Thursday it is launching new programs to support cybersecurity for critical infrastructure and open-source software. In a blog post, Anthropic said it would offer threat research, on-site engineers, and access to its frontier Claude models to infrastructure operators as part of ...",
+    "url": "https://www.theinformation.com/briefings/anthropic-announces-broader-cyber-defense-program"
+  },
+  {
+    "id": "mv0aw07tnmj3ya",
+    "date": "2026-10-09",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Networking Startup Eliyan Draws Takeover Interest, Held Early Talks With Arm",
+    "summary": "Semiconductor M&A has been humming. One of the next deals could be for Eliyan, whose technology allows separate chips inside an AI system to talk to one another more quickly and efficiently. The five-year-old startup, valued at $1 billion in July, has notified some of its investors in the last few d",
+    "url": "https://www.theinformation.com/articles/networking-startup-eliyan-draws-takeover-interest-held-early-talks-arm"
+  },
+  {
+    "id": "mv0aw07tkps0wu",
+    "date": "2026-10-09",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "OpenAI ARR Snafu Highlights Flawed Metric",
+    "summary": "Here’s a news flash: The quasi-revenue numbers for OpenAI that got wide circulation last week were off— way off.  Instead of $70 billion in annualized revenue, as we and others reported, OpenAI is generating closer to $50 billion in annualized revenue (sometimes shortened to ARR). A Financial Times ",
+    "url": "https://www.theinformation.com/articles/openai-arr-snafu-highlights-flawed-metric"
+  },
+  {
+    "id": "mv0aw07tk7wmqq",
+    "date": "2026-10-09",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Nvidia to Invest in Chip Rival d-Matrix as Its Challengers Choose Partnership",
+    "summary": "Nvidia plans to invest in d-Matrix, a seven-year-old developer of server chips for AI that aims to compete with Nvidia, according to three people with knowledge of the deal.\n\nThe planned investment is part of Nvidia’s effort to make its technology compatible with rival chip designers and bring them ",
+    "url": "https://www.theinformation.com/articles/nvidia-invest-chip-rival-d-matrix-challengers-choose-partnership"
+  },
+  {
+    "id": "mv0aw07tkm7vfl",
+    "date": "2026-10-09",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "SpaceX Announces Plans That Could Take Aim at Major Mobile Carriers",
+    "summary": "SpaceX plans to compete with major US wireless carriers like Verizon and AT&T. The company announced on Thursday that it plans to acquire a nationwide portfolio of low-band wireless spectrum and that it had received approval from the Federal Communications Commission for a next-generation ...",
+    "url": "https://www.theinformation.com/briefings/spacex-announces-plans-take-aim-major-mobile-carriers"
+  },
+  {
+    "id": "mv0aw07tyxzkm6",
+    "date": "2026-10-09",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "OpenAI’s Annualized Revenue Neared $50 Billion, Lower Than Past Reports",
+    "summary": "OpenAI recently told investors that its annualized revenue was approaching $50 billion at the end of September, according to a person with knowledge of the communications. That’s around $20 billion less than revenue figures disclosed in other recent reports, including The Information’s. The ...",
+    "url": "https://www.theinformation.com/briefings/openais-annualized-revenue-neared-50-billion-lower-past-reports"
+  },
+  {
+    "id": "mv0aw07ttei16r",
+    "date": "2026-10-09",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Waymo Closes $5 Billion in Debt Financing",
+    "summary": "Alphabet’s Waymo on Thursday announced that it closed a $5 billion term loan in the self-driving rideshare company’s inaugural debt financing round. Neither Alphabet nor other equity partners provided a corporate guarantee on the loan, which closed at an upsized amount after the process ...",
+    "url": "https://www.theinformation.com/briefings/waymo-closes-5-billion-debt-financing"
+  },
+  {
+    "id": "mv0aw07txjn6sx",
+    "date": "2026-10-09",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "OpenAI Researchers Say They Were Fired for “Prioritizing Safety”",
+    "summary": "The three safety researchers whom OpenAI fired last week challenged OpenAI’s decision, saying on Thursday they were punished for raising safety concerns. “I believe we were fired for prioritizing safety over the near-term interests of OpenAI as a corporation,” Mikita Balesni, one of the ...",
+    "url": "https://www.theinformation.com/briefings/openai-researchers-say-fired-prioritizing-safety"
+  },
+  {
+    "id": "mv0aw07tqm1hwc",
+    "date": "2026-10-09",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "AI’s Boom Has Infrastructure Investors Looking at Garbage",
+    "summary": "The investing frenzy in data centers that the AI boom sparked has created a bargain-hunting opportunity—in everything but AI assets.AI has pulled investors’ attention away from unglamorous assets in sectors like transportation and waste management over the past few years, as they have poured billion",
+    "url": "https://www.theinformation.com/articles/ais-boom-infrastructure-investors-looking-garbage"
+  },
+  {
+    "id": "mv0aw07tudtp6m",
+    "date": "2026-10-09",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Chinese Open Models Win Over One in Five of The Information’s Subscribers",
+    "summary": "Nearly two-thirds of The Information’s subscribers surveyed last month said their organizations develop AI applications, and a third of subscribers said they receive a return from AI that is a “multiple of what we spend.” The result suggests enterprises have made some progress since the Massachusett",
+    "url": "https://www.theinformation.com/articles/chinese-open-models-win-one-five-informations-subscribers"
+  },
+  {
+    "id": "mv0aw07tlug86c",
+    "date": "2026-10-09",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "White House Suspends Visa Program for Microsoft, Other Tech Firms",
+    "summary": "The U.S. government is limiting Microsoft’s ability to sponsor visas for certain immigrant workers, Vice President J.D. Vance said Thursday, citing an “ongoing investigation” into claims that Microsoft laid off Americans while continuing to hire more immigrants. Vance said immigrants who work ...",
+    "url": "https://www.theinformation.com/briefings/white-house-suspends-visa-program-microsoft-tech-firms"
+  },
+  {
+    "id": "mv0aw11ekxura4",
+    "date": "2026-10-09",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "OpenAI annualised revenues $20bn less than previously signalled",
+    "summary": "AI group recently told investors the critical figure was nearing $50bn in September, far less than the $70bn widely reportedTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mv0aw11e6m1wph",
+    "date": "2026-10-09",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Microsoft banned from sponsoring foreign workers for US residency",
+    "summary": "Announcement impacting several tech groups marks White House’s latest attempt to limit immigrationTechnology sector",
+    "url": "https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mv0aw11eauqxyl",
+    "date": "2026-10-09",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Big Tech sets out its pitches on AI agents",
+    "summary": "Race to develop new services has moved into high gear with a series of launchesTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/9884d785-8ddc-43a6-ac8d-b9c7f9a99df3?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mv0aw158g7nolu",
+    "date": "2026-10-09",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+    "url": "https://openai.com/index/oracle"
+  }
+]
