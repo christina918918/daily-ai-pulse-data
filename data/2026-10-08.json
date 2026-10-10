@@ -1,5 +1,71 @@
 [
   {
+    "id": "mv1pugmc7r5z4e",
+    "date": "2026-10-08",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！",
+    "summary": "Vidu Q4预览版，了解一下~",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247931820&idx=1&sn=37ea9ff651a886f12a1ada7966b394a3"
+  },
+  {
+    "id": "mv1pugmc87ga9z",
+    "date": "2026-10-08",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+    "summary": "多Agent协同还能自我进化",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247931820&idx=2&sn=4dfd4fc864390f63d15c2a3cb982f9f3"
+  },
+  {
+    "id": "mv1pugmchevxfi",
+    "date": "2026-10-08",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "蚂蚁×浙大新研究：让AI在流式对话中“读懂”情绪 | EMNLP'26",
+    "summary": "TRACE：面向实时人机交互的流式情绪理解框架",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247931820&idx=3&sn=977579bad1964fd79de323d03453a281"
+  },
+  {
+    "id": "mv1pugmc3r8uyp",
+    "date": "2026-10-08",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
+    "summary": "今年12月，北京，MEET2027智能未来大会！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247931820&idx=4&sn=e5734947821356ff80f047018d2e7b2e"
+  },
+  {
+    "id": "mv1pugpj36vrwv",
+    "date": "2026-10-08",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "视频DeepSeek时刻？Vidu Q4 Preview背后的效率账与世界模型底气",
+    "summary": "0.09 元/秒首销价，还有首发实测。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061834&idx=1&sn=06f5e347c34942b91a375bfdfb98eb2c"
+  },
+  {
+    "id": "mv1pugpjessv9u",
+    "date": "2026-10-08",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "李飞飞团队造了个世界动作模型：换个底座，机器人成功率直接飙升",
+    "summary": "开源 OpenWAM",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061834&idx=2&sn=6f2ba9bec78ffc3e25e49294ec828bce"
+  },
+  {
     "id": "mv0aw07triw6in",
     "date": "2026-10-08",
     "sourceType": "portal",
