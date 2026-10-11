@@ -1,5 +1,148 @@
 [
   {
+    "id": "mv33hpy1bb38p0",
+    "date": "2026-10-10",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Zuckerberg’s Big Biotech Moment",
+    "summary": "• The Big Read: Meet Zach Frankel, the secretive investor behind Cognition, Ramp• Why techies are hoarding AI compute in their homes• Plus, Recommendations—our weekly pop culture picks: “Bram Stoker’s Dracula,” “The AGI Chronicles” and “Your Mother Your Mother Your Mother”Mark Zuckerberg, the founde",
+    "url": "https://www.theinformation.com/articles/zuckerbergs-big-biotech-moment"
+  },
+  {
+    "id": "mv33hpy2h3w7oy",
+    "date": "2026-10-10",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "GPUs in the Wine Cellar: Why Techies Are Hoarding AI Compute in Their Homes",
+    "summary": "The basement of Gary Flake’s contemporary home in a quiet neighborhood in Bellevue, Wash., is furnished with everything you’d expect in a multipurpose man cave. There’s a cozy-looking couch situated between a large screen and a digital projector, a Peloton treadmill and a rowing machine. The real sh",
+    "url": "https://www.theinformation.com/articles/gpus-wine-cellar-techies-hoarding-ai-compute-homes"
+  },
+  {
+    "id": "mv33hpy2i7o4xy",
+    "date": "2026-10-10",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Anthropic’s Rogue AI Filled Out U.S. Visa Forms, Gave False Homicide Tip to Police",
+    "summary": "Anthropic said Friday that is AI used the internet to inadvertently fill out government forms with incomplete information and also submitted a false homicide crime tip to the Philadelphia police department. Anthropic said police flagged the homicide tip as spam, and Axios reported that Anthropic ...",
+    "url": "https://www.theinformation.com/briefings/anthropics-rogue-ai-filled-u-s-visa-forms-gave-false-homicide-tip-police"
+  },
+  {
+    "id": "mv33hqwavdipa0",
+    "date": "2026-10-10",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "AI borrowing slows as investors grow wary of debt binge",
+    "summary": "Appetite for financing infrastructure boom is tested after months of record-breaking bond issuanceTechnology sector",
+    "url": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mv33hqwa2ogy4f",
+    "date": "2026-10-10",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "The world of one trade — AI",
+    "summary": "Investor portfolios have become alarmingly reliant on the fortunes of just one bet on the build-out of an uncertain technologyArtificial intelligence, Investments",
+    "url": "https://www.ft.com/content/3f54c442-c2b7-4876-a960-5229951c9a46?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mv33hqwaoss9pf",
+    "date": "2026-10-10",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Inside the ‘robot gyms’ training machines for the real world",
+    "summary": "‘Physical AI’ developers are putting cameras in homes, offices and factories to fill a gap in the training material of roboticsTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/e5fd2655-f95f-4183-9dd9-b3c1ebe67a6b?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mv33hu6t6osjia",
+    "date": "2026-10-10",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "H-JEPA！LeCun世界模型创业交卷，代码权重全部开源",
+    "summary": "四年前在Meta时就开始酝酿",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247932239&idx=1&sn=ce2c0c46d18fef9c6b7f1a02eae55e4b"
+  },
+  {
+    "id": "mv33hu6t29h95y",
+    "date": "2026-10-10",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+    "summary": "Jev母公司新融资超60亿元。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247932239&idx=2&sn=efd55f16dd1335b34a48021316fcc6c1"
+  },
+  {
+    "id": "mv33hu6tluwvky",
+    "date": "2026-10-10",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "2026年度AI十大趋势征集启动｜量子位智库",
+    "summary": "快来分享你心中的2026十大AI趋势！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247932239&idx=3&sn=754142ef79c4a39239bc6602d35167f0"
+  },
+  {
+    "id": "mv33hu6tou9y8h",
+    "date": "2026-10-10",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247932239&idx=4&sn=5b82bd639d453f4c107cc65ced0005c4"
+  },
+  {
+    "id": "mv33hudkv5did0",
+    "date": "2026-10-10",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "王虹攻下的三维挂谷猜想，OpenAI放出175页四维证明稿！",
+    "summary": "王虹攻下的三维挂谷猜想，OpenAI放出175页四维证明稿！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652733338&idx=1&sn=58f4348bb905cc6ecbbb4a0b1cfca986"
+  },
+  {
+    "id": "mv33hudki1e041",
+    "date": "2026-10-10",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "美国CS教授发文：数学末日来了！人类千年数学殿堂被AI毁了",
+    "summary": "美国CS教授发文：数学末日来了！人类千年数学殿堂被AI毁了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652733338&idx=2&sn=9723721f20ef2bce4d59b700b55ac083"
+  },
+  {
+    "id": "mv33hudkxcxfrp",
+    "date": "2026-10-10",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "Agent组队干活，最强模型只完成50%任务！基准评测协作能力",
+    "summary": "Agent组队干活，最强模型只完成50%任务！基准评测协作能力",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652733338&idx=3&sn=f08043e7f9a717d355592804bffb55f5"
+  },
+  {
     "id": "mv1pucj4aq7v6v",
     "date": "2026-10-10",
     "sourceType": "portal",
