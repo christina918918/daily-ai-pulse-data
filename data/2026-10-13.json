@@ -1,0 +1,145 @@
+[
+  {
+    "id": "mv6310cmp3cu7z",
+    "date": "2026-10-13",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Exclusive: Microsoft Reorganizes Azure Cloud Unit Amid AI Overhaul",
+    "summary": "Microsoft is overhauling the leadership of its Azure cloud business, cloud chief Scott Guthrie told staff Monday, as the company moves to consolidate units and reorient itself around AI. As part of the reorg, Arun Ulag, who previously oversaw Azure’s database products, will now also oversee ...",
+    "url": "https://www.theinformation.com/briefings/exclusive-microsoft-reorganizes-azure-cloud-unit-amid-ai-overhaul"
+  },
+  {
+    "id": "mv6310cms15gwz",
+    "date": "2026-10-13",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Researchers Need to Learn How AI Makes Decisions, Says Goodfire’s Tom McGrath",
+    "summary": "To understand the decision-making of AI, developers often look at the text that models produce as they reason through problems. But these “chains of thought” are increasingly hard to read, which is prompting AI developers to consider other approaches. One alternative, known as “mechanistic interpret",
+    "url": "https://www.theinformation.com/articles/researchers-need-learn-ai-makes-decisions-says-goodfires-tom-mcgrath"
+  },
+  {
+    "id": "mv6310cmlcz77p",
+    "date": "2026-10-13",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Meta Reaches AI’s Crowded Frontier—Will Users Care?",
+    "summary": "If it’s Monday, it must be time for another AI model release. This time, it was Meta Platforms’ turn, unveiling Muse Wonder, which it claims can “deliver state-of-the-art performance” on certain tasks. It was a triumphant moment for the company, whose AI efforts previously went through a slump that ",
+    "url": "https://www.theinformation.com/articles/meta-reaches-ais-crowded-frontier-will-users-care"
+  },
+  {
+    "id": "mv6310cmw8sgav",
+    "date": "2026-10-13",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Bumble in Talks to Go Private With Sequoia Partner Gupta’s New Venture",
+    "summary": "Dating app company Bumble is in advanced talks to be taken private by a holding company founded recently by former Sequoia’s partner Ravi Gupta, the Wall Street Journal reported Monday. A deal would value Bumble at roughly $1 billion, a steep premium to its last market cap of around $300 million ...",
+    "url": "https://www.theinformation.com/briefings/bumble-talks-go-private-sequoia-partner-guptas-new-venture"
+  },
+  {
+    "id": "mv6310cm5kzjnl",
+    "date": "2026-10-13",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Trump Administration Plans to Move AI Testing Agency Officials to White House",
+    "summary": "The small agency within the Commerce Department tasked with testing new AI models appears to be getting a refresh.\n\nIn September, the Trump administration began the process of restructuring the Center for Advancing Innovation and Standards for Super Intelligence so that three of its senior officials",
+    "url": "https://www.theinformation.com/articles/trump-administration-plans-move-ai-testing-agency-officials-white-house"
+  },
+  {
+    "id": "mv6310cmy2frk2",
+    "date": "2026-10-13",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Andreessen Horowitz, General Catalyst Race to Secure the Chips Their Startups Need",
+    "summary": "As startups scramble to get access to AI servers, more venture capital firms are finding ways to secure compute on their behalf.\n\nAndreessen Horowitz, which two years ago set up a cluster of 20,000 graphics processing units for its startups, is in talks to expand its offering, potentially via two da",
+    "url": "https://www.theinformation.com/articles/andreessen-horowitz-general-catalyst-race-secure-chips-startups-need"
+  },
+  {
+    "id": "mv6310cmnr2x6z",
+    "date": "2026-10-13",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "Meta Unveils New AI Models to Challenge OpenAI and Anthropic",
+    "summary": "Meta Platforms unveiled two new AI models, Muse Wonder and Muse Wonder Full, on Monday as it seeks to strengthen its position in the competitive AI race. CEO Mark Zuckerberg announced the models on Threads, describing them as significantly larger and more advanced than the company’s most recent ...",
+    "url": "https://www.theinformation.com/briefings/meta-unveils-new-ai-models-challenge-openai-anthropic"
+  },
+  {
+    "id": "mv6311bfrspyfu",
+    "date": "2026-10-13",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "IMF upgrades outlook for UK as AI drives growth spurt",
+    "summary": "The fund believes Britain is emerging as one of the winners of the tech boomArtificial intelligence",
+    "url": "https://www.ft.com/content/4a7a7282-74a5-4d12-8294-6dd0d4802d88?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mv6311bfpdmgv3",
+    "date": "2026-10-13",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "China faces uphill battle to wean tech firms off Nvidia chips",
+    "summary": "The country’s tech giants are snapping up products never designed to power advanced AI to satisfy soaring computing demandsTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mv6311bfnfm3pa",
+    "date": "2026-10-13",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Franco-German deal on EU car policy is ‘imminent’, says Emmanuel Macron",
+    "summary": "Agreement would push back Europe’s phaseout of combustion engines and boost car production on the continent to combat Chinese competitionGlobal trade",
+    "url": "https://www.ft.com/content/af0a5da6-abc7-41ab-85cf-da806fc7a6e5?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mv6311bfpcb22q",
+    "date": "2026-10-13",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Mark Zuckerberg says Meta has reached AI ‘frontier’",
+    "summary": "FT interview: tech billionaire touts release of new Muse Wonder model after vast spending to challenge rivals in AI raceTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mv6311bf0y5qy4",
+    "date": "2026-10-13",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "EU ‘safeguards’ hybrid car sector from Chinese imports under new deal",
+    "summary": "Auto sector welcomes ‘understanding’ reached with Beijing but other industries warn China’s huge trade surplus will persist without further actionGlobal trade",
+    "url": "https://www.ft.com/content/7e48dd50-957c-4f45-ad24-ce628ca7e06a?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mv6311bfbk0728",
+    "date": "2026-10-13",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Goldman goes long stocks — and bonds*",
+    "summary": "*Not all bondsInvestments",
+    "url": "https://www.ft.com/content/2af1eb34-f7f4-445f-81a3-42e6fd448971?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  }
+]
