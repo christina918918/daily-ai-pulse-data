@@ -1,5 +1,71 @@
 [
   {
+    "id": "mva7f00dynojcy",
+    "date": "2026-10-14",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作",
+    "summary": "50B、百万小时、100 毫秒、零样本泛化：Natura-1 来了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062756&idx=1&sn=fa2d7404984d41c4d2e1e61c8caa24af"
+  },
+  {
+    "id": "mva7f00dxbus13",
+    "date": "2026-10-14",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "7个人、5个月！Anthropic造出了Git替代品",
+    "summary": "统治程序员20年的Git，被AI撼动了。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062756&idx=2&sn=d303e463a1408dbefefecd7ebb10fe8f"
+  },
+  {
+    "id": "mva7f00dtcawdx",
+    "date": "2026-10-14",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "苹果LensVLM：长上下文压缩成图片，模型边看边「放大」",
+    "summary": "让模型在阅读压缩内容时，仍能按需查阅原文",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062756&idx=3&sn=7b77525c43945b4e5a775f0d78cb4cbd"
+  },
+  {
+    "id": "mva7f04j9gfbsp",
+    "date": "2026-10-14",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "国产芯片大杀器！全栈开源，断网狂飙千亿模型",
+    "summary": "国产芯片大杀器！全栈开源，断网狂飙千亿模型",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652734667&idx=1&sn=29cb39684cdc6a45d90d4bf7cc2982d1"
+  },
+  {
+    "id": "mva7f04jp850vj",
+    "date": "2026-10-14",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "Claude写代码太快，Anthropic连源码系统都重造了！7人只用5个月",
+    "summary": "当AI写码快过人类，工具也得为它重生",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652734667&idx=2&sn=7e39660a8c02b84448b33a1681320567"
+  },
+  {
+    "id": "mva7f04j927ar9",
+    "date": "2026-10-14",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "群星闪耀时：OpenAI公开的722篇稿件，背后的科学家群像",
+    "summary": "群星闪耀时：OpenAI公开的722篇稿件，背后的科学家群像",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652734667&idx=3&sn=52716d55c9e824d0978e2f2c419220e6"
+  },
+  {
     "id": "mv8sfsgp9r5v2p",
     "date": "2026-10-14",
     "sourceType": "portal",
