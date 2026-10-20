@@ -1,5 +1,71 @@
 [
   {
+    "id": "mvfyz85rbuoz24",
+    "date": "2026-10-18",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+    "summary": "让人人都能自由创造并体验可交互世界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247934418&idx=1&sn=602079a9cfb29bc397fb1a80557d447e"
+  },
+  {
+    "id": "mvfyz85r47oip5",
+    "date": "2026-10-18",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "“大家用AI都太保守了！”Claude Code负责人：我的方法更有野心～",
+    "summary": "碳基生物也要自信起来！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247934418&idx=2&sn=4db70df5588db90bd078819447573394"
+  },
+  {
+    "id": "mvfyz85rmthvsf",
+    "date": "2026-10-18",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "画几条线就能控制机器人：上海交大提出稀疏输入策略引导框架",
+    "summary": "RoboPrompt把人的粗略提示变成机器人的连续动作",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247934418&idx=3&sn=ee7cdbc78230d56fc0a786b5f68f9bbc"
+  },
+  {
+    "id": "mvfyz85r35pxre",
+    "date": "2026-10-18",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247934418&idx=4&sn=01c2f29689486794f6c884f51885b313"
+  },
+  {
+    "id": "mvfyz88swppk04",
+    "date": "2026-10-18",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "整活了！爆火「闪身步」实时生成动漫版，VAST世界模型全面开源",
+    "summary": "世界模型真正进入实时交互时代",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651063676&idx=1&sn=a4814af1afbdc7ce1c9f6b582eb9bfac"
+  },
+  {
+    "id": "mvfyz88stvxcrh",
+    "date": "2026-10-18",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "编码智能体训练为何要重新审视源代码？",
+    "summary": "源代码才是编码智能体训练的最大未开发资源？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651063676&idx=2&sn=4efaeeeca7b59e150446767a407b46c3"
+  },
+  {
     "id": "mvehdhn8wg90tp",
     "date": "2026-10-18",
     "sourceType": "portal",
