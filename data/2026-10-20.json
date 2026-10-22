@@ -1,5 +1,49 @@
 [
   {
+    "id": "mvisthspkp5w0z",
+    "date": "2026-10-20",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "url": "https://openai.com/index/terminal-x"
+  },
+  {
+    "id": "mvistkbvx2p6wv",
+    "date": "2026-10-20",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "MemT 1.0发布：迈向递归自我改进，让记忆成为模型内生能力",
+    "summary": "长期记忆，成为大模型架构的一部分。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651068687&idx=1&sn=fcbc362d674840e32f9ae3d954e04744"
+  },
+  {
+    "id": "mvistkbv2mo4b5",
+    "date": "2026-10-20",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Jiuwen Symbiosis：物理智能体走进自动化科研实验室",
+    "summary": "一套面向物理世界的智能体系统",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651068687&idx=2&sn=cf6a5f114ed828710d6d6b0ed6a5bc4c"
+  },
+  {
+    "id": "mvistkbvhb5jhn",
+    "date": "2026-10-20",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "从记忆到行动，还有多远？WorldMemArena把多模态记忆放进真实交互",
+    "summary": "多模态 Agent 记忆评测基准 WorldMemArena",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651068687&idx=3&sn=e71b564d56571d1000e85e0fb82bf595"
+  },
+  {
     "id": "mvhd9wtq2dgfi3",
     "date": "2026-10-20",
     "sourceType": "portal",
