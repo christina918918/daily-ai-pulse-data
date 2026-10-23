@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mvk86mtlf9wm7h",
+    "date": "2026-10-23",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Palmer Luckey unveils start-up to breed ‘genetically enhanced’ dogs for military",
+    "summary": "Anduril’s co-founder and entrepreneur Ben Lamm conceived of company to clone and genetically edit working caninesTechnology sector",
+    "url": "https://www.ft.com/content/8a558139-2318-4509-8acd-199d5f888b9e?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mvk86mtlyjv7pr",
+    "date": "2026-10-23",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "US Treasury proposes tighter rules on investing in sensitive Chinese tech",
+    "summary": "Restrictions would apply to investments in areas including AI, hypersonic weapons and biotech Global trade",
+    "url": "https://www.ft.com/content/f57a1f1c-60ce-432d-a901-673ae7d1241e?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mvk86mtl6ocsvk",
+    "date": "2026-10-23",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
+    "summary": "AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FTTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mvk86mtlkklj0c",
+    "date": "2026-10-23",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "US to fund speculative nuclear fusion venture backed by investors with ties to Trump",
+    "summary": "Commerce department to take $175mn equity stake in start-up that is financed by brother of the president’s son-in-lawTechnology sector",
+    "url": "https://www.ft.com/content/d774c15e-22e4-4873-9a1d-92d6561290f9?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mvk86mxn6cpgmy",
+    "date": "2026-10-23",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Build more responsive apps with the Decisions API",
+    "summary": "Fast, focused, low-cost decisions for any application.",
+    "url": "https://openai.com/index/decisions-api"
+  }
+]

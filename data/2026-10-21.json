@@ -1,5 +1,49 @@
 [
   {
+    "id": "mvk86mxnvgpin9",
+    "date": "2026-10-21",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+    "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+    "url": "https://openai.com/index/cloudflare-cyber"
+  },
+  {
+    "id": "mvk86pziiwuhs4",
+    "date": "2026-10-21",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "自进化AI「杀」进物理世界！王者峡谷屠神，从0打到全胜",
+    "summary": "自进化AI「杀」进物理世界！王者峡谷屠神，从0打到全胜",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652736685&idx=1&sn=720d8d06980e255ec68680412ffcd4da"
+  },
+  {
+    "id": "mvk86pzivu42oo",
+    "date": "2026-10-21",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "半年巨亏80,000,000,000美元！Anthropic招股书曝光了",
+    "summary": "半年巨亏80,000,000,000美元！Anthropic招股书曝光了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652736685&idx=2&sn=602d8fb80f0e4cb6996864324bfefd07"
+  },
+  {
+    "id": "mvk86pzi8cf07a",
+    "date": "2026-10-21",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "走向超级智能体，AI还需要主动性：UIUC、谷歌等联合综述",
+    "summary": "走向超级智能体，AI还需要主动性：UIUC、谷歌等联合综述",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652736685&idx=3&sn=5caf2223e36f92b90c419128be6a7382"
+  },
+  {
     "id": "mvisthowroo7ji",
     "date": "2026-10-21",
     "sourceType": "portal",
