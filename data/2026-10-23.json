@@ -1,5 +1,38 @@
 [
   {
+    "id": "mvn27gv525odji",
+    "date": "2026-10-23",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "行业首个Pro Agent问世！「AI祖师爷」Kevin Knight空降中国谈AI跃迁",
+    "summary": "当AI开始「主动干活」，谁对工作结果负责？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651069672&idx=1&sn=cda1b3d3e5fb5179e1e999897a41ca67"
+  },
+  {
+    "id": "mvn27gv5ss661q",
+    "date": "2026-10-23",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "刚刚，你每天在用的Skills发生了一件大事",
+    "summary": "竞争正在向模型之下的基础设施延伸。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651069672&idx=2&sn=068a7cc38c194f505ebebf54e913d5fc"
+  },
+  {
+    "id": "mvn27gv59k11jg",
+    "date": "2026-10-23",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "FP4 W/A+FP4 KV的强化学习也能「又快又稳」：阿里千问提出TRACE，Rollout最高加速5.4倍",
+    "summary": "用 Rollout 侧真实的 FP4 量化结果，反过来指导训练侧的舍入方向。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651069672&idx=3&sn=6b461b4dbff4fd3f156ce081b60ac69e"
+  },
+  {
     "id": "mvlnbsw9szs304",
     "date": "2026-10-23",
     "sourceType": "portal",
