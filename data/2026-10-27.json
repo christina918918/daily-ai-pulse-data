@@ -1,0 +1,90 @@
+[
+  {
+    "id": "mvpzgeqj241xvg",
+    "date": "2026-10-27",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
+    "summary": "Jamieson Greer says the European Investment Bank’s historic loan to the aerospace group risks ‘violating’ the US-EU aircraft dealGlobal trade",
+    "url": "https://www.ft.com/content/f989f4aa-a986-4ced-ba51-fa85f396f06d?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mvpzgeqj5c2uru",
+    "date": "2026-10-27",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Meta plans $95bn stock offering to bankroll AI expansion",
+    "summary": "Chipmakers Nvidia, AMD and Broadcom will act as cornerstone investorsTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mvpzgeqjswve1w",
+    "date": "2026-10-27",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Microsoft offers buyouts to 60,000 staff",
+    "summary": "Tech giant moves to control costs and it spends up to $175bn on AI infrastructure this yearTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/2ef29406-f2f8-413f-81f6-5ae098c97569?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mvpzgeqjxlylu9",
+    "date": "2026-10-27",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "DWS to honour just 10% of redemption requests at flagship property fund",
+    "summary": "Cap imposed by Deutsche Bank’s asset manager aims to preserve liquidity and avoid gating fund altogetherInvestments",
+    "url": "https://www.ft.com/content/8868926c-3ee2-45e8-9705-0cb195fcc493?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mvpzgeqjr0zjmb",
+    "date": "2026-10-27",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing",
+    "summary": "Prospectus details AI lab’s ‘mission’, $800bn data centre commitments and extraordinary governance structureTechnology sector, Artificial intelligence",
+    "url": "https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mvpzgeqjvtlhpn",
+    "date": "2026-10-27",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Why you shouldn’t bother reading the Anthropic IPO filing",
+    "summary": "Valuing AI lab based on its historic reported numbers is a fool’s errandTechnology sector",
+    "url": "https://www.ft.com/content/d2faa674-766b-4699-83d0-d1f9ed65edbf?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mvpzgetra1or9r",
+    "date": "2026-10-27",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra"
+  },
+  {
+    "id": "mvpzgf8zh2tkeu",
+    "date": "2026-10-27",
+    "sourceType": "company",
+    "sourceName": "Google Gemini",
+    "company": "Google Gemini",
+    "language": "en",
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
+  }
+]
