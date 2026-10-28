@@ -1,5 +1,16 @@
 [
   {
+    "id": "mvremaej2dh6dg",
+    "date": "2026-10-23",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+    "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
+    "url": "https://openai.com/index/anima"
+  },
+  {
     "id": "mvn27gv525odji",
     "date": "2026-10-23",
     "sourceType": "wechat",
