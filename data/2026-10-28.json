@@ -1,5 +1,82 @@
 [
   {
+    "id": "mvuaq5ch2erw8i",
+    "date": "2026-10-28",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+    "summary": "让基建作为常驻buff",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247936983&idx=1&sn=4f00f0370cb922a29f253b1bb840f045"
+  },
+  {
+    "id": "mvuaq5chztbthw",
+    "date": "2026-10-28",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "物理学也要被AI攻陷了？5道20多年量子公开问题被突破",
+    "summary": "最后一位MIT三学位天才出手了。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247936983&idx=2&sn=49a3e08f3694af825d66cb7b07655a32"
+  },
+  {
+    "id": "mvuaq5chdwxmqn",
+    "date": "2026-10-28",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "蚂蚁推出OCR大模型：同一架构实现全场景文本智能，2B参数也能打",
+    "summary": "卡证文档一站式智能解析",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247936983&idx=3&sn=b299d236ca85f160878fe79885b52b98"
+  },
+  {
+    "id": "mvuaq5chbemre5",
+    "date": "2026-10-28",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位2026人工智能年度榜单，正式启动！",
+    "summary": "报名通道已开启，欢迎参与！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247936983&idx=4&sn=504da409e10292f106f7d874b527c6d5"
+  },
+  {
+    "id": "mvuaq5ix37rvge",
+    "date": "2026-10-28",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "刚刚，国产开源AI横扫全球4项第一！1.3B逆袭大厂，OCR极限实测杀疯了",
+    "summary": "刚刚，国产开源AI横扫全球4项第一！1.3B逆袭大厂，OCR极限实测杀疯了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652738823&idx=1&sn=8314f016dcf001684d4c90d8273981af"
+  },
+  {
+    "id": "mvuaq5ixmujw8k",
+    "date": "2026-10-28",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "「软件已死」？独立开发大佬退订几乎所有工作软件：要啥让AI造",
+    "summary": "卖软件的人先不买软件了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652738823&idx=2&sn=72150f83aa75e1f19851c855bce9ebca"
+  },
+  {
+    "id": "mvuaq5ixwfqsdz",
+    "date": "2026-10-28",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "EMNLP'26｜GPT也不会「读空气」，狼人杀基准测出社交盲区",
+    "summary": "EMNLP'26｜GPT也不会「读空气」，狼人杀基准测出社交盲区",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652738823&idx=3&sn=32e64997491fda2d8662518272f893b9"
+  },
+  {
     "id": "mvsv8l802gs971",
     "date": "2026-10-28",
     "sourceType": "portal",
