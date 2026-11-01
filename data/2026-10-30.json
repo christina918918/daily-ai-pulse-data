@@ -1,5 +1,115 @@
 [
   {
+    "id": "mvx3ri27xxfgc1",
+    "date": "2026-10-30",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
+    "summary": "之前还连登昇腾三榜第一",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247937794&idx=1&sn=eb7b252280463f0c541972a4be579478"
+  },
+  {
+    "id": "mvx3ri27qrgkej",
+    "date": "2026-10-30",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
+    "summary": "新版“机器人三定律”。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247937794&idx=2&sn=1362519dbd3d19b6262f592c89af3ac1"
+  },
+  {
+    "id": "mvx3ri27z3r1sy",
+    "date": "2026-10-30",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位2026人工智能年度榜单，正式启动！",
+    "summary": "报名通道已开启，欢迎参与！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247937794&idx=3&sn=2cd9cae432014223769524ca414e18ec"
+  },
+  {
+    "id": "mvx3ri27blwp32",
+    "date": "2026-10-30",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247937794&idx=4&sn=8f05ed1d3240f53aa641bf3af3ba981d"
+  },
+  {
+    "id": "mvx3ri61agydr4",
+    "date": "2026-10-30",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "独家｜刚刚，启元PrimeSim世界模型，登顶两大机器人权威榜单",
+    "summary": "3 万小时训练数据、兼容 22 类机器人本体、具备跨本体few-shot泛化能力。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071154&idx=1&sn=fc8decaaf9bc54e43d1721d8c2c16a77"
+  },
+  {
+    "id": "mvx3ri61cfcr4l",
+    "date": "2026-10-30",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Claude Code：别再给Claude过多提示词了...",
+    "summary": "与 AI 俱进",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071154&idx=2&sn=8883e8611c44cb9dc05fb1a9c0ec7f2c"
+  },
+  {
+    "id": "mvx3ri61og795y",
+    "date": "2026-10-30",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "最强模型准确率仅39%！当Deep Search真正进入复杂的真实互联网",
+    "summary": "新的深度搜索任务范式 OpenDS 及面向真实开放网络环境的评测基准 OpenDS-World",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071154&idx=3&sn=3c6e24a8fd2c36f338ee855bde59e312"
+  },
+  {
+    "id": "mvx3ri9s8wndy6",
+    "date": "2026-10-30",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "GPT-6「看不懂 3D」实锤！250道题只拿0.53分，Claude没及格",
+    "summary": "AI会画3D，却未必看得懂3D科学世界。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652739321&idx=1&sn=4650d4aa51ac0aeb8d065674aa5dda1a"
+  },
+  {
+    "id": "mvx3ri9s8bmi1f",
+    "date": "2026-10-30",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "重磅！AI补全人类史上最大数学证明，数学家当场泪崩",
+    "summary": "重磅！AI补全人类史上最大数学证明，数学家当场泪崩",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652739321&idx=2&sn=89a62a3f6714857e4b2a03813f317395"
+  },
+  {
+    "id": "mvx3ri9s5izx3w",
+    "date": "2026-10-30",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "离开人类，AI能独自活下去么？从图灵测试到「鲁滨逊测试」",
+    "summary": "离开人类，AI能独自活下去么？从图灵测试到「鲁滨逊测试」",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652739321&idx=3&sn=3520f85a4a99d9338baf0af86ea24513"
+  },
+  {
     "id": "mvvpxcqxerx4ec",
     "date": "2026-10-30",
     "sourceType": "portal",
