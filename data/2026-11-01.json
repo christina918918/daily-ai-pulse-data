@@ -1,5 +1,126 @@
 [
   {
+    "id": "mvykejtk101d0n",
+    "date": "2026-11-01",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "US critical minerals push delivers a gold rush — for Washington lobbyists",
+    "summary": "Billions in government backing have produced a flurry of deals but little increase in domestic production Global trade",
+    "url": "https://www.ft.com/content/e89a420d-3a93-402f-ab0d-461476cf23ce?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mvykejtkwgujju",
+    "date": "2026-11-01",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Bond investors sit out ‘most consequential’ US midterm elections in years",
+    "summary": "Big fund managers are pressing ‘pause’ as vote and economic data releases loomArtificial intelligence, Investments",
+    "url": "https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mvykemukuljayp",
+    "date": "2026-11-01",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "AI泡裂纳指崩了！OpenAI融资暴雷，A社被华尔街「垃圾」评级",
+    "summary": "硅谷双子星罕见撞墙",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247938104&idx=1&sn=07baf47b162698adf54259087041fad8"
+  },
+  {
+    "id": "mvykemuk4jzq1i",
+    "date": "2026-11-01",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "Jev新成果，再次引爆开源",
+    "summary": "找个人只要6分钱了？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247938104&idx=2&sn=dcf2c4ed91de12619804ad36acd8dcdb"
+  },
+  {
+    "id": "mvykemy5ucedye",
+    "date": "2026-11-01",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "24项真机硬碰硬！不靠大规模机器人预训练，Fysiverse-UniWAM拿下导航、移动操作双第一",
+    "summary": "一个模型包揽导航、停靠、抓取，国产具身智能有新进展",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071440&idx=1&sn=913d398a504d3e029db48cde218437a2"
+  },
+  {
+    "id": "mvykemy5rkg0u9",
+    "date": "2026-11-01",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Tibo 28连更后，OpenAI合并额度池，计费聊天开始了",
+    "summary": "从「重置公司」到「token 公司」，Tibo 一语成谶",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071440&idx=2&sn=06d8aa900e443f086c007d9ee4de9789"
+  },
+  {
+    "id": "mvykemy5nh3xv1",
+    "date": "2026-11-01",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "混合架构用线性注意力还是滑窗注意力？复旦创智OpenMOSS团队：我全都要",
+    "summary": "混合架构为什么有效，以及怎样设计得更有效？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071440&idx=3&sn=ac0f863b4725bef4e45e4453d7e081e3"
+  },
+  {
+    "id": "mvyken25v7l788",
+    "date": "2026-11-01",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "DeepSeek刚发的下一代Agent，竟被这家硅谷团队提前半年实现了？",
+    "summary": "DeepSeek刚发的下一代Agent，竟被这家硅谷团队提前半年实现了？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652739563&idx=1&sn=add84021d4d561d4c4959925672ede3c"
+  },
+  {
+    "id": "mvyken2576knb9",
+    "date": "2026-11-01",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "数亿美元做数学！奥特曼：OpenAI还有发现没公开",
+    "summary": "数亿美元做数学！奥特曼：OpenAI还有发现没公开",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652739563&idx=2&sn=92a6903ec80819058f92c94794d6ddf4"
+  },
+  {
+    "id": "mvyken255bz1dd",
+    "date": "2026-11-01",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "AI进屋后，下一眼该看哪？观察智能体如何建立三维空间认知",
+    "summary": "AI进屋后，下一眼该看哪？观察智能体如何建立三维空间认知",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652739563&idx=3&sn=ded4a80167d18ba0e5bd980b5b1055d4"
+  },
+  {
+    "id": "mvyken5cymuqc6",
+    "date": "2026-11-01",
+    "sourceType": "wechat",
+    "sourceName": "42章经",
+    "company": "",
+    "language": "zh",
+    "title": "少有的同时做过 Agent、多模态和具身的人 | 42章经",
+    "summary": "Astra 可能是具身的 GPT-3 时刻",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMDE5OTYyMw==&mid=2651051692&idx=1&sn=24aaa447607b85bcec869063a3cec936"
+  },
+  {
     "id": "mvx3re0sye57x8",
     "date": "2026-11-01",
     "sourceType": "portal",
