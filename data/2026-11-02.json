@@ -1,5 +1,38 @@
 [
   {
+    "id": "mw1gohnhja5we2",
+    "date": "2026-11-02",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "顶级AI研究员的下一个机会在哪？",
+    "summary": "VAST 发布新一期 V・STAR 顶尖人才计划",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071630&idx=1&sn=a5c21e20ab98da774eb96ebb74203a1b"
+  },
+  {
+    "id": "mw1gohnh7803iv",
+    "date": "2026-11-02",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "LeCun证明了：规模从未起作用，下一token路线效率低",
+    "summary": "「我训练了1亿参数模型，打败了720亿的LLM。」",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071630&idx=2&sn=0faea44c57b2196395b8f21320fc3bc3"
+  },
+  {
+    "id": "mw1gohnhj8d5hm",
+    "date": "2026-11-02",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "CoRL 2026｜浙大联合TeleAI提出GR-BC，用图搜索从机器人试错中找出有效动作",
+    "summary": "有望帮助策略学习偏差纠正与受挫恢复，为更鲁棒的机器人操作提供支持。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071630&idx=3&sn=eb53a9e986917c63fb1231d3ec554c30"
+  },
+  {
     "id": "mw048whd3oz4sh",
     "date": "2026-11-02",
     "sourceType": "portal",
