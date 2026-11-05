@@ -1,5 +1,126 @@
 [
   {
+    "id": "mw2wc9glo9tey1",
+    "date": "2026-11-03",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+    "summary": "7×24小时自主运行",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247938867&idx=1&sn=2e4bfe5f8c1d747e934a71a3596a8222"
+  },
+  {
+    "id": "mw2wc9gl8godte",
+    "date": "2026-11-03",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+    "summary": "长视频记忆精度飙升，问答时延最高降97%",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247938867&idx=2&sn=62da0a5791d0bc503d4895599019174d"
+  },
+  {
+    "id": "mw2wc9gl8ygb2p",
+    "date": "2026-11-03",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "脑机接口玩家打《艾尔登法环》，把B站百大UP主虐菜了",
+    "summary": "500颗大脑和人造的太阳！阿B在首钢园捣鼓了些什么好东西？？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247938867&idx=3&sn=2e8ba001cb8a5a6dd70ceae69c420876"
+  },
+  {
+    "id": "mw2wc9gl046obj",
+    "date": "2026-11-03",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
+    "summary": "今年12月，北京，MEET2027智能未来大会！",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247938867&idx=4&sn=b86326d98fb209db97618b0912fbe072"
+  },
+  {
+    "id": "mw2wc9glmb4g2o",
+    "date": "2026-11-03",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "量子位编辑作者招聘",
+    "summary": "3个岗位（含实习），不设边界",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247938867&idx=5&sn=ed0698f84cdf23a3f7133e94a5c0e0ed"
+  },
+  {
+    "id": "mw2wc9jt0342lw",
+    "date": "2026-11-03",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "具身智能的下一个主战场，为什么是「仓储物流」？",
+    "summary": "谁能把机器人变成整仓生产力？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071984&idx=1&sn=a21668592af67a5670548f881a042de3"
+  },
+  {
+    "id": "mw2wc9jtwoo1dp",
+    "date": "2026-11-03",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "便利店打工24小时后，智元两名机器人员工「转正」失败",
+    "summary": "机器人在便利店的 24 小时直播结束了，但由真实场景牵引的机器人，才刚刚开始。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071984&idx=2&sn=0fa8db8b5270b28fa06cf816a062d61e"
+  },
+  {
+    "id": "mw2wc9jt8vielv",
+    "date": "2026-11-03",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "NeurIPS 2026｜离散数据也能一步生成？ReSFlow在统计流形上「拉直」生成路径",
+    "summary": "要让生成路径「走直」，首先需要按照数据所在空间的几何，定义什么是「直」。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071984&idx=3&sn=98399c058237b5901b84c20786f9cdb7"
+  },
+  {
+    "id": "mw2wc9nv6ziezk",
+    "date": "2026-11-03",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "老黄狂吹的AI神话，正被底座卡死！没这条「大动脉」，买显卡全白搭",
+    "summary": "老黄狂吹的AI神话，正被底座卡死！没这条「大动脉」，买显卡全白搭",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652739976&idx=1&sn=4984f848baf1878b87e8e908d0e0ef4b"
+  },
+  {
+    "id": "mw2wc9nvqa2hs3",
+    "date": "2026-11-03",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "GPT-6爆改模型权重！数学能力狂飙6倍，MIT博一新作破圈了",
+    "summary": "GPT-6爆改模型权重！数学能力狂飙6倍，MIT博一新作破圈了",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652739976&idx=2&sn=82c29e8da23f98cdd6270ddbb2714244"
+  },
+  {
+    "id": "mw2wc9nvto66g3",
+    "date": "2026-11-03",
+    "sourceType": "wechat",
+    "sourceName": "新智元",
+    "company": "",
+    "language": "zh",
+    "title": "清华Nature子刊：上千智能体组网后自发站队，观点极化涌现",
+    "summary": "清华Nature子刊：上千智能体组网后自发站队，观点极化涌现",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652739976&idx=3&sn=46f6e55b9c8fa53315068bd20705224b"
+  },
+  {
     "id": "mw1godgzjrsuny",
     "date": "2026-11-03",
     "sourceType": "portal",
