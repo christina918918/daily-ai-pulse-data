@@ -1,5 +1,60 @@
 [
   {
+    "id": "mwcxx34tmxvnvr",
+    "date": "2026-11-10",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+    "url": "https://openai.com/index/singapore-airlines-travel-work"
+  },
+  {
+    "id": "mwcxx34t9dpeq7",
+    "date": "2026-11-10",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+    "url": "https://openai.com/index/cogent-security"
+  },
+  {
+    "id": "mwcxx67filso3e",
+    "date": "2026-11-10",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Fable 5.2 徒手玩魔方？有了大模型，硅谷大厂还缺什么数据",
+    "summary": "具身数据采集不必一套设备走天下，三种模式，兼顾规模、动作细节与触觉精度。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651073491&idx=1&sn=32a281ee4ab01783c448fdc49ce20fd0"
+  },
+  {
+    "id": "mwcxx67fz96nhf",
+    "date": "2026-11-10",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "机器人版「苦涩的教训」来了？  Claude 5.2操作性能大涨，前Optimus研究员加盟",
+    "summary": "Anthropic 做机器人是认真的",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651073491&idx=2&sn=ced8463f39aaf80a79e1aeffe1305ae9"
+  },
+  {
+    "id": "mwcxx67fhsxhv7",
+    "date": "2026-11-10",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "不靠外部裁判，统一多模态模型学会自己「看图改图」：修复成功率提升到3倍，GenEval 0.72→0.84",
+    "summary": "同一个模型写出诊断、再按诊断重画，推理时不再需要任何外部打分器。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651073491&idx=3&sn=b6814108953b35e12764216d29097516"
+  },
+  {
     "id": "mwbgd5056h5pzw",
     "date": "2026-11-10",
     "sourceType": "portal",
