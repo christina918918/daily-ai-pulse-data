@@ -1,5 +1,82 @@
 [
   {
+    "id": "mwfr9ixj4brg8k",
+    "date": "2026-11-12",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "70+机器人公司投出具身第一云：优化Ego视频位姿恢复，砍掉43%GPU用时",
+    "summary": "具身数据迈向百万小时，百度智能云加速模型迭代",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247943628&idx=1&sn=d20f3d68729aad76e6db84be5e78cf35"
+  },
+  {
+    "id": "mwfr9ixjrcm5sb",
+    "date": "2026-11-12",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "都2026了，腾讯居然又做了个搜索引擎？！",
+    "summary": "广告可以折叠，权威信源优先",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247943628&idx=2&sn=865d1119d0c0da8b9fb33746ca40aff4"
+  },
+  {
+    "id": "mwfr9ixk2zg6ti",
+    "date": "2026-11-12",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "深度研究准确率提升4.97个百分点！清华腾讯让Agent学会“论功行赏”",
+    "summary": "改进长程Agent信用分配",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247943628&idx=3&sn=6ec759519a3e8c7abff10b79041a286d"
+  },
+  {
+    "id": "mwfr9ixk6o27aq",
+    "date": "2026-11-12",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
+    "summary": "量子位在寻找“能干”的答案",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247943628&idx=4&sn=3afcdd641d060802b837c07e7aba651d"
+  },
+  {
+    "id": "mwfr9j0z95qmc0",
+    "date": "2026-11-12",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "10秒生成4K图：MiniMax再次拿出开源SOTA",
+    "summary": "「GPT is cooked.」",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074135&idx=1&sn=94195be03009adcb3b3e390782573b38"
+  },
+  {
+    "id": "mwfr9j0zshz6xj",
+    "date": "2026-11-12",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "Grok Bot 1.0正式发布！马斯克教AI和你的团队一起工作",
+    "summary": "你的下一个同事，何必是同事？",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074135&idx=2&sn=2019b2d7e4f158bb07852a889f5a7b17"
+  },
+  {
+    "id": "mwfr9j0zqdjqf3",
+    "date": "2026-11-12",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "64张B300、不到5天，FireFlash比肩Fable 5与GPT-6Sol，单任务成本低30倍！",
+    "summary": "FireFlash 公开长程智能体 RL 完整配方",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651074135&idx=3&sn=f702c61a40c6ebe66be517d551e8d6b6"
+  },
+  {
     "id": "mweco2lg9tucv2",
     "date": "2026-11-12",
     "sourceType": "portal",
