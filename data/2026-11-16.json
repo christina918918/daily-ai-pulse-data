@@ -1,5 +1,60 @@
 [
   {
+    "id": "mwljvvscq1zdop",
+    "date": "2026-11-16",
+    "sourceType": "company",
+    "sourceName": "OpenAI",
+    "company": "OpenAI",
+    "language": "en",
+    "title": "How Revolut raises ambition without lowering the bar",
+    "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+    "url": "https://openai.com/business/customer-stories/revolut"
+  },
+  {
+    "id": "mwljvy5ihib01g",
+    "date": "2026-11-16",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
+    "summary": "从大模型到机器人，RL Envs正在成为物理AI的新基建。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247944324&idx=1&sn=884bda38a771262124e14a45cff2f170"
+  },
+  {
+    "id": "mwljvy5itwa6hm",
+    "date": "2026-11-16",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "Claude破解千页哥德尔手稿：80年前他差一步拿菲尔兹奖",
+    "summary": "「天书」里挖出663个定理",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247944324&idx=2&sn=aa3eb0414935136d02e8999ce363f0b1"
+  },
+  {
+    "id": "mwljvy5i69p5m3",
+    "date": "2026-11-16",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "长视频推理耗时减半！中大、港理工等提出免训练压缩新方法｜NeurIPS'26",
+    "summary": "仅用1/4视觉Token，保住98.2%模型表现",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247944324&idx=3&sn=0ec2b49fbc70dea4c1fc90bbcd164d64"
+  },
+  {
+    "id": "mwljvy5ir456wh",
+    "date": "2026-11-16",
+    "sourceType": "wechat",
+    "sourceName": "量子位",
+    "company": "",
+    "language": "zh",
+    "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+    "summary": "12.9 北京，来MEET2027现场",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247944324&idx=4&sn=a985ab5cded5e6c9d4ad753dbb2dd44c"
+  },
+  {
     "id": "mwk6lkdztll25y",
     "date": "2026-11-16",
     "sourceType": "portal",
