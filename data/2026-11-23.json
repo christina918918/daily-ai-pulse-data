@@ -1,0 +1,68 @@
+[
+  {
+    "id": "mwsmqd8j6sap5m",
+    "date": "2026-11-23",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "AI Bubble Deflating? Dell, Workday on Deck",
+    "summary": "Friday’s tech stock bloodbath prompted much gnashing of teeth over the weekend. With stocks most exposed to AI—such as Nvidia, AMD, Broadcom, neoclouds such as CoreWeave, Nebius—falling in the 12-16% range, and Anthropic tanking on its second day of trading, it felt like the air has finally gone out",
+    "url": "https://www.theinformation.com/articles/ai-bubble-deflating-dell-workday-deck"
+  },
+  {
+    "id": "mwsmqd8jr0x7ao",
+    "date": "2026-11-23",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "OpenAI Calls For Leading AI Firms to Agree on AI Development Limits",
+    "summary": "OpenAI’s chief scientist called for leading AI model developers to agree on limits that they won’t cross “until our ability to understand and monitor AI behavior achieve a certain concrete milestone.” “I’d like an industry standard that specifies a first limit on development, measured by some ...",
+    "url": "https://www.theinformation.com/briefings/openai-calls-leading-ai-firms-agree-ai-development-limits"
+  },
+  {
+    "id": "mwsmqd8jkiv7ar",
+    "date": "2026-11-23",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t",
+    "summary": "INDIANA, Penn.—A visit this week to an Amazon data center project in Pennsylvania coal country gave me a glimpse of the era we all knew was coming: when tech giants lay claim to some of the hardest-to-secure AI infrastructure while smaller cloud providers, which Nvidia has propped up financially, ar",
+    "url": "https://www.theinformation.com/articles/amazon-plays-long-expensive-data-center-game-neoclouds"
+  },
+  {
+    "id": "mwsmqd8k4xm4ii",
+    "date": "2026-11-23",
+    "sourceType": "portal",
+    "sourceName": "The Information",
+    "company": "",
+    "language": "en",
+    "title": "How Apple Got Caught Up in Google Search Ads Slowdown",
+    "summary": "Google’s shares have fallen 18% since the company reported a sharp slowdown in search advertising revenue growth stemming in part from the increased popularity of its AI features. Google isn’t the only tech company feeling the pain from that shift.\n\nGrowth in Apple’s services revenue, which includes",
+    "url": "https://www.theinformation.com/articles/apple-got-caught-google-search-ads-slowdown"
+  },
+  {
+    "id": "mwsmqdxltm7m6u",
+    "date": "2026-11-23",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Tech stock sell-off deepens in Asia",
+    "summary": "A more than 3% slide in Korea follows Friday’s heavy Wall Street declinesTechnology sector, Global trade",
+    "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  },
+  {
+    "id": "mwsmqdxlfr914k",
+    "date": "2026-11-23",
+    "sourceType": "portal",
+    "sourceName": "Financial Times",
+    "company": "",
+    "language": "en",
+    "title": "Scott Bessent refuses to rule out Jensen Huang’s return to Nvidia",
+    "summary": "Treasury secretary says it depends ‘where the buck stops’ as US president calls for former chief’s reinstatementTechnology sector",
+    "url": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?segmentId=776b81d7-dd92-c731-e669-99cdd37d3a96#myft:my-news:rss"
+  }
+]
