@@ -1,5 +1,38 @@
 [
   {
+    "id": "mwzv6304p2a38s",
+    "date": "2026-11-26",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "SteerSound：迈向更可靠的音频编辑",
+    "summary": "一个模型完成六类音频编辑，改错声音的比例下降七成以上。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076468&idx=3&sn=f12338e3ac2c0ac570f87aa9337689c5"
+  },
+  {
+    "id": "mwzv6304vp8bzx",
+    "date": "2026-11-26",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "传RSA已被OpenAI与Anthropic攻破，互联网加密要变天了？",
+    "summary": "支撑现代互联网安全近半个世纪的数学假设，可能要被 AI 推翻了。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076468&idx=2&sn=133ad9665035bc5be0491b4357010b3a"
+  },
+  {
+    "id": "mwzv6304elccr0",
+    "date": "2026-11-26",
+    "sourceType": "wechat",
+    "sourceName": "机器之心",
+    "company": "",
+    "language": "zh",
+    "title": "告别「假精细」！VAST发布Tripo H3.5 Preview，AI建模开始较真了",
+    "summary": "打破 AI 3D 的「虚假精细」。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076468&idx=1&sn=f93a604b241936b7a44c45d2e29a76ac"
+  },
+  {
     "id": "mwyg78tyfcqmyb",
     "date": "2026-11-26",
     "sourceType": "portal",
